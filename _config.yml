@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Nick Giles
+bio: UX designer; building things with pixels.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Check out what I've been working on..
 
 # if it's an external image, update below for true
 # better with square images
@@ -50,15 +50,15 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: nicholasdgiles@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Nick Giles
+    bio: UX designer; building things with pixels.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: ngiles
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
