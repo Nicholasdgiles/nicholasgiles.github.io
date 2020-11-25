@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1U_KwB3tZTlnnuAGiEPkN0lIc5way3Hq9/view?usp=sharing
 
 url: https://nicholasgiles.com/
 # your url: https://USERNAME.github.io
@@ -38,7 +38,7 @@ disqus:
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/nicholasdgiles
+linkedin: nicholasdgiles
 # youtube: myyoutube
 # spotify: myspotify
 # github: mygithub
