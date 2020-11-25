@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://nicholasdgiles.github.io/nickdgiles.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -30,16 +30,16 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname: #mydisqus # enter this from your disqus account
+  categories: #[blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
+linkedin: mylinkedin
+youtube: myyoutube
 # spotify: myspotify
 github: mygithub
 # gitlab: mygitlab
@@ -55,7 +55,7 @@ email: nicholasdgiles@gmail.com
 authors:
   johndoe:
     name: Nick Giles
-    bio: UX designer; building things with pixels.
+    bio: UX designer, using pixels to build things.
     external-image: false
     picture: assets/images/profile.jpg
     twitter: ngiles
@@ -84,7 +84,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
