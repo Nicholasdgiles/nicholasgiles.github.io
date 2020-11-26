@@ -2,6 +2,8 @@
 title: About
 layout: page
 ---
+# Nick Giles (he-they)
+## UX Designer, University of Michigan MSI student, and pixel specialist.
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

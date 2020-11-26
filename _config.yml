@@ -1,6 +1,6 @@
 # main text of home
-name: Nick Giles
-bio: UX designer; building things with pixels.
+name: Nick Giles (he-they)
+bio: UX designer, student, human being.
 
 # twitter summary info
 description: Check out what I've been working on..
@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/1U_KwB3tZTlnnuAGiEPkN0lIc5way3Hq9/view?usp=sharing
+resume: false
+resume-external: #true
+resume-url: #https://drive.google.com/file/d/1U_KwB3tZTlnnuAGiEPkN0lIc5way3Hq9/view?usp=sharing
 
 url: https://nicholasgiles.com/
 # your url: https://USERNAME.github.io
