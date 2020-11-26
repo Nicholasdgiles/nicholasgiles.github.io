@@ -2,7 +2,7 @@
 title: ":trophy: TransUnion Hackathon"
 layout: post
 date: 2015-05-23 22:10
-tag: mobile, web
+tag:
 image: #
 headerImage: false
 projects: true
