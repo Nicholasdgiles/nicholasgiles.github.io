@@ -1,13 +1,15 @@
 ---
 title: ":trophy: TransUnion Hackathon"
 layout: post
-date: 2015-05-23 22:10
+date: 2015-05-23 22:12
 tag:
+- mobile
+- web
 image: #
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "TransUnion 2015 hackathon mobile app."
+description: "TransUnion 2015 hackathon mobile application."
 category: project
 author: johndoe
 externalLink: false
