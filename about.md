@@ -12,7 +12,7 @@ layout: page
 
 <p>Hello there, my name is Nick Giles, he/they pronouns. Welcome to my portfolio! I am currently an MSI (UX-HCI) Candidate at the University of Michigan School of Information, studying UX design & research.</p>
 
-<h2>Skills</h2>
+<h2>Software Proficiency</h2>
 
 <ul class="skill-list">
 	<li>Sketch</li>
@@ -20,10 +20,4 @@ layout: page
 	<li>Adobe Creative Suite</li>
 </ul>
 
-<p> Take a look at at some of the projects I've been working on recently.</p>
-
-<h2>Recent Projects</h2>
-
-<ul class="skill-list">
-	<li><a href="https://github.com/">TransUnion Hackathon</a></li>
-</ul>
+<p>Take a look at at some of the [projects][https://nicholasgiles.com/projects/] I've been working on.</p>
