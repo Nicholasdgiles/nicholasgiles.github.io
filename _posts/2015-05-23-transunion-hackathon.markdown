@@ -2,7 +2,7 @@
 title: ":trophy: TransUnion Hackathon"
 layout: post
 date: 2015-05-23 22:10
-tag: mobile
+tag: mobile, web
 image: #
 headerImage: false
 projects: true
@@ -14,7 +14,7 @@ externalLink: false
 ---
 <img src="http://nicholasgiles.com/assets/images/transunion1.png" alt="TransUnion Mobile App">
 
-<p> As a UI/UX designer on the TransUnion 2015 hackathon Team Hackasaurus Rex, I designed the user interface of the web and iOS application and contributed to the marketing and ideation process. In order for our project to be easily integrated into TU’s existing services, the UI was designed to comply with branding guidelines down to pixel perfect detail. </p>
+<p>As a UI/UX designer at the TransUnion 2015 hackathon, I worked with a team to wireframe and prototype a web and mobile iOS application. I also designed the user interface assets that were implemented into the final working prototype. In order for our project to be easily integrated into TransUnion’s existing services, the UI was designed to comply with branding guidelines down to pixel perfect detail.</p>
 
 <img src="http://nicholasgiles.com/assets/images/transunion2.jpg" alt="Wireframes">
 
@@ -28,4 +28,4 @@ Skills I developed working on this project:
 	<li>wireframing</li>
 </ul>
 
-Check out TransUnion [here](www.transunion.com).
+Check out TransUnion <a href="https://www.transunion.com">here</a>.
