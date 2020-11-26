@@ -9,6 +9,7 @@ layout: page
 
 <img src="http://nicholasgiles.com/assets/images/profile.jpg" alt="Profile Image">
 
+
 <p>Hello there, my name is Nick Giles, he/they pronouns. Welcome to my portfolio! I am currently an MSI (UX-HCI) Candidate at the University of Michigan School of Information, studying UX design & research.</p>
 
 <h2>Skills</h2>
@@ -24,7 +25,5 @@ layout: page
 <h2>Recent Projects</h2>
 
 <ul class="skill-list">
-	<li><a href="https://github.com/">Link 1</a></li>
-	<li><a href="https://github.com/">Link 2</a></li>
-	<li><a href="https://github.com/">Link 3</a></li>
+	<li><a href="https://github.com/">TransUnion Hackathon</a></li>
 </ul>
