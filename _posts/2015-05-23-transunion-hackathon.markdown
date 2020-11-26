@@ -13,7 +13,7 @@ author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://www.nicholasgiles.com/assets/images/transunion1.png)
+<img src="https://www.nicholasgiles.com/assets/images/transunion1.png>
 
 <p> As a UI/UX designer on the TransUnion 2015 hackathon Team Hackasaurus Rex, I designed the user interface of the web and iOS application and contributed to the marketing and ideation process. In order for our project to be easily integrated into TU’s existing services, the UI was designed to comply with branding guidelines down to pixel perfect detail. </p>
 
@@ -21,11 +21,14 @@ externalLink: false
 
 ---
 
-Skills I worked on in this project:
+Skills I developed working on this project:
 
-- UI/UX design
-- graphic design
-- wireframing
+<ul class="skill-list">
+	<li>UI/UX design</li>
+	<li>graphic design</li>
+	<li>wireframing</li>
+</ul>
+
 ---
 
 Check out TransUnion [here](www.transunion.com).
