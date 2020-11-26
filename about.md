@@ -7,9 +7,7 @@ layout: page
 <h2 class="description">UX Designer, University of Michigan MSI student, and pixel specialist.</h2>
 </header>
 
-<p>
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-</p>
+<img src="http://nicholasgiles.com/assets/images/profile.jpg" alt="Profile Image">
 
 <p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
