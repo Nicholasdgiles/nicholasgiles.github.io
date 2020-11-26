@@ -3,8 +3,8 @@ title: About
 layout: page
 ---
 <header class="header-home">
-<h1 class="title">Nick Giles (he-they)</h1>
-<h2 class="description">UX Designer, University of Michigan MSI student, and pixel specialist.</h2>
+<h1 class="title">Nick Giles</h1>
+<h2 class="description">UX designer, student, pixel enthusiast, he/they.</h2>
 </header>
 
 <img src="http://nicholasgiles.com/assets/images/profile.jpg" alt="Profile Image">
