@@ -20,4 +20,4 @@ layout: page
 	<li>Adobe Creative Suite</li>
 </ul>
 
-<p>Take a look at at some of the [projects][https://nicholasgiles.com/projects/] I've been working on.</p>
+<p>Take a look at at some of the <a href="https://nicholasgiles.com/projects/">projects</a> I've been working on.</p>
