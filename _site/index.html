@@ -243,7 +243,7 @@ a { color: #222; text-decoration: underline; }
 p { line-height: 1.7; color: #666; font-weight: 300; margin-bottom: 20px; letter-spacing: 0.4px; }
 @media only screen and (max-width: 400px) { p { letter-spacing: 0.2px; } }
 
-strong { font-weight: 400; color: #000; }
+strong { font-weight: 800; color: #000; }
 
 ul li, ol li { line-height: 2.4rem; font-weight: 300; color: #666; }
 
@@ -362,12 +362,12 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
 .header-home > .link > .selfie { width: 125px; height: 125px; margin-bottom: 25px; border-radius: 100%; transition: all 0.2s; opacity: 1; }
 .header-home > .link > .selfie:hover { box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 0.18), 0 0px 12px 0 rgba(0, 0, 0, 0.15); opacity: 0.8; }
 .header-home > .title { font-size: 4rem; margin: 0 0 13px; font-weight: 800; }
-.header-home > .description { font-size: 1.8rem; font-weight: 600; font-style: normal; width: 70%; margin: 0 auto 30px; }
+.header-home > .description { font-size: 1.8rem; font-weight: 400; font-style: normal; width: 70%; margin: 0 auto 30px; }
 .header-home > .description a { font-weight: 200; }
 
 .nav > .list, .nav-home > .list { list-style: none; margin: 0; padding: 0 13px 0; }
 .nav > .list > .item, .nav-home > .list > .item { display: inline-block; }
-.nav > .list > .item > .link, .nav-home > .list > .item > .link { display: inline-block; font-weight: 600; font-size: 1.4rem; padding: 20px 10px; text-decoration: none; }
+.nav > .list > .item > .link, .nav-home > .list > .item > .link { display: inline-block; font-weight: 400; font-size: 1.4rem; padding: 20px 10px; text-decoration: none; }
 
 .nav { position: absolute; right: 0; top: 0; }
 .nav > .list { padding: 0 13px 0; }
@@ -378,7 +378,9 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
 .nav-home > .list > .item > .link { font-size: 2rem; padding: 7px 15px; margin: 0; border-radius: 4%; transition: all 0.4s ease-in-out; width: 70px; }
 .nav-home > .list > .item > .link:hover { color: #666; }
 
-.evidence { background-image: linear-gradient(to bottom, peachpuff, peachpuff); }
+.evidence { background-image: linear-gradient(to bottom, transparent 0, transparent 60%, #ffdab9 60%, #ffdab9 100%); }
+
+.evidence:hover { background-image: none; background-color: #ffdab9; }
 
 .star > .url > .title { width: auto !important; display: inline; background-image: linear-gradient(rgba(39, 243, 106, 0.15), rgba(39, 243, 106, 0.15)); }
 
@@ -784,7 +786,7 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
 
 <h2 style="text-align:left; margin-bottom: 40px; line-height: 32px;">I am currently an MSI (UX-HCI) Candidate at the University of Michigan School of Information, studying UX research & design.</h2>
 
-<h2 style="text-align:left; margin-bottom: 72px; line-height: 32px;">Take a look at some of the <span class="evidence"><a href="https://nicholasgiles.com/projects/">projects</a></span> I've been working on.</h2>
+<h2 style="text-align:left; margin-bottom: 72px; line-height: 32px;">Take a look at some of the <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">projects</a></span> I've been working on.</h2>
 
 
 <footer class="footer-main">
