@@ -1,16 +1,14 @@
 ---
-title: "Markdown Extra Components"
+title: "VIReC Prototype Evaluation"
 layout: post
-date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
+date: 2020-12-18 22:48
+image: #
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- UX Research
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: ngiles
+description: VIReC prototype evaluation
 ---
 
 ## Summary:

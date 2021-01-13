@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: #true
 resume-external: #true
-resume-url: #https://drive.google.com/file/d/1U_KwB3tZTlnnuAGiEPkN0lIc5way3Hq9/view?usp=sharing
+resume-url: #https://drive.google.com/file/d/1lx8EygAQ998PMXyAYbc3aXEaW_W1f0-g/view?usp=sharing
 
 url: https://nicholasgiles.com/
 # your url: https://USERNAME.github.io
@@ -46,25 +46,13 @@ linkedin: nicholasdgiles
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
+# reddit: nicholaasdgiles
 # medium: medium
-# vimeo: myvimeo
+# vimeo: nicholasgiles
 # lanyrd: mylanyrd
 email: nicholasdgiles@gmail.com
+resume: https://drive.google.com/file/d/1kGpukFS5cHD-3jpKdgJrfhfoKtL9vBJP/view?usp=sharing
 
-authors:
-  johndoe:
-    name: Nick Giles
-    bio: UX designer, using pixels to build things.
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: ngiles
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -90,7 +78,7 @@ blog: false
 read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: #false
 
 # related posts inside a post?
 related: true

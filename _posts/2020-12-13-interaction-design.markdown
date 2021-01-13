@@ -172,7 +172,7 @@ For the final prototype, we took insights from our usability tests to make a num
 Using a color contrast assessment tool, we tested the color contrast of white text on the green background and realized that the contrast between our initial green color and white was not sufficient in order to satisfy Web Content Accessibility Guidelines (WCAG) and American Disabilities Act (ADA) requirements. We will need to adjust our colors to ensure we comply with these important guidelines and accessibility laws here in the U.S.
 
 Below you can find the final product slides we presented on our last day of class.
-<br>
+<br><br><br>
 <img src="http://nicholasgiles.com/assets/images/final-design.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Key Panels" />
 
 ---
