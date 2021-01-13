@@ -51,7 +51,7 @@ linkedin: nicholasdgiles
 # vimeo: nicholasgiles
 # lanyrd: mylanyrd
 email: nicholasdgiles@gmail.com
-resume: https://drive.google.com/file/d/1kGpukFS5cHD-3jpKdgJrfhfoKtL9vBJP/view?usp=sharing
+resume: Resume
 
 
 # do you want a larger site? change the option below
@@ -81,7 +81,7 @@ read-time: false
 show-tags: #false
 
 # related posts inside a post?
-related: true
+related: #
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]

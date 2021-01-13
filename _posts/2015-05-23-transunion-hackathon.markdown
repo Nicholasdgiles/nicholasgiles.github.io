@@ -2,14 +2,13 @@
 title: "TransUnion Hackathon"
 layout: post
 date: 2015-05-23 22:12
-tag: UX Design
+tag: UI Design
 image: #
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "TransUnion 2015 hackathon mobile application."
 category: project
-author: ngiles
 externalLink: false
 ---
 <img src="http://nicholasgiles.com/assets/images/transunion1.png" alt="TransUnion Mobile App">

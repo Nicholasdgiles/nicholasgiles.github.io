@@ -5,9 +5,8 @@ date: 2020-12-18 22:48
 image: #
 headerImage: false
 tag:
-- UX Research
+- NDA
 category: blog
-author: ngiles
 description: VIReC prototype evaluation
 ---
 
