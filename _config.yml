@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: #true
 resume-external: #true
-resume-url: #https://drive.google.com/file/d/1lx8EygAQ998PMXyAYbc3aXEaW_W1f0-g/view?usp=sharing
+resume-url: #Resume
 
 url: https://nicholasgiles.com/
 # your url: https://USERNAME.github.io
@@ -50,8 +50,9 @@ linkedin: nicholasdgiles
 # medium: medium
 # vimeo: nicholasgiles
 # lanyrd: mylanyrd
-email: nicholasdgiles@gmail.com
 resume: Resume
+email: nicholasdgiles@gmail.com
+
 
 
 # do you want a larger site? change the option below
