@@ -1,4 +1,193 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-02T20:10:40-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nick Giles</title><subtitle>Check out what I've been working on..</subtitle><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-08:00</published><updated>2016-02-24T22:48:00-08:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-12T23:02:50-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nick Giles</title><subtitle>Check out what I&apos;ve been working on..</subtitle><entry><title type="html">Backyard Mobile App</title><link href="http://localhost:4000/interaction-design/" rel="alternate" type="text/html" title="Backyard Mobile App" /><published>2020-12-13T20:54:00-08:00</published><updated>2020-12-13T20:54:00-08:00</updated><id>http://localhost:4000/interaction-design</id><content type="html" xml:base="http://localhost:4000/interaction-design/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/hero_backyard.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Hero Image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;design-problem&quot;&gt;Design Problem&lt;/h3&gt;
+
+&lt;p&gt;In the midst of the Covid-19 pandemic, small businesses in the United States are struggling to keep afloat. Consumers are increasingly relying on online shopping from large retailers such as Amazon. Through user interviews, we found there is a need for geographic-specific and centralized tool to guide consumers towards local business alternatives.&lt;/p&gt;
+
+&lt;p&gt;How can we enable people to (1) more easily divest from large retailers and businesses, and (2) discover and purchase products in their immediate area?&lt;/p&gt;
+
+&lt;h2&gt;&lt;img src=&quot;http://localhost:4000/assets/images/character_sketch.png&quot; alt=&quot;Backyard characters&quot; /&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;project-overview&quot;&gt;Project Overview&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Discipline: Interaction Design&lt;/li&gt;
+  &lt;li&gt;Course: SI 582 Interaction Design&lt;/li&gt;
+  &lt;li&gt;Duration: Aug. 2020 - Dec. 2020&lt;/li&gt;
+  &lt;li&gt;With: Lingyu Zhao, Seung Jun Kim, Xinyi Wang&lt;/li&gt;
+  &lt;li&gt;Tools Used: Sketch, Figma, Photoshop, Illustrator&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;approach&quot;&gt;Approach&lt;/h3&gt;
+
+&lt;p&gt;For the course project in SI 582: Interaction Design, teams spent the semester solving an interaction design problem with a user-centered design approach. We began by deciding upon a design problem and doing &lt;strong&gt;domain research&lt;/strong&gt;, and then creating interview protocol and conducting virtual &lt;strong&gt;user interviews&lt;/strong&gt;. After we went through the user feedback, we were able to align on a core set of features. From there, we crafted &lt;strong&gt;stakeholder personas&lt;/strong&gt; and user &lt;strong&gt;interaction scenarios&lt;/strong&gt; that were made into &lt;strong&gt;paper-prototypes&lt;/strong&gt;. Conducting &lt;strong&gt;usability tests&lt;/strong&gt; provided qualitative insights that we applied towards building &lt;strong&gt;wireframes&lt;/strong&gt;. Using Sketch and Figma, we then designed a &lt;strong&gt;high fidelity prototype&lt;/strong&gt;. After gathering additional user feedback, we iterated on the concepts to create a “final” version of the high fidelity prototype.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;research--discovery&quot;&gt;Research &amp;amp; Discovery&lt;/h3&gt;
+
+&lt;h4 id=&quot;domain-research&quot;&gt;Domain research&lt;/h4&gt;
+
+&lt;p&gt;We researched competitor services, websites, and applications in order to gain an understanding of the product landscape. We focused on Yelp (direct competitor), Threshold.us (parallel competitor), Shop (partial competitor), and Etsy (partial competitor). The criteria we looked at included usability, functionality, look &amp;amp; feel, good design, and accessibility. We ultimately found that:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;There are some easy-to-access guides and web applications dedicated to gathering information about ethical alternatives to large retailers.&lt;/li&gt;
+  &lt;li&gt;There is a lack of accessible tools that allow potential consumers to find small businesses’ brick and mortar or online shops.&lt;/li&gt;
+  &lt;li&gt;Many local businesses do have digital storefronts and an online presence but they are not all centralized in a single application.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Through analyzing competitor’s products, we found that many offered similar features, but none offered the exact combination of functionality that would solve for our design problem.&lt;/p&gt;
+
+&lt;h4 id=&quot;stakeholder-interviews&quot;&gt;Stakeholder Interviews&lt;/h4&gt;
+
+&lt;p&gt;Despite the pandemic, we were able to conduct user interviews, albeit remotely. We aligned on interview protocol and then each team member interviewed three potential users (a total of 12 users). We distilled all of our interviews and findings into the following insights:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Customer Experience:&lt;/strong&gt; Convenience, customer service, quality, and speed are some of the primary reasons why U.S. consumers buy from large online retailers over small businesses. These factors often outweigh ethics concerns depending on which social and economic issues resonate closely with the consumer.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Unique Offering:&lt;/strong&gt; Some U.S. consumers buy primarily from large online retailers, but still transact with direct-to-consumer brands that have unique product offerings &amp;amp; only sell via their own channels.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ethics &amp;amp; Values:&lt;/strong&gt; Many U.S. consumers say they don’t want to fund harmful activities and want to receive information on ethical &amp;amp; unethical business practices. Additionally, many find it important to be informed about unethical business practices (compared to ethical practices) in order to act on that information.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Information Access:&lt;/strong&gt; Some U.S. consumers access information about small businesses via mobile applications, such as Google products (search, chrome, maps), Instagram, and Yelp, as well as blogs and news sites. Some prefer to buy new apparel and groceries in brick &amp;amp; mortar stores in order to ensure quality, however, others are comfortable with shopping for these items online.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Word-of-Mouth:&lt;/strong&gt; Some U.S. consumers discover new, small businesses via word of mouth and social media content.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Safety:&lt;/strong&gt; The COVID-19 pandemic has made it more enticing to shop online due to safety concerns.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;stakeholder-personas&quot;&gt;Stakeholder Personas&lt;/h4&gt;
+
+&lt;p&gt;We crafted two personas, focusing on the motivations and obstacles that people may experience while shopping or managing a small business. These simplified personas helped us orient ourselves when making product decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/persona1_header.png&quot; alt=&quot;Persona 1&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/persona1_details.png&quot; alt=&quot;Persona 1&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/persona2_header.png&quot; alt=&quot;Persona 2&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/persona2_details.png&quot; alt=&quot;Persona 2&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;interaction-scenarios&quot;&gt;Interaction Scenarios&lt;/h4&gt;
+
+&lt;p&gt;With the three stakeholder personas created, we crafted interaction scenarios and a set of goals and tasks that each persona should be able to accomplish with our system. We did our best to ensure each of the scenarios demonstrated how users benefit from or are impacted by our design solution.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Scenario 1: a user wants to purchase food locally via Backyard&lt;/li&gt;
+  &lt;li&gt;Scenario 2: a user wants to discover ethical business alternatives on Backyard&lt;/li&gt;
+  &lt;li&gt;Scenario 3: a business that is setting up their Backyard account for the first time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
+
+&lt;h4 id=&quot;storyboards&quot;&gt;Storyboards&lt;/h4&gt;
+
+&lt;p&gt;Sketching storyboards was the next step in the design process. I sketched each of the three interaction scenarios as well as additional standalone scenarios. These sketches ultimately helped with our brainstorming process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/user_scenario.png&quot; alt=&quot;User scenario&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;User Scenario&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/Backyard_Sketches.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Sketches&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Sketches&lt;/figcaption&gt;
+
+&lt;p&gt;Additionally, sketching storyboards helped us have conversations and define Backyard’s core product functionality:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enable consumers to access information of retailers, including the location of brick &amp;amp; mortar shops or online inventory and services.&lt;/li&gt;
+  &lt;li&gt;Enable consumers to share their shopping experience with their friends, businesses, and the public.&lt;/li&gt;
+  &lt;li&gt;Provide a moderated information platform for responsible businesses to thrive.&lt;/li&gt;
+  &lt;li&gt;Offer an online checkout solution built into the app.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;paper-prototype&quot;&gt;Paper Prototype&lt;/h4&gt;
+
+&lt;p&gt;Paper prototypes were the next phase of the design process. We pulled from our sketches and storyboards, as well as the core functionality, helped us come up with a basic site map and product userflow.
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/paper_prototype.gif&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Paper Prototype&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After building the paper prototype, I conducted usability tests with the same stakeholders that we initially interviewed. Due to the pandemic, the paper prototype test was conducted virtually over zoom which presented many challenges. This changed the nature of the test and, thus, the results, but it did yield some valuable insights that we applied to building our wireframes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Users where confused by what would happen if they interacted with the heart button. We decided to change the heart icon into a floppy-disk save icon to make its utility clearer.&lt;/li&gt;
+  &lt;li&gt;The “save filter to list” feature was intended to be optional, but some users thought it might be required in order to save the filter. We ultimately decided to remove this feature.&lt;/li&gt;
+  &lt;li&gt;One user was unclear with what to do with the “execute search” check mark button. The “cancel” button was also too close in proximity to the “execute search” button. We decided to make our targets larger and spaced out further in our v1 prototype design.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h4&gt;
+
+&lt;p&gt;We received feedback to narrow the scope of our design solution. We considered the “flexibility-usability tradeoff” which states that products that prioritize flexibility are often more difficult to use. We chose to focus on consumers over small business owners in order to improve the usability of our app. Additionally, we decided our most import features are the search functionality and purchase flow. We made these features have the most touch points in the wireframes as they drive the most value.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/wireframes.png&quot; class=&quot;bigger-image&quot; alt=&quot;Wireframes&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Wireframes&lt;/figcaption&gt;
+
+&lt;h3 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h3&gt;
+
+&lt;p&gt;At this stage our team focused on creating a style guide so that the areas of the product we focused on were somewhat visually consistent. We focused on typography, colors, buttons, cards, and shadows.&lt;/p&gt;
+
+&lt;h4 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h4&gt;
+
+&lt;p&gt;I pulled inspiration from a number of websites and styles. This visual mood board served as a starting point for conversations with the team.
+&lt;img src=&quot;http://localhost:4000/assets/images/inspo.png&quot; class=&quot;bigger-image&quot; alt=&quot;Inspiration&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Design Inspo&lt;/figcaption&gt;
+
+&lt;h4&gt;Typography&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/typography.png&quot; alt=&quot;Typography&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;Colors&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/color_styles.png&quot; alt=&quot;Color Styles&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;Buttons&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/buttons.png&quot; alt=&quot;Buttons&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;Shadows&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/shadows.png&quot; alt=&quot;Shadows&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;v1-high-fidelity-prototype&quot;&gt;V1 High-Fidelity Prototype&lt;/h4&gt;
+
+&lt;p&gt;The two screens I worked on for our v1 prototype included both of the advance search screens. Below you can see changes I made from the v1 to the v2 prototype.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/prototype_evolution.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Prototype Evolution&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/prototype_evolution2.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Prototype Evolution&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During an in-class design review, we received the following feedback on our v1 high fidelity prototype:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Visual elements are inconsistent.&lt;/li&gt;
+  &lt;li&gt;Accessibility improvements are needed.&lt;/li&gt;
+  &lt;li&gt;Consider adding back button.&lt;/li&gt;
+  &lt;li&gt;Additional filters may be hidden from the users’ awareness if they never click the add filter button.&lt;/li&gt;
+  &lt;li&gt;It’s a little unclear where the saved filter setting are saved and if users can edit them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additional usability testing would help us resolve these issues.&lt;/p&gt;
+
+&lt;h4 id=&quot;final-high-fidelity-prototype&quot;&gt;Final High-Fidelity Prototype&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/backyard_heroimage.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Hero Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For the final prototype, we took insights from our usability tests to make a number of changes, focusing on improving the accessibility of our visual design:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;updated colors to ensure contrast ratio complied with WCAG and ADA requirements&lt;/li&gt;
+  &lt;li&gt;standardized font size, position, and style&lt;/li&gt;
+  &lt;li&gt;standardized spacing between elements using an 8x8px grid&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using a color contrast assessment tool, we tested the color contrast of white text on the green background and realized that the contrast between our initial green color and white was not sufficient in order to satisfy Web Content Accessibility Guidelines (WCAG) and American Disabilities Act (ADA) requirements. We will need to adjust our colors to ensure we comply with these important guidelines and accessibility laws here in the U.S.&lt;/p&gt;
+
+&lt;p&gt;Below you can find the final product slides we presented on our last day of class.
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/final-design.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Key Panels&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;reflection&quot;&gt;Reflection&lt;/h3&gt;
+
+&lt;p&gt;Ultimately there were many aspects of this project that need improvement but this learning experience was a  great introduction to interaction design. There are many things I would do differently in future iterations. A site map would have been helpful for our group to document and align on before designing our v1 prototype. Additionally, covid-19 made in-person usability tests much more difficult to conduct.&lt;/p&gt;
+
+&lt;p&gt;I believe that the search and filter features were not as thought out as they should have been. If we had additional time to iterate on the design, I would relocate the advance search features to be directly on the home search screen, as these features are core to the experience of the product. Additionally, the material impact that Backyard has on people’s lives is unmeasured and would need to be further studied and defined. Additional research would be required to determine second and third rate affects of how the technology impacts communities.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Check out some of my other &lt;span class=&quot;evidence&quot;&gt;&lt;a href=&quot;https://nicholasgiles.com/projects/&quot; style=&quot;text-decoration: none&quot;&gt;case studies&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="UX Design" /><category term="UX Research" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/backyard_iOS_icon.png" /><media:content medium="image" url="http://localhost:4000/assets/images/backyard_iOS_icon.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00-08:00</published><updated>2016-02-24T22:48:00-08:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -127,8 +316,8 @@
 
 &lt;p&gt;You can add Pens from Codepen.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;268&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-theme-id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-slug-hash=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gfdDu&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-default-tab=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;result&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-user=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chriscoyier&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'codepen'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    See the Pen &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'https://codepen.io/chriscoyier/pen/gfdDu/'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; by Chris Coyier (&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'https://codepen.io/chriscoyier'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;@chriscoyier&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;) on &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'https://codepen.io'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;CodePen&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;.
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;268&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-theme-id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-slug-hash=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gfdDu&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-default-tab=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;result&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-user=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chriscoyier&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;codepen&apos;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    See the Pen &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;https://codepen.io/chriscoyier/pen/gfdDu/&apos;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; by Chris Coyier (&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;https://codepen.io/chriscoyier&apos;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;@chriscoyier&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;) on &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;https://codepen.io&apos;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;CodePen&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;.
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//assets.codepen.io/assets/embed/ei.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -210,7 +399,7 @@
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* An item
 * Another item
 * Yet another item
-* And there's more...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+* And there&apos;s more...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;hr /&gt;
 
@@ -312,10 +501,10 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sticky Header&lt;/span&gt;
 &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;900&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;show-menu&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#hamburguer__open&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;fast&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;show-menu&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#hamburguer__open&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;fast&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;900&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;show-menu&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#hamburguer__open&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;fast&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;show-menu&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#hamburguer__open&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;fast&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">:trophy: TransUnion Hackathon</title><link href="http://localhost:4000/transunion-hackathon/" rel="alternate" type="text/html" title=":trophy: TransUnion Hackathon" /><published>2015-05-23T22:12:00-07:00</published><updated>2015-05-23T22:12:00-07:00</updated><id>http://localhost:4000/transunion-hackathon</id><content type="html" xml:base="http://localhost:4000/transunion-hackathon/">&lt;p&gt;&lt;img src=&quot;http://nicholasgiles.com/assets/images/transunion1.png&quot; alt=&quot;TransUnion Mobile App&quot; /&gt;&lt;/p&gt;
