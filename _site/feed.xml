@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-12T23:21:26-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nick Giles</title><subtitle>Check out what I&apos;ve been working on..</subtitle><entry><title type="html">Backyard Mobile App</title><link href="http://localhost:4000/interaction-design/" rel="alternate" type="text/html" title="Backyard Mobile App" /><published>2020-12-13T20:54:00-08:00</published><updated>2020-12-13T20:54:00-08:00</updated><id>http://localhost:4000/interaction-design</id><content type="html" xml:base="http://localhost:4000/interaction-design/">&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/hero_backyard.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Hero Image&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-12T23:25:44-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nick Giles</title><subtitle>Check out what I&apos;ve been working on..</subtitle><entry><title type="html">Backyard Mobile App</title><link href="http://localhost:4000/interaction-design/" rel="alternate" type="text/html" title="Backyard Mobile App" /><published>2020-12-13T20:54:00-08:00</published><updated>2020-12-13T20:54:00-08:00</updated><id>http://localhost:4000/interaction-design</id><content type="html" xml:base="http://localhost:4000/interaction-design/">&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/hero_backyard.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Hero Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;design-problem&quot;&gt;Design Problem&lt;/h3&gt;
 
@@ -6,7 +6,7 @@
 
 &lt;p&gt;How can we enable people to (1) more easily divest from large retailers and businesses, and (2) discover and purchase products in their immediate area?&lt;/p&gt;
 
-&lt;h2&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/character_sketch.png&quot; alt=&quot;Backyard characters&quot; /&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/character_sketch.png&quot; alt=&quot;Backyard characters&quot; /&gt;&lt;/h2&gt;
 
 &lt;h3 id=&quot;project-overview&quot;&gt;Project Overview&lt;/h3&gt;
 &lt;ul&gt;
@@ -55,13 +55,13 @@
 
 &lt;p&gt;We crafted two personas, focusing on the motivations and obstacles that people may experience while shopping or managing a small business. These simplified personas helped us orient ourselves when making product decisions.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/persona1_header.png&quot; alt=&quot;Persona 1&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
-&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/persona1_details.png&quot; alt=&quot;Persona 1&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/persona1_header.png&quot; alt=&quot;Persona 1&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;img src=&quot;nicholasgiles.com/assets/images/persona1_details.png&quot; alt=&quot;Persona 1&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/persona2_header.png&quot; alt=&quot;Persona 2&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
-&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/persona2_details.png&quot; alt=&quot;Persona 2&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/persona2_header.png&quot; alt=&quot;Persona 2&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;img src=&quot;nicholasgiles.com/assets/images/persona2_details.png&quot; alt=&quot;Persona 2&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -83,10 +83,10 @@
 
 &lt;p&gt;Sketching storyboards was the next step in the design process. I sketched each of the three interaction scenarios as well as additional standalone scenarios. These sketches ultimately helped with our brainstorming process.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/user_scenario.png&quot; alt=&quot;User scenario&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/user_scenario.png&quot; alt=&quot;User scenario&quot; /&gt;&lt;/p&gt;
 &lt;figcaption class=&quot;caption&quot;&gt;User Scenario&lt;/figcaption&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/Backyard_Sketches.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Sketches&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/Backyard_Sketches.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Sketches&quot; /&gt;&lt;/p&gt;
 &lt;figcaption class=&quot;caption&quot;&gt;Sketches&lt;/figcaption&gt;
 
 &lt;p&gt;Additionally, sketching storyboards helped us have conversations and define Backyard’s core product functionality:&lt;/p&gt;
@@ -102,7 +102,7 @@
 
 &lt;p&gt;Paper prototypes were the next phase of the design process. We pulled from our sketches and storyboards, as well as the core functionality, helped us come up with a basic site map and product userflow.
 &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/paper_prototype.gif&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Paper Prototype&quot; /&gt;
+&lt;img src=&quot;nicholasgiles.com/assets/images/paper_prototype.gif&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Paper Prototype&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;After building the paper prototype, I conducted usability tests with the same stakeholders that we initially interviewed. Due to the pandemic, the paper prototype test was conducted virtually over zoom which presented many challenges. This changed the nature of the test and, thus, the results, but it did yield some valuable insights that we applied to building our wireframes:&lt;/p&gt;
@@ -117,7 +117,7 @@
 
 &lt;p&gt;We received feedback to narrow the scope of our design solution. We considered the “flexibility-usability tradeoff” which states that products that prioritize flexibility are often more difficult to use. We chose to focus on consumers over small business owners in order to improve the usability of our app. Additionally, we decided our most import features are the search functionality and purchase flow. We made these features have the most touch points in the wireframes as they drive the most value.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/wireframes.png&quot; class=&quot;bigger-image&quot; alt=&quot;Wireframes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/wireframes.png&quot; class=&quot;bigger-image&quot; alt=&quot;Wireframes&quot; /&gt;&lt;/p&gt;
 &lt;figcaption class=&quot;caption&quot;&gt;Wireframes&lt;/figcaption&gt;
 
 &lt;h3 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h3&gt;
@@ -127,27 +127,27 @@
 &lt;h4 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h4&gt;
 
 &lt;p&gt;I pulled inspiration from a number of websites and styles. This visual mood board served as a starting point for conversations with the team.
-&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/inspo.png&quot; class=&quot;bigger-image&quot; alt=&quot;Inspiration&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;nicholasgiles.com/assets/images/inspo.png&quot; class=&quot;bigger-image&quot; alt=&quot;Inspiration&quot; /&gt;&lt;/p&gt;
 &lt;figcaption class=&quot;caption&quot;&gt;Design Inspo&lt;/figcaption&gt;
 
 &lt;h4&gt;Typography&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/typography.png&quot; alt=&quot;Typography&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/typography.png&quot; alt=&quot;Typography&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;Colors&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/color_styles.png&quot; alt=&quot;Color Styles&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/color_styles.png&quot; alt=&quot;Color Styles&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;Buttons&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/buttons.png&quot; alt=&quot;Buttons&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/buttons.png&quot; alt=&quot;Buttons&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;Shadows&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/shadows.png&quot; alt=&quot;Shadows&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/shadows.png&quot; alt=&quot;Shadows&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;v1-high-fidelity-prototype&quot;&gt;V1 High-Fidelity Prototype&lt;/h4&gt;
 
 &lt;p&gt;The two screens I worked on for our v1 prototype included both of the advance search screens. Below you can see changes I made from the v1 to the v2 prototype.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/prototype_evolution.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Prototype Evolution&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/prototype_evolution.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Prototype Evolution&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/prototype_evolution2.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Prototype Evolution&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/prototype_evolution2.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Prototype Evolution&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;During an in-class design review, we received the following feedback on our v1 high fidelity prototype:&lt;/p&gt;
 &lt;ul&gt;
@@ -162,7 +162,7 @@
 
 &lt;h4 id=&quot;final-high-fidelity-prototype&quot;&gt;Final High-Fidelity Prototype&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/backyard_heroimage.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Hero Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;nicholasgiles.com/assets/images/backyard_heroimage.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Hero Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;For the final prototype, we took insights from our usability tests to make a number of changes, focusing on improving the accessibility of our visual design:&lt;/p&gt;
 &lt;ul&gt;
@@ -175,7 +175,7 @@
 
 &lt;p&gt;Below you can find the final product slides we presented on our last day of class.
 &lt;br /&gt;
-&lt;img src=&quot;http://www.nicholasgiles.com/assets/images/final-design.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Key Panels&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;nicholasgiles.com/assets/images/final-design.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Key Panels&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
