@@ -11,7 +11,7 @@ category: project
 projects: true
 description: "Backyard mobile iOS app design | SI 582 Interaction Design."
 ---
-<img src="http://localhost:4000/assets/images/hero_backyard.png" class="bigger-image" alt="Backyard Hero Image" />
+<img src="http://www.nicholasgiles.com/assets/images/hero_backyard.png" class="bigger-image" alt="Backyard Hero Image" />
 
 ### Design Problem
 
@@ -19,7 +19,7 @@ In the midst of the Covid-19 pandemic, small businesses in the United States are
 
 How can we enable people to (1) more easily divest from large retailers and businesses, and (2) discover and purchase products in their immediate area?
 
-<img src="http://localhost:4000/assets/images/character_sketch.png" alt="Backyard characters" />
+<img src="http://www.nicholasgiles.com/assets/images/character_sketch.png" alt="Backyard characters" />
 ---
 
 ### Project Overview
@@ -63,13 +63,13 @@ Despite the pandemic, we were able to conduct user interviews, albeit remotely. 
 
 We crafted two personas, focusing on the motivations and obstacles that people may experience while shopping or managing a small business. These simplified personas helped us orient ourselves when making product decisions.
 
-<img src="http://localhost:4000/assets/images/persona1_header.png" alt="Persona 1" style="display: block; margin-left: auto; margin-right: auto;"/>
-<img src="http://localhost:4000/assets/images/persona1_details.png" alt="Persona 1" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="http://www.nicholasgiles.com/assets/images/persona1_header.png" alt="Persona 1" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="http://www.nicholasgiles.com/assets/images/persona1_details.png" alt="Persona 1" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ---
 
-<img src="http://localhost:4000/assets/images/persona2_header.png" alt="Persona 2" style="display: block; margin-left: auto; margin-right: auto;"/>
-<img src="http://localhost:4000/assets/images/persona2_details.png" alt="Persona 2" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="http://www.nicholasgiles.com/assets/images/persona2_header.png" alt="Persona 2" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src="http://www.nicholasgiles.com/assets/images/persona2_details.png" alt="Persona 2" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ---
 
@@ -89,10 +89,10 @@ With the three stakeholder personas created, we crafted interaction scenarios an
 
 Sketching storyboards was the next step in the design process. I sketched each of the three interaction scenarios as well as additional standalone scenarios. These sketches ultimately helped with our brainstorming process.
 
-<img src="http://localhost:4000/assets/images/user_scenario.png" alt="User scenario" />
+<img src="http://www.nicholasgiles.com/assets/images/user_scenario.png" alt="User scenario" />
 <figcaption class="caption">User Scenario</figcaption>
 
-<img src="http://localhost:4000/assets/images/Backyard_Sketches.png" class="bigger-image" alt="Backyard Sketches" />
+<img src="http://www.nicholasgiles.com/assets/images/Backyard_Sketches.png" class="bigger-image" alt="Backyard Sketches" />
 <figcaption class="caption">Sketches</figcaption>
 
 Additionally, sketching storyboards helped us have conversations and define Backyard's core product functionality:
@@ -106,7 +106,7 @@ Additionally, sketching storyboards helped us have conversations and define Back
 
 Paper prototypes were the next phase of the design process. We pulled from our sketches and storyboards, as well as the core functionality, helped us come up with a basic site map and product userflow.
 <br><br>
-<img src="http://localhost:4000/assets/images/paper_prototype.gif" style="display: block; margin-left: auto; margin-right: auto;" alt="Paper Prototype" />
+<img src="http://www.nicholasgiles.com/assets/images/paper_prototype.gif" style="display: block; margin-left: auto; margin-right: auto;" alt="Paper Prototype" />
 <br>
 
 After building the paper prototype, I conducted usability tests with the same stakeholders that we initially interviewed. Due to the pandemic, the paper prototype test was conducted virtually over zoom which presented many challenges. This changed the nature of the test and, thus, the results, but it did yield some valuable insights that we applied to building our wireframes:
@@ -119,7 +119,7 @@ After building the paper prototype, I conducted usability tests with the same st
 
 We received feedback to narrow the scope of our design solution. We considered the “flexibility-usability tradeoff” which states that products that prioritize flexibility are often more difficult to use. We chose to focus on consumers over small business owners in order to improve the usability of our app. Additionally, we decided our most import features are the search functionality and purchase flow. We made these features have the most touch points in the wireframes as they drive the most value.
 
-<img src="http://localhost:4000/assets/images/wireframes.png" class="bigger-image" alt="Wireframes" />
+<img src="http://www.nicholasgiles.com/assets/images/wireframes.png" class="bigger-image" alt="Wireframes" />
 <figcaption class="caption">Wireframes</figcaption>
 
 ### Visual Design
@@ -129,27 +129,27 @@ At this stage our team focused on creating a style guide so that the areas of th
 #### Inspiration
 
 I pulled inspiration from a number of websites and styles. This visual mood board served as a starting point for conversations with the team.
-<img src="http://localhost:4000/assets/images/inspo.png" class="bigger-image" alt="Inspiration" />
+<img src="http://www.nicholasgiles.com/assets/images/inspo.png" class="bigger-image" alt="Inspiration" />
 <figcaption class="caption">Design Inspo</figcaption>
 
 <h4>Typography</h4>
-<img src="http://localhost:4000/assets/images/typography.png" alt="Typography" />
+<img src="http://www.nicholasgiles.com/assets/images/typography.png" alt="Typography" />
 <h4>Colors</h4>
-<img src="http://localhost:4000/assets/images/color_styles.png" alt="Color Styles" />
+<img src="http://www.nicholasgiles.com/assets/images/color_styles.png" alt="Color Styles" />
 <h4>Buttons</h4>
-<img src="http://localhost:4000/assets/images/buttons.png" alt="Buttons" />
+<img src="http://www.nicholasgiles.com/assets/images/buttons.png" alt="Buttons" />
 <h4>Shadows</h4>
-<img src="http://localhost:4000/assets/images/shadows.png" alt="Shadows" />
+<img src="http://www.nicholasgiles.com/assets/images/shadows.png" alt="Shadows" />
 
 #### V1 High-Fidelity Prototype
 
 The two screens I worked on for our v1 prototype included both of the advance search screens. Below you can see changes I made from the v1 to the v2 prototype.
 
-<img src="http://localhost:4000/assets/images/prototype_evolution.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Prototype Evolution" />
+<img src="http://www.nicholasgiles.com/assets/images/prototype_evolution.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Prototype Evolution" />
 
 ---
 
-<img src="http://localhost:4000/assets/images/prototype_evolution2.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Prototype Evolution" />
+<img src="http://www.nicholasgiles.com/assets/images/prototype_evolution2.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Prototype Evolution" />
 
 During an in-class design review, we received the following feedback on our v1 high fidelity prototype:
 * Visual elements are inconsistent.
@@ -162,7 +162,7 @@ Additional usability testing would help us resolve these issues.
 
 #### Final High-Fidelity Prototype
 
-<img src="http://localhost:4000/assets/images/backyard_heroimage.png" class="bigger-image" alt="Backyard Hero Image" />
+<img src="http://www.nicholasgiles.com/assets/images/backyard_heroimage.png" class="bigger-image" alt="Backyard Hero Image" />
 
 For the final prototype, we took insights from our usability tests to make a number of changes, focusing on improving the accessibility of our visual design:
 * updated colors to ensure contrast ratio complied with WCAG and ADA requirements
@@ -173,7 +173,7 @@ Using a color contrast assessment tool, we tested the color contrast of white te
 
 Below you can find the final product slides we presented on our last day of class.
 <br>
-<img src="http://localhost:4000/assets/images/final-design.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Key Panels" />
+<img src="http://www.nicholasgiles.com/assets/images/final-design.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Key Panels" />
 
 ---
 
