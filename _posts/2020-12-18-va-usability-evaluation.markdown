@@ -13,9 +13,9 @@ description: VIReC prototype evaluation
 
 ### Design Problem
 
-The Veterans Affairs Information Resource Center (VIReC) is working toward implementing a next generation of their knowledge sharing forum. They have developed a working prototype of their platform and have engaged with UMSI students in facilitating a user group to gather feedback and provide recommendations on how the prototype serves as a solution for their business need.
+As part of Design Clinic, a University of Michigan School of Information program, my team had the opportunity to work with the Veterans Association to conduct a usability evaluation of their next-generation knowledge sharing platform.
 
-As part of Design Clinic, a University of Michigan School of Information program, I worked with a team of student to conduct a usability evaluation of their next-generation knowledge sharing platform.
+The Veterans Affairs Information Resource Center (VIReC) is working toward implementing a next generation version of their knowledge sharing forum. They developed a working prototype of their platform and needed assistance with facilitation of user groups to gather feedback and provide recommendations on how the prototype serves as a solution for their business need.
 
 ### Project Overview
 * Discipline: UX Research
@@ -26,7 +26,7 @@ As part of Design Clinic, a University of Michigan School of Information program
 
 ---
 
-Check out our <span class="evidence"><a href="https://xd.adobe.com/view/8ff1c70d-255e-4b51-8d9e-b60c9048f235-daa2/?fullscreen" style="text-decoration: none" target="_blank">Adobe XD presentation</a></span> that focuses on our research methodology.
+Check out our <span class="evidence"><a href="https://xd.adobe.com/view/8ff1c70d-255e-4b51-8d9e-b60c9048f235-daa2/?fullscreen" style="text-decoration: none" target="_blank">Adobe XD presentation</a></span> to learn more about our research methodology.
 
 Our final report can be found below:
 <br>
