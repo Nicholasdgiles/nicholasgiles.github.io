@@ -15,7 +15,7 @@ description: "Backyard mobile iOS app design | SI 582 Interaction Design."
 
 ### Design Problem
 
-In the midst of the Covid-19 pandemic, small businesses in the United States are struggling to keep afloat. Consumers are increasingly relying on online shopping from large retailers such as Amazon. Through user interviews, we found there is a need for geographic-specific and centralized tool to guide consumers towards local business alternatives.
+In the midst of the Covid-19 pandemic, small businesses in the United States are struggling to keep afloat. Consumers are increasingly relying on online shopping from large retailers such as Amazon. Through user interviews, we found there is a need for geographic-specific and centralized tools to guide consumers towards local business alternatives.
 
 How can we enable people to (1) more easily divest from large retailers and businesses, and (2) discover and purchase products in their immediate area?
 
@@ -33,7 +33,7 @@ How can we enable people to (1) more easily divest from large retailers and busi
 
 ### Approach
 
-For the course project in SI 582: Interaction Design, teams spent the semester solving an interaction design problem with a user-centered design approach. We began by deciding upon a design problem and doing **domain research**, and then creating interview protocol and conducting virtual **user interviews**. After we went through the user feedback, we were able to align on a core set of features. From there, we crafted **stakeholder personas** and user **interaction scenarios** that were made into **paper-prototypes**. Conducting **usability tests** provided qualitative insights that we applied towards building **wireframes**. Using Sketch and Figma, we then designed a **high fidelity prototype**. After gathering additional user feedback, we iterated on the concepts to create a "final" version of the high fidelity prototype.
+For the course project in SI 582: Interaction Design, teams spent the semester solving an interaction design problem with a user-centered design approach. We began by deciding upon a design problem and doing **domain research**, and then creating interview protocol and conducting virtual **user interviews** to gather information. From there, we crafted **stakeholder personas** and user **interaction scenarios** that were made into **storyboards**. Next, we built **paper-prototypes** and conducted **usability tests** to gather qualitative insights. After we went through the user feedback, we were able to align on a core set of features that we went on to include in our **wireframes**. Using Sketch and Figma, we then designed a **high fidelity prototype**. After gathering additional user feedback, we iterated on the concepts to create a "final" version of the high fidelity prototype.
 
 ---
 
@@ -41,12 +41,12 @@ For the course project in SI 582: Interaction Design, teams spent the semester s
 
 #### Domain research
 
-We researched competitor services, websites, and applications in order to gain an understanding of the product landscape. We focused on Yelp (direct competitor), Threshold.us (parallel competitor), Shop (partial competitor), and Etsy (partial competitor). The criteria we looked at included usability, functionality, look & feel, good design, and accessibility. We ultimately found that:
+We researched competitor services, websites, and applications in order to gain an understanding of the product landscape. We focused on Yelp (direct competitor), Threshold.us (parallel competitor), Shop (partial competitor), and Etsy (partial competitor). The criteria we looked at included usability, functionality, look & feel, good design, and accessibility. We found that:
 * There are some easy-to-access guides and web applications dedicated to gathering information about ethical alternatives to large retailers.
 * There is a lack of accessible tools that allow potential consumers to find small businesses’ brick and mortar or online shops.
 * Many local businesses do have digital storefronts and an online presence but they are not all centralized in a single application.
 
-Through analyzing competitor’s products, we found that many offered similar features, but none offered the exact combination of functionality that would solve for our design problem.
+By analyzing competitors' products, we found that many offered similar features, but none offered the exact combination of functionality that would solve for our design problem.
 
 #### Stakeholder Interviews
 
@@ -61,7 +61,7 @@ Despite the pandemic, we were able to conduct user interviews, albeit remotely. 
 
 #### Stakeholder Personas
 
-We crafted two personas, focusing on the motivations and obstacles that people may experience while shopping or managing a small business. These simplified personas helped us orient ourselves when making product decisions.
+We crafted two personas, focusing on the motivations and obstacles that people may experience while shopping or managing a small business. These simplified personas helped us make quick product decisions.
 
 <img src="http://nicholasgiles.com/assets/images/persona1_header.png" alt="Persona 1" style="display: block; margin-left: auto; margin-right: auto;"/>
 <img src="http://nicholasgiles.com/assets/images/persona1_details.png" alt="Persona 1" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -79,7 +79,7 @@ With the three stakeholder personas created, we crafted interaction scenarios an
 
 * Scenario 1: a user wants to purchase food locally via Backyard
 * Scenario 2: a user wants to discover ethical business alternatives on Backyard
-* Scenario 3: a business that is setting up their Backyard account for the first time
+* Scenario 3: a business is setting up their Backyard account for the first time
 
 ---
 
@@ -87,7 +87,7 @@ With the three stakeholder personas created, we crafted interaction scenarios an
 
 #### Storyboards
 
-Sketching storyboards was the next step in the design process. I sketched each of the three interaction scenarios as well as additional standalone scenarios. These sketches ultimately helped with our brainstorming process.
+Sketching storyboards was the next step in the design process. I sketched the interaction scenarios as well as additional standalone scenarios to assist with the brainstorming process.
 
 <img src="http://nicholasgiles.com/assets/images/user_scenario.png" alt="User scenario" />
 <figcaption class="caption">User Scenario</figcaption>
@@ -95,36 +95,36 @@ Sketching storyboards was the next step in the design process. I sketched each o
 <img src="http://nicholasgiles.com/assets/images/Backyard_Sketches.png" class="bigger-image" alt="Backyard Sketches" />
 <figcaption class="caption">Sketches</figcaption>
 
-Additionally, sketching storyboards helped us have conversations and define Backyard's core product functionality:
+Creating the storyboards helped us with defining Backyard's core product functionality:
 
-* Enable consumers to access information of retailers, including the location of brick & mortar shops or online inventory and services.
+* Enable consumers to access retailer information, including the location of brick & mortar shops and online inventory and services.
 * Enable consumers to share their shopping experience with their friends, businesses, and the public.
 * Provide a moderated information platform for responsible businesses to thrive.
-* Offer an online checkout solution built into the app.
+* Offer an in-app checkout solution to streamline online shopping.
 
 #### Paper Prototype
 
-Paper prototypes were the next phase of the design process. We pulled from our sketches and storyboards, as well as the core functionality, helped us come up with a basic site map and product userflow.
+Creating paper prototypes was the next phase of the interaction design process. We pulled from our sketches and storyboards, as well as the core product functionality, to align on a basic site map and task flow.
 <br><br>
 <img src="http://nicholasgiles.com/assets/images/paper_prototype.gif" style="display: block; margin-left: auto; margin-right: auto;" alt="Paper Prototype" />
 <br>
 
-After building the paper prototype, I conducted usability tests with the same stakeholders that we initially interviewed. Due to the pandemic, the paper prototype test was conducted virtually over zoom which presented many challenges. This changed the nature of the test and, thus, the results, but it did yield some valuable insights that we applied to building our wireframes:
+After building the paper prototype, the team conducted usability tests with the same stakeholders that we initially interviewed. Due to the pandemic, the paper prototype tests were conducted virtually over zoom which presented many challenges. This changed the nature of the test and, thus, the results, but it did yield some valuable insights that we applied to building our wireframes:
 
-* Users where confused by what would happen if they interacted with the heart button. We decided to change the heart icon into a floppy-disk save icon to make its utility clearer.
+* Users were confused by what would happen if they interacted with the heart icon button. We decided to change the heart icon into a floppy-disk "save" icon to make its utility clearer.
 * The “save filter to list” feature was intended to be optional, but some users thought it might be required in order to save the filter. We ultimately decided to remove this feature.
 * One user was unclear with what to do with the “execute search” check mark button. The “cancel” button was also too close in proximity to the “execute search” button. We decided to make our targets larger and spaced out further in our v1 prototype design.
 
 #### Wireframes
 
-We received feedback to narrow the scope of our design solution. We considered the “flexibility-usability tradeoff” which states that products that prioritize flexibility are often more difficult to use. We chose to focus on consumers over small business owners in order to improve the usability of our app. Additionally, we decided our most import features are the search functionality and purchase flow. We made these features have the most touch points in the wireframes as they drive the most value.
+In a design review, we received feedback to narrow the scope of our design solution. We considered the “flexibility-usability tradeoff” which states that products that prioritize flexibility are often more difficult to use. We chose to focus on consumers over small business owners in order to limit our project scope. Additionally, we decided our most import features are the search functionality and purchase flow. We made these features have the most touch points in the wireframes as they drive the most value.
 
 <img src="http://nicholasgiles.com/assets/images/wireframes.png" class="bigger-image" alt="Wireframes" />
 <figcaption class="caption">Wireframes</figcaption>
 
 ### Visual Design
 
-At this stage our team focused on creating a style guide so that the areas of the product we focused on were somewhat visually consistent. We focused on typography, colors, buttons, cards, and shadows.
+At this stage, our team focused on creating a style guide to align on visual components. We focused on typography, colors, buttons, cards, and shadows.
 
 #### Inspiration
 
@@ -142,7 +142,14 @@ I pulled inspiration from a number of websites and styles. This visual mood boar
 
 #### V1 High-Fidelity Prototype
 
-The two screens I worked on for our v1 prototype included both of the advance search screens. Below you can see changes I made from the v1 to the v2 prototype.
+The area of the product that I worked on for our v1 high fidelity prototype was the advance search features. During an in-class design review, we received the following feedback on our v1 prototype:
+* Visual elements are inconsistent.
+* Accessibility improvements are needed.
+* Consider adding back button.
+* Additional filters may be hidden from the users' awareness if they never click the add filter button.
+* It's a little unclear where the saved filter setting are saved and if users can edit them.
+
+ Below you can see the changes I made from the v1 prototype to the v2 prototype based on this feedback.
 
 <img src="http://nicholasgiles.com/assets/images/prototype_evolution.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Prototype Evolution" />
 
@@ -150,14 +157,7 @@ The two screens I worked on for our v1 prototype included both of the advance se
 
 <img src="http://nicholasgiles.com/assets/images/prototype_evolution2.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Prototype Evolution" />
 
-During an in-class design review, we received the following feedback on our v1 high fidelity prototype:
-* Visual elements are inconsistent.
-* Accessibility improvements are needed.
-* Consider adding back button.
-* Additional filters may be hidden from the users' awareness if they never click the add filter button.
-* It's a little unclear where the saved filter setting are saved and if users can edit them.
-
-Additional usability testing would help us resolve these issues.
+Additional usability testing would help us resolve the issues uncovered in our design review.
 
 #### Final High-Fidelity Prototype
 
@@ -168,9 +168,9 @@ For the final prototype, we took insights from our usability tests to make a num
 * standardized font size, position, and style
 * standardized spacing between elements using an 8x8px grid
 
-Using a color contrast assessment tool, we tested the color contrast of white text on the green background and realized that the contrast between our initial green color and white was not sufficient in order to satisfy Web Content Accessibility Guidelines (WCAG) and American Disabilities Act (ADA) requirements. We will need to adjust our colors to ensure we comply with these important guidelines and accessibility laws here in the U.S.
+Using a color contrast assessment tool, we tested the color contrast of white text on the green background and realized that the contrast between our initial green color and white was not sufficient in order to satisfy Web Content Accessibility Guidelines (WCAG) and American Disabilities Act (ADA) requirements. We adjusted our colors accordingly to ensure we comply with these important guidelines and accessibility laws here in the U.S.
 
-Below you can find the final product slides we presented on our last day of class.
+Below you can find the final product slides we presented on the last day of class:
 <br><br><br>
 <img src="http://nicholasgiles.com/assets/images/final-design.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Key Panels" />
 
@@ -178,9 +178,9 @@ Below you can find the final product slides we presented on our last day of clas
 
 ### Reflection
 
-Ultimately there were many aspects of this project that need improvement but this learning experience was a  great introduction to interaction design. There are many things I would do differently in future iterations. A site map would have been helpful for our group to document and align on before designing our v1 prototype. Additionally, covid-19 made in-person usability tests much more difficult to conduct.
+There were many aspects of this project that need improvement but this learning experience was a great introduction to interaction design. There are many things I would do differently in future iterations. Creating s site map would have been helpful for our group to align on before designing our v1 prototype. Additionally, covid-19 made in-person usability tests much more difficult to conduct.
 
-I believe that the search and filter features were not as thought out as they should have been. If we had additional time to iterate on the design, I would relocate the advance search features to be directly on the home search screen, as these features are core to the experience of the product. Additionally, the material impact that Backyard has on people's lives is unmeasured and would need to be further studied and defined. Additional research would be required to determine second and third rate affects of how the technology impacts communities.
+I believe that the search and filter features were not as thought out as they should have been. If we had additional time to iterate on the prototype, I would relocate the advance search features to be directly on the home search screen, as these features are core to the experience of the product. Additionally, the material impact that Backyard could have on people's lives is unmeasured and would need to be studied and defined. Additional research would be required to determine second and third rate affects of how this technology could impact communities.
 
 ---
 
