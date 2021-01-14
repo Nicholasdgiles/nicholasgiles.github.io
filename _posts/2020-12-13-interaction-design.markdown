@@ -128,7 +128,7 @@ At this stage, our team focused on creating a style guide to align on visual com
 
 #### Inspiration
 
-I pulled inspiration from a number of websites and styles. This visual mood board served as a starting point for conversations with the team.
+I pulled creative inspiration from a number of websites and applications. The inspiration board below served as a starting point for conversations with the team about individual design components.
 <img src="http://nicholasgiles.com/assets/images/inspo.png" class="bigger-image" alt="Inspiration" />
 
 <h4>Typography</h4>
@@ -142,14 +142,14 @@ I pulled inspiration from a number of websites and styles. This visual mood boar
 
 #### V1 High-Fidelity Prototype
 
-The area of the product that I worked on for our v1 high fidelity prototype was the advance search features. During an in-class design review, we received the following feedback on our v1 prototype:
+For our v1 high fidelity prototype, I focused on the advanced search features. During an in-class design review, we received the following feedback on our v1 prototype:
 * Visual elements are inconsistent.
 * Accessibility improvements are needed.
 * Consider adding back button.
 * Additional filters may be hidden from the users' awareness if they never click the add filter button.
 * It's a little unclear where the saved filter setting are saved and if users can edit them.
 
- Below you can see the changes I made from the v1 prototype to the v2 prototype based on this feedback.
+ Below you can see the changes that were made from the v1 prototype to the v2 prototype based on this feedback.
 
 <img src="http://nicholasgiles.com/assets/images/prototype_evolution.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Prototype Evolution" />
 
@@ -168,7 +168,7 @@ For the final prototype, we took insights from our usability tests to make a num
 * standardized font size, position, and style
 * standardized spacing between elements using an 8x8px grid
 
-Using a color contrast assessment tool, we tested the color contrast of white text on the green background and realized that the contrast between our initial green color and white was not sufficient in order to satisfy Web Content Accessibility Guidelines (WCAG) and American Disabilities Act (ADA) requirements. We adjusted our colors accordingly to ensure we comply with these important guidelines and accessibility laws here in the U.S.
+Using a color contrast assessment tool, we tested the color contrast of white text on the green background and realized that the contrast between our initial green color and white was not sufficient in order to satisfy Web Content Accessibility Guidelines (WCAG) and American Disabilities Act (ADA) requirements. We adjusted our colors accordingly to ensure we comply with these important guidelines and accessibility laws in the U.S.
 
 Below you can find the final product slides we presented on the last day of class:
 <br><br><br>
@@ -178,9 +178,9 @@ Below you can find the final product slides we presented on the last day of clas
 
 ### Reflection
 
-There were many aspects of this project that need improvement but this learning experience was a great introduction to interaction design. There are many things I would do differently in future iterations. Creating s site map would have been helpful for our group to align on before designing our v1 prototype. Additionally, covid-19 made in-person usability tests much more difficult to conduct.
+There are many aspects of this project that could be improved, but, overall, working on this project was a great learning experience and an introduction to interaction design. I believe creating a site map would have helped our group get more aligned on solutions prior to designing our wireframes. Additionally, Covid-19 made in-person usability tests much more difficult to conduct.
 
-I believe that the search and filter features were not as thought out as they should have been. If we had additional time to iterate on the prototype, I would relocate the advance search features to be directly on the home search screen, as these features are core to the experience of the product. Additionally, the material impact that Backyard could have on people's lives is unmeasured and would need to be studied and defined. Additional research would be required to determine second and third rate affects of how this technology could impact communities.
+The implementation of the advanced search and filter features could be greatly improved as well. If we had additional time to iterate on the prototype, I would relocate the advance search features to be directly on the home search screen, as these features are core to the experience of the product. Additionally, the material impact that this information system could have on people's lives is unmeasured and would need to be studied and defined. Additional research would be required to determine second and third rate affects on impacted communities.
 
 ---
 
