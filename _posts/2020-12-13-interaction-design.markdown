@@ -130,7 +130,6 @@ At this stage our team focused on creating a style guide so that the areas of th
 
 I pulled inspiration from a number of websites and styles. This visual mood board served as a starting point for conversations with the team.
 <img src="http://nicholasgiles.com/assets/images/inspo.png" class="bigger-image" alt="Inspiration" />
-<figcaption class="caption">Design Inspo</figcaption>
 
 <h4>Typography</h4>
 <img src="http://nicholasgiles.com/assets/images/typography.png" alt="Typography" />
