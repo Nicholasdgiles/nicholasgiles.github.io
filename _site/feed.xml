@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-13T18:28:18-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nick Giles</title><subtitle>Check out what I&apos;ve been working on..</subtitle><entry><title type="html">Backyard Mobile App</title><link href="http://localhost:4000/interaction-design/" rel="alternate" type="text/html" title="Backyard Mobile App" /><published>2020-12-13T20:54:00-08:00</published><updated>2020-12-13T20:54:00-08:00</updated><id>http://localhost:4000/interaction-design</id><content type="html" xml:base="http://localhost:4000/interaction-design/">&lt;p&gt;&lt;img src=&quot;http://nicholasgiles.com/assets/images/hero_backyard.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Hero Image&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-13T19:09:43-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nick Giles</title><subtitle>Check out what I&apos;ve been working on..</subtitle><entry><title type="html">Backyard Mobile App</title><link href="http://localhost:4000/interaction-design/" rel="alternate" type="text/html" title="Backyard Mobile App" /><published>2020-12-13T20:54:00-08:00</published><updated>2020-12-13T20:54:00-08:00</updated><id>http://localhost:4000/interaction-design</id><content type="html" xml:base="http://localhost:4000/interaction-design/">&lt;p&gt;&lt;img src=&quot;http://nicholasgiles.com/assets/images/hero_backyard.png&quot; class=&quot;bigger-image&quot; alt=&quot;Backyard Hero Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;design-problem&quot;&gt;Design Problem&lt;/h3&gt;
 
@@ -186,11 +186,89 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Check out some of my other &lt;span class=&quot;evidence&quot;&gt;&lt;a href=&quot;https://nicholasgiles.com/projects/&quot; style=&quot;text-decoration: none&quot;&gt;case studies&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="UX Design" /><category term="UX Research" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/backyard_iOS_icon.png" /><media:content medium="image" url="http://localhost:4000/assets/images/backyard_iOS_icon.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">VA Usability Evaluation</title><link href="http://localhost:4000/virec-prototype-evaluation/" rel="alternate" type="text/html" title="VA Usability Evaluation" /><published>2020-12-08T22:48:00-08:00</published><updated>2020-12-08T22:48:00-08:00</updated><id>http://localhost:4000/virec-prototype-evaluation</id><content type="html" xml:base="http://localhost:4000/virec-prototype-evaluation/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;Check out some of my other &lt;span class=&quot;evidence&quot;&gt;&lt;a href=&quot;https://nicholasgiles.com/projects/&quot; style=&quot;text-decoration: none&quot;&gt;case studies&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="UX Design" /><category term="UX Research" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/backyard_iOS_icon.png" /><media:content medium="image" url="http://localhost:4000/assets/images/backyard_iOS_icon.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">VA Usability Evaluation</title><link href="http://localhost:4000/virec-prototype-evaluation/" rel="alternate" type="text/html" title="VA Usability Evaluation" /><published>2020-12-08T22:48:00-08:00</published><updated>2020-12-08T22:48:00-08:00</updated><id>http://localhost:4000/virec-prototype-evaluation</id><content type="html" xml:base="http://localhost:4000/virec-prototype-evaluation/">&lt;h3 id=&quot;design-problem&quot;&gt;Design Problem&lt;/h3&gt;
 
-&lt;p&gt;Check out my &lt;span class=&quot;evidence&quot;&gt;&lt;a href=&quot;https://xd.adobe.com/view/8ff1c70d-255e-4b51-8d9e-b60c9048f235-daa2/?fullscreen&quot; style=&quot;text-decoration: none&quot;&gt;Adobe XD presentation&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;The Veterans Affairs Information Resource Center (VIReC) is working toward implementing a next generation of their knowledge sharing forum. They have developed a working prototype of their platform and have engaged with UMSI students in facilitating a user group to gather feedback and provide recommendations on how the prototype serves as a solution for their business need.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://localhost:4000/assets/images/presentation_slides/1.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="NDA" /><summary type="html">Summary:</summary></entry><entry><title type="html">TransUnion Hackathon</title><link href="http://localhost:4000/transunion-hackathon/" rel="alternate" type="text/html" title="TransUnion Hackathon" /><published>2015-05-23T22:12:00-07:00</published><updated>2015-05-23T22:12:00-07:00</updated><id>http://localhost:4000/transunion-hackathon</id><content type="html" xml:base="http://localhost:4000/transunion-hackathon/">&lt;p&gt;&lt;img src=&quot;http://nicholasgiles.com/assets/images/transunion1.png&quot; alt=&quot;TransUnion Mobile App&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As part of Design Clinic, a University of Michigan School of Information program, I worked with a team of student to conduct a usability evaluation of their next-generation knowledge sharing platform.&lt;/p&gt;
+
+&lt;h3 id=&quot;project-overview&quot;&gt;Project Overview&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Discipline: UX Research&lt;/li&gt;
+  &lt;li&gt;Program: Design Clinic, UMSI&lt;/li&gt;
+  &lt;li&gt;Duration: Aug. 2020 - Dec. 2020&lt;/li&gt;
+  &lt;li&gt;With: Soyoung Lee, Chai Karim, Vinusha Devarakonda&lt;/li&gt;
+  &lt;li&gt;Tools Used: REDCap Survey, Otter.io, Zoom, Google Suite&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Check out our &lt;span class=&quot;evidence&quot;&gt;&lt;a href=&quot;https://xd.adobe.com/view/8ff1c70d-255e-4b51-8d9e-b60c9048f235-daa2/?fullscreen&quot; style=&quot;text-decoration: none&quot; target=&quot;_blank&quot;&gt;Adobe XD presentation&lt;/a&gt;&lt;/span&gt; that focuses on our research methodology.&lt;/p&gt;
+
+&lt;p&gt;Our final report can be found below:
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/1.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/2.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/3.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/4.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/5.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/6.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/7.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/8.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/9.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/10.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/11.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/12.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/13.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/14.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/15.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/16.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/17.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/18.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/19.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/20.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/21.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/22.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/23.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/24.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/25.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/26.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/27.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/28.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;http://nicholasgiles.com/assets/images/presentation_slides/29.png&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;VIReC Presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Check out some of my other &lt;span class=&quot;evidence&quot;&gt;&lt;a href=&quot;https://nicholasgiles.com/projects/&quot; style=&quot;text-decoration: none&quot;&gt;case studies&lt;/a&gt;&lt;/span&gt;.&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="NDA" /><summary type="html">Design Problem</summary></entry><entry><title type="html">TransUnion Hackathon</title><link href="http://localhost:4000/transunion-hackathon/" rel="alternate" type="text/html" title="TransUnion Hackathon" /><published>2015-05-23T22:12:00-07:00</published><updated>2015-05-23T22:12:00-07:00</updated><id>http://localhost:4000/transunion-hackathon</id><content type="html" xml:base="http://localhost:4000/transunion-hackathon/">&lt;p&gt;&lt;img src=&quot;http://nicholasgiles.com/assets/images/transunion1.png&quot; alt=&quot;TransUnion Mobile App&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As a UI/UX designer at the TransUnion 2015 hackathon, I worked with a team to wireframe and prototype a web and mobile iOS application. I also designed the user interface assets that were implemented into the final working prototype. In order for our project to be easily integrated into TransUnion’s existing services, the UI was designed to comply with branding guidelines down to pixel perfect detail.&lt;/p&gt;
 
