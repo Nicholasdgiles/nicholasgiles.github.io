@@ -90,8 +90,6 @@ Our final report can be found below:
 <img src="http://nicholasgiles.com/assets/images/presentation_slides/29.png" style="display: block; margin-left: auto; margin-right: auto;" alt="VIReC Presentation" />
 <br>
 <img src="http://nicholasgiles.com/assets/images/presentation_slides/30.png" style="display: block; margin-left: auto; margin-right: auto;" alt="VIReC Presentation" />
-<br>
-<img src="http://nicholasgiles.com/assets/images/presentation_slides/31.png" style="display: block; margin-left: auto; margin-right: auto;" alt="VIReC Presentation" />
 
 ---
 
