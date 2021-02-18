@@ -1,5 +1,5 @@
 ---
-title: "Study Space Booking System"
+title: "Workspace Booking App"
 layout: post
 date: 2020-2-18 13:09
 image: #
@@ -9,7 +9,7 @@ tag:
 - Interaction
 category: project
 projects: true
-description: "Study Space Booking System"
+description: "Workspace Booking App"
 ---
 
 ### Design Problem
