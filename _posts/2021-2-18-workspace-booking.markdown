@@ -16,7 +16,7 @@ description: "Workspace Booking App"
 
 “Your school wants to provide dedicated spaces for students to help them focus on their academic studies. Design an experience for students, professors, and members of the school community to reserve work desks/spaces in the library. Consider the experience of checking availability, reserving the space, and reporting any issues.”
 
-Building the thing now. Please Standby! 🙏
+Building the thing now. Please stand by! 🙏
 
 ---
 
