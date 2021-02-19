@@ -5,7 +5,7 @@ date: 2021-2-18 13:09
 image: #
 headerImage: false
 tag:
-- Visual Design
+- UX Design
 - IxD
 category: project
 projects: true
@@ -59,8 +59,7 @@ Then I constructed two scenarios based on the personas that would be the startin
 * Is alerted of another room that has freed up and swaps the rooms out.
 * Has a great experience.
 
-**Scenario 2: The Careful Planner**
-* Main tasks accomplished in scenario:
+**Scenario 2: The Inclusive Teammate**
 * Needs to find a space where their friend who uses a wheelchair can easily access and roll up to the desk.
 * Wants to ensure that masks are required in the study space for safety, and other COVID precautions are taken.
 * Books the reservation.
@@ -78,13 +77,13 @@ The site map was constructed from the scenario steps and visually mapped to the 
 
 #### Wireframes
 
-Next I designed wireframes to place all of the components listed in the site map.
+Next, I designed wireframes that incorporate all of the components outlined in the site map.
 
 <img src="http://nicholasgiles.com/assets/images/workspace/wireframes.svg" class="bigger-image" alt="Wireframes" />
 
 ---
 
-Still building the things now... Please standby! 🙏
+Still building the things now... Please stand by! 🙏
 
 ---
 
