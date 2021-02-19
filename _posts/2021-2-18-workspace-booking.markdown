@@ -41,9 +41,9 @@ Here are user interview questions that I formulated in order to gain qualitative
 
 By analyzing the answers to the surveys, the following personas were crafted:
 
-<img src="http://nicholasgiles.com/images/workspace/persona1.svg" class="bigger-image" alt="Persona 1" />
+<img src="http://nicholasgiles.com/assets/images/workspace/persona1.svg" class="bigger-image" alt="Persona 1" />
 
-<img src="http://nicholasgiles.com/images/workspace/persona2.svg" class="bigger-image" alt="Persona 1" />
+<img src="http://nicholasgiles.com/assets/images/workspace/persona2.svg" class="bigger-image" alt="Persona 1" />
 
 #### User Scenarios
 
@@ -75,7 +75,7 @@ Then I constructed two scenarios based on the personas that would be the startin
 
 The site map was constructed from the scenario steps and visually mapped to the eventual product information design.
 
-<img src="http://nicholasgiles.com/images/workspace/sitemap.svg" class="bigger-image" alt="Site Map" />
+<img src="http://nicholasgiles.com/assets/images/workspace/sitemap.svg" class="bigger-image" alt="Site Map" />
 
 ---
 
