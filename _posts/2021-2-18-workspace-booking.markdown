@@ -26,7 +26,7 @@ For this project I took a user-centered design approach to the design problem. I
 
 Through analyzing the mobile and desktop views of Wework, UC Berkeley Library, and University of Michigan Study Spaces websites, I conducted a competitive analysis. Most university websites are available to all, but some contain certain restrictions when it comes to reserving workspaces. These sites offer some form of calendar view, limited search functionality, and typically do not offer a map view. Wework’s search filters and map view makes it much easier to find available spaces.
 
-<img src="http://localhost:4000/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Domain Research" />
+<img src="http://nicholasgiles.com/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Domain Research" />
 
 #### User Interviews
 
@@ -41,9 +41,9 @@ Here are user interview questions that I formulated in order to gain qualitative
 
 By analyzing the answers to the surveys, the following personas were crafted:
 
-<img src="http://localhost:4000/assets/images/workspace/persona1.svg" class="bigger-image" alt="Persona 1" />
+<img src="http://nicholasgiles.com/images/workspace/persona1.svg" class="bigger-image" alt="Persona 1" />
 
-<img src="http://localhost:4000/assets/images/workspace/persona2.svg" class="bigger-image" alt="Persona 1" />
+<img src="http://nicholasgiles.com/images/workspace/persona2.svg" class="bigger-image" alt="Persona 1" />
 
 #### User Scenarios
 
@@ -75,11 +75,11 @@ Then I constructed two scenarios based on the personas that would be the startin
 
 The site map was constructed from the scenario steps and visually mapped to the eventual product information design.
 
-<img src="http://localhost:4000/assets/images/workspace/sitemap.svg" class="bigger-image" alt="Site Map" />
+<img src="http://nicholasgiles.com/images/workspace/sitemap.svg" class="bigger-image" alt="Site Map" />
 
 ---
 
-Still building the thing now... Please standby! 🙏
+Still building the things now... Please standby! 🙏
 
 ---
 
