@@ -79,7 +79,10 @@ The site map was constructed from the scenario steps and visually mapped to the 
 
 Next, I designed wireframes that incorporate all of the components outlined in the site map.
 
-<img src="http://nicholasgiles.com/assets/images/workspace/wireframes.svg" class="bigger-image" alt="Wireframes" />
+**Login Flow**
+<img src="http://nicholasgiles.com/assets/images/workspace/wireframes_reserve.svg" class="bigger-image" alt="Wireframes" />
+**My Spaces**
+<img src="http://nicholasgiles.com/assets/images/workspace/wireframes_myspaces.svg" class="bigger-image" alt="Wireframes" />
 
 ---
 
