@@ -77,12 +77,9 @@ The site map was constructed from the scenario steps and visually mapped to the 
 
 #### Wireframes
 
-Next, I designed wireframes that incorporate all of the components outlined in the site map.
+Next, I designed wireframes that incorporate all of the components outlined in the site map (ie. login flow, reserving a workspace, pinned workspaces).
 
-**Login Flow**
-<img src="http://nicholasgiles.com/assets/images/workspace/wireframes_reserve.svg" class="bigger-image" alt="Wireframes" />
-**My Spaces**
-<img src="http://nicholasgiles.com/assets/images/workspace/wireframes_myspaces.svg" class="bigger-image" alt="Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/workspace/wireframes.svg" class="bigger-image" alt="Wireframes" />
 
 ---
 
