@@ -22,19 +22,19 @@ description: "Workspace App"
 
 ### Approach
 
-To solve for this design problem, I took a user-centered approach and included stakeholders throughout the process. I began by doing domain research and conducting a **competitive analysis** to understand the product landscape. Next, I drafted interview protocol and, I conducted virtual **stakeholder interviews** to identify user needs. From there, I crafted **user personas** and **interaction scenarios**. Next, I was able to align on a core set of features by building a **site map** that ultimately went on to inform the **wireframes**. Using Figma, I designed a **high fidelity prototype**. After gathering additional user feedback, I iterated on the concept to create a "final" version of the design solution.
+To solve for this design problem, I took a user-centered approach, including stakeholders throughout the interaction design process. I began by doing domain research and conducting a **competitive analysis** to understand the product landscape. Next, I drafted interview protocol and I conducted virtual **stakeholder interviews** to identify user needs. From there, I crafted **user personas** and **interaction scenarios**. Next, I was able to align on a core set of features by building a **site map** that ultimately went on to inform the **wireframes**. Using Figma, I designed a **high fidelity prototype**. After gathering additional user feedback, I iterated on the concept to create a "final" version of the design solution.
 
 ### Research & Discovery
 
 #### Domain research
 
-There are many different applications out there that helps community members book workspaces. By analyzing the mobile and desktop web applications for wework, UC Berkeley Library, and University of Michigan Study Spaces websites, I gained an understanding of what solutions currently exist. Most university websites are available to all in the community, but some contain certain restrictions when it comes to reserving workspaces. These sites offer some form of calendar view to reserve workspaces. They tend to have limited search functionality, and typically do not offer a map view. However, wework’s search filters and map view are super helpful features and make it much easier to find available spaces to reserve
+There are many different digital tools out there that help community members reserve workspaces on university campuses. By analyzing web applications designed by UC Berkeley Library, University of Michigan Study Spaces, and even wework, I gained an understanding of the solutions that currently exist. Most university websites are accessible to all in the community, but some contain certain restrictions when it comes to reserving workspaces. These sites offer reservation services typically with some form of calendar view for users to select time slots. These websites tend to have limited search functionality, and typically do not offer a map view. However, wework’s search filters and map view are super helpful features and make it much easier to find available workspaces.
 
 <img src="http://nicholasgiles.com/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Competitive Analysis" />
 
 #### Stakeholder Interviews
 
-I began by drafting research questions for the stakeholder interviews to gather general information about the domain. The questions cover the general problem area and seek to gather sufficient details to inform the personas. Using zoom video conferencing technology, I interviewed three students at various levels of academia living in different states within the US. The research questions can be found below:
+In order to gain information about the domain and user needs, I began drafting research questions to conduct stakeholder interviews. The questions cover the general problem area and seek to gather sufficient details to inform personas. Using zoom video conferencing technology, I interviewed three students at various levels of academia living in different states within the US. The research questions can be found below:
 
 * What motivates people to use workspace reservation products and what basic tasks help them do so successfully?
 * What products, services, or methods do school communities currently use to book workspaces?
@@ -86,7 +86,7 @@ I designed wireframes for the majority of the interactions and components outlin
 
 #### Reflection
 
-The next steps after build the wireframes would be to align on a v1 visual style guide and create a basic high fidelity prototype. The prototype would be used to conduct usability tests in order to identify issues and improve upon the visual and interaction design. Those findings would inform a final high fidelity working prototype.
+The next steps after building the wireframes would be produce a visual style guide and create a basic high fidelity prototype. The prototype would be used to conduct usability tests in order to identify issues and improve upon the visual and interaction design. Those findings would inform a final high fidelity working prototype.
 
 ---
 
