@@ -44,14 +44,14 @@ In order to gain information about the domain and user needs, I began drafting r
 
 #### Personas
 
-I recorded the interviews using otter.ai and use the transcriptions to map affinity notes. By clustering related insights, I could draw high level themes from the qualitative research data. The insights were used to create two personas. Due to the limited research pool, I focused on behavioral elements of personas, including goals and frustrations with the shared workspace reservation experience.
+I recorded the stakeholder interviews and transcribed them using otter.ai in order to further analyze the findings. Using Figma, I mapped out and clustered related affinity notes which allowed me to draw high-level themes from the qualitative data. The insights were then used to create two personas. Due to the limited quantity of stakeholders interviewed, I avoided including demographic data and instead focused on the behavioral characteristics of the personas; motivations and frustrations related to shared workspace reservation services.
 
 <img src="http://nicholasgiles.com/assets/images/workspace/persona1.svg" class="bigger-image" alt="Persona 1" />
 <img src="http://nicholasgiles.com/assets/images/workspace/persona2.svg" class="bigger-image" alt="Persona 2" />
 
 #### User Scenarios
 
-Pulling from the two personas that were created, I constructed two interaction scenarios that would be the starting point for determining core functionality for a minimum viable product. In the scenarios, I tried to cover a majority of the key features that would allow me to build out the site map next.
+Pulling from the two personas that were created, I constructed two interaction scenarios that would be the starting point for determining core functionality for a minimum viable product. In the scenarios, I tried to cover a majority of the key features that would be required to build out a site map.
 
 **Scenario 1: The Careful Planner**
 
@@ -74,13 +74,13 @@ Pulling from the two personas that were created, I constructed two interaction s
 
 #### Site Map
 
-Next, I built a site map to document features uncovered in the interaction scenarios. By iterating on the site map, I eventually had all of the core features and interaction flows visually represented. The site map would become a helpful artifact to reference throughout the wireframe design process.
+Next, I built a site map to visualize and document the features uncovered in the interaction scenarios. By iterating on the site map, I eventually had all of the core features and interaction flows visually represented. The site map would become a helpful artifact to reference throughout the wireframe design process.
 
 <img src="http://nicholasgiles.com/assets/images/workspace/sitemap.svg" class="bigger-image" alt="Site Map" />
 
 #### Wireframes
 
-I designed wireframes for the majority of the interactions and components outlined in the site map. This includes the login flow, search functionality, reserving a workspace, current workspace options, and pinned workspaces.
+The wireframes were designed to cover a majority of the interactions and components outlined in the site map. This includes the login flow, search functionality, reserving a workspace, current workspace options, and pinned workspaces.
 
 <img src="http://nicholasgiles.com/assets/images/workspace/wireframes.svg" class="bigger-image" alt="Wireframes" />
 
