@@ -1,5 +1,5 @@
 ---
-title: "Workspace Booking"
+title: "Workspace App"
 layout: post
 date: 2021-2-18 13:09
 image: #
@@ -9,28 +9,33 @@ tag:
 - IxD
 category: project
 projects: true
-description: "Workspace Booking"
+description: "Workspace App"
 ---
 
 ### Design Problem
 
 “Your school wants to provide dedicated spaces for students to help them focus on their academic studies. Design an experience for students, professors, and members of the school community to reserve work desks/spaces in the library. Consider the experience of checking availability, reserving the space, and reporting any issues.”
 
+### Project Overview
+* Discipline: Interaction Design
+* Tools Used: Figma, Photoshop, Illustrator, Otter.ai
+
 ### Approach
 
-For this project I took a user-centered design approach to the design problem. I began by researching competitors and doing **domain research**, and then creating interview protocol and conducting virtual **user interviews** to gather information. From there, I crafted **user personas** and **interaction scenarios**. Next,I was able to align on a core set of features by building a site map that went on to inform the **wireframes**. Using Figma, I designed a **high fidelity prototype**. After gathering additional user feedback, I iterated on the concept to create a "final" version of the high fidelity prototype.
+To solve for this design problem, I took a user-centered approach and included stakeholders throughout the process. I began by doing domain research and conducting a **competitive analysis** to understand the product landscape. Next, I drafted interview protocol and, I conducted virtual **stakeholder interviews** to identify user needs. From there, I crafted **user personas** and **interaction scenarios**. Next, I was able to align on a core set of features by building a **site map** that ultimately went on to inform the **wireframes**. Using Figma, I designed a **high fidelity prototype**. After gathering additional user feedback, I iterated on the concept to create a "final" version of the design solution.
 
 ### Research & Discovery
 
 #### Domain research
 
-Through analyzing the mobile and desktop views of Wework, UC Berkeley Library, and University of Michigan Study Spaces websites, I conducted a competitive analysis. Most university websites are available to all, but some contain certain restrictions when it comes to reserving workspaces. These sites offer some form of calendar view, limited search functionality, and typically do not offer a map view. Wework’s search filters and map view makes it much easier to find available spaces.
+There are many different applications out there that helps community members book workspaces. By analyzing the mobile and desktop web applications for wework, UC Berkeley Library, and University of Michigan Study Spaces websites, I gained an understanding of what solutions currently exist. Most university websites are available to all in the community, but some contain certain restrictions when it comes to reserving workspaces. These sites offer some form of calendar view to reserve workspaces. They tend to have limited search functionality, and typically do not offer a map view. However, wework’s search filters and map view are super helpful features and make it much easier to find available spaces to reserve
 
-<img src="http://nicholasgiles.com/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Domain Research" />
+<img src="http://nicholasgiles.com/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Competitive Analysis" />
 
-#### User Interviews
+#### Stakeholder Interviews
 
-Here are user interview questions that I formulated in order to gain qualitative data on the domain:
+I began by drafting research questions for the stakeholder interviews to gather general information about the domain. The questions cover the general problem area and seek to gather sufficient details to inform the personas. Using zoom video conferencing technology, I interviewed three students at various levels of academia living in different states within the US. The research questions can be found below:
+
 * What motivates people to use workspace reservation products and what basic tasks help them do so successfully?
 * What products, services, or methods do school communities currently use to book workspaces?
 * What expectations do people have for new products and services?
@@ -39,51 +44,49 @@ Here are user interview questions that I formulated in order to gain qualitative
 
 #### Personas
 
-By analyzing the answers to the surveys, the following personas were crafted:
+I recorded the interviews using otter.ai and use the transcriptions to map affinity notes. By clustering related insights, I could draw high level themes from the qualitative research data. The insights were used to create two personas. Due to the limited research pool, I focused on behavioral elements of personas, including goals and frustrations with the shared workspace reservation experience.
 
 <img src="http://nicholasgiles.com/assets/images/workspace/persona1.svg" class="bigger-image" alt="Persona 1" />
 <img src="http://nicholasgiles.com/assets/images/workspace/persona2.svg" class="bigger-image" alt="Persona 2" />
 
 #### User Scenarios
 
-Then I constructed two scenarios based on the personas that would be the starting point for determining core functionality for the minimum viable product.
+Pulling from the two personas that were created, I constructed two interaction scenarios that would be the starting point for determining core functionality for a minimum viable product. In the scenarios, I tried to cover a majority of the key features that would allow me to build out the site map next.
 
 **Scenario 1: The Careful Planner**
-* Looking for a study space at their university that is near their classmates.
-* Wants to make sure there are electrical outlets.
-* Adds all of this criteria and gets a map view of options.
-* Books a study space and invites others.
-* Receives a confirmation email & push notification, and adds booking to. personal calendar.
+
+* Looking for a study space on university campus for three people that is located near the dorms.
+* Adds this criteria to the application and receives a map view of available workspaces.
+* Reserves a workspace and invites others.
+* Receives a confirmation email & push notification, and adds reservation to personal calendar.
 * Receives a push notification reminder prior to reservation.
-* Edits the location and time and sends an update to group members.
-* Is alerted of another room that has freed up and swaps the rooms out.
-* Has a great experience.
+* Edits the location and time of the reservation and sends an update to group members.
 
 **Scenario 2: The Inclusive Teammate**
-* Needs to find a space where their friend who uses a wheelchair can easily access and roll up to the desk.
-* Wants to ensure that masks are required in the study space for safety, and other COVID precautions are taken.
-* Books the reservation.
+
+* Needs to find a workspace that is wheelchair accessible.
+* Wants to ensure that masks are required in the study space and other COVID-19 precautions are taken.
+* Finds a workspace on the app that satisfies the criteria and reserves it.
 * Arrives at the room and notices equipment is missing.
 * Reports the issue and chats with staff who helps resolve problem.
-* Leaves feedback about the missing electrical slots and malfunctioning equipment.
 
 ### Design
 
 #### Site Map
 
-The site map was constructed from the scenario steps and visually mapped to the eventual product information design.
+Next, I built a site map to document features uncovered in the interaction scenarios. By iterating on the site map, I eventually had all of the core features and interaction flows visually represented. The site map would become a helpful artifact to reference throughout the wireframe design process.
 
 <img src="http://nicholasgiles.com/assets/images/workspace/sitemap.svg" class="bigger-image" alt="Site Map" />
 
 #### Wireframes
 
-Next, I designed wireframes that incorporate all of the components outlined in the site map (ie. login flow, reserving a workspace, pinned workspaces).
+I designed wireframes for the majority of the interactions and components outlined in the site map. This includes the login flow, search functionality, reserving a workspace, current workspace options, and pinned workspaces.
 
 <img src="http://nicholasgiles.com/assets/images/workspace/wireframes.svg" class="bigger-image" alt="Wireframes" />
 
----
+#### Reflection
 
-Still building the things now... Please stand by! 🙏
+The next steps after build the wireframes would be to align on a v1 visual style guide and create a basic high fidelity prototype. The prototype would be used to conduct usability tests in order to identify issues and improve upon the visual and interaction design. Those findings would inform a final high fidelity working prototype.
 
 ---
 
