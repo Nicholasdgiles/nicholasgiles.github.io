@@ -5,8 +5,8 @@ date: 2021-2-18 13:09
 image: #
 headerImage: false
 tag:
-- UX Design
 - IxD
+- UX
 category: project
 projects: true
 description: "Workspace App"
@@ -28,9 +28,9 @@ To solve for this design problem, I took a user-centered approach, including sta
 
 #### Domain research
 
-There are many different digital tools out there that help community members reserve workspaces on university campuses. By analyzing web applications designed by UC Berkeley Library, University of Michigan Study Spaces, and even wework, I gained an understanding of the solutions that currently exist. Most university websites are accessible to all in the community, but some contain certain restrictions when it comes to reserving workspaces. These sites offer reservation services typically with some form of calendar view for users to select time slots. These websites tend to have limited search functionality, and typically do not offer a map view. However, wework’s search filters and map view are super helpful features and make it much easier to find available workspaces.
+There are many different digital tools out there that help community members reserve workspaces on university campuses. By analyzing web applications designed by UC Berkeley Library, University of Michigan Study Spaces, and even wework, I gained an understanding of the solutions and features that currently exist. Most university websites are free and accessible to all in the community, but some contain certain restrictions when it comes to reserving workspaces. These sites offer reservation services typically with some form of calendar view for users to select time slots. These websites tend to have limited search functionality, and typically do not offer a map view. However, wework’s search filters and map view are super helpful features and make it much easier to find available workspaces.
 
-<img src="http://nicholasgiles.com/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Competitive Analysis" />
+<img src="http://localhost:4000/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Competitive Analysis" />
 
 #### Stakeholder Interviews
 
