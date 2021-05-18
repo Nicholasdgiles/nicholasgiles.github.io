@@ -75,10 +75,10 @@ Sketching basic wireframes of the core screens and components was the step in th
 <img src="https://nicholasgiles.com/assets/images/timetravel/sketch1.png" alt="Sketch 1" class = "partialwidth"/>
 <figcaption>Final Sketches</figcaption>
 
-<img src="https://nicholasgiles.com/assets/images/timetravel/sketch2.png" alt="Sketch 2" class = "partialwidth"/></p>
+<img src="https://nicholasgiles.com/assets/images/timetravel/sketch2.png" alt="Sketch 2" class = "partialwidth"/>
 <figcaption>Alternate Sketches</figcaption>
 
-<img src="https://nicholasgiles.com/assets/images/timetravel/sketch_icons.png" alt="Sketch Icons" class = "partialwidth"/></p>
+<img src="https://nicholasgiles.com/assets/images/timetravel/sketch_icons.png" alt="Sketch Icons" class = "partialwidth"/>
 <figcaption>Icon Sketches</figcaption>
 
 #### Wireframes
@@ -96,11 +96,10 @@ I pulled inspiration from mobile and tablet websites and applications. This visu
 
 <img src="https://nicholasgiles.com/assets/images/timetravel/inspo.svg" alt="Inspiration" class = "bigger-image"/>
 
-#### Colors
-<img src="https://nicholasgiles.com/assets/images/timetravel/style-guide-colors.svg" alt="Style Guide: Colors" class = "bigger-image"/></p>
+#### Style Guide
+<img src="https://nicholasgiles.com/assets/images/timetravel/style-guide-colors.svg" alt="Style Guide: Colors" class = "bigger-image"/>
 
-#### Typography
-<img src="https://nicholasgiles.com/assets/images/timetravel/style-guide-type.svg" alt="Style Guide: Type" class = "bigger-image"/></p>
+<img src="https://nicholasgiles.com/assets/images/timetravel/style-guide-type.svg" alt="Style Guide: Type" class = "bigger-image"/>
 
 
 #### High-Fidelity Screens
