@@ -2,8 +2,8 @@
 title: "Time Travel App"
 layout: post
 date: 2020-03-07 05:17
-image: /assets/images/backyard_iOS_icon.png
-headerImage: true
+image:
+headerImage: false
 tag:
 - UX Design
 - UX Research
@@ -23,7 +23,7 @@ Design two key screens for a time travel app, including a small icon set. Create
 * Platforms: Mobile
 * Tools Used: Figma, Photoshop, Illustrator
 
-<hr />
+---
 
 ### Approach
 
@@ -31,7 +31,7 @@ To solve for this design problem, I began by drafting **research questions** and
 
 <img src="assets/images/timetravel/process-diagram.svg" alt="Process Diagram" class = "bigger-image"/>
 
-<hr />
+---
 
 ### Research
 
@@ -73,7 +73,7 @@ Despite the pandemic, I was able to conduct two user interviews, albeit remotely
 
 <img src="assets/images/timetravel/persona_social-traveler.svg" alt="Persona: Social Traveler.svg" class = "bigger-image"/>
 
-<hr />
+---
 
 ### Design
 
@@ -121,10 +121,6 @@ I pulled inspiration from mobile and tablet websites and applications. This visu
 #### Reflection
 
 If I were to spend additional time on this project, I would do more sketching and wireframing, and design a few more high fidelity screens. The next steps in the design process for this project could be to build a prototype and test it with users in order to continue iterating on the product.
-
-<hr />
-
-heck out some of my other <span class = "highlight"><a href="index.html">case studies</a></span>.
 
 ---
 

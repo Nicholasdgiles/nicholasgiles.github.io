@@ -2,7 +2,7 @@
 title: "Biscotti App"
 layout: post
 date: 2020-04-12 08:12
-image: /assets/assets/images/biscotti_appicon.svg
+image: /assets/images/biscotti_appicon.svg
 headerImage: true
 tag:
 - UX Design
@@ -11,7 +11,7 @@ category: project
 projects: true
 description: "Biscotti mobile iOS app design | SI 520 Graphic Design."
 ---
-<img src="http://nicholasgiles.com/assets/assets/images/high-fidelity-screens.png" class="bigger-image" alt="Biscotti App Icon" />
+<img src="http://nicholasgiles.com/assets/images/high-fidelity-screens.png" class="bigger-image" alt="Biscotti App Icon" />
 
 ### Design Problem
 

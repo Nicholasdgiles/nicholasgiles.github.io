@@ -30,7 +30,7 @@ To solve for this design problem, I took a user-centered approach, including sta
 
 There are many different digital tools out there that help community members reserve workspaces on university campuses. By analyzing web applications designed by UC Berkeley Library, University of Michigan Study Spaces, and even wework, I gained an understanding of the solutions and features that currently exist. Most university websites are free and accessible to all in the community, but some contain certain restrictions when it comes to reserving workspaces. These sites offer reservation services typically with some form of calendar view for users to select time slots. These websites tend to have limited search functionality, and typically do not offer a map view. However, wework’s search filters and map view are super helpful features and make it much easier to find available workspaces.
 
-<img src="http://nicholasgiles.com/assets/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Competitive Analysis" />
+<img src="http://nicholasgiles.com/assets/images/workspace/competitiveanalysis.svg" class="bigger-image" alt="Competitive Analysis" />
 
 #### Stakeholder Interviews
 
@@ -46,8 +46,8 @@ In order to gain information about the domain and user needs, I began drafting r
 
 I recorded the stakeholder interviews and transcribed them using otter.ai in order to further analyze the findings. Using Figma, I mapped out and clustered related affinity notes which allowed me to draw high-level themes from the qualitative data. The insights were then used to create two personas. Due to the limited quantity of stakeholders interviewed, I avoided including demographic data and instead focused on the behavioral characteristics of the personas; motivations and frustrations related to shared workspace reservation services.
 
-<img src="http://nicholasgiles.com/assets/assets/images/workspace/persona1.svg" class="bigger-image" alt="Persona 1" />
-<img src="http://nicholasgiles.com/assets/assets/images/workspace/persona2.svg" class="bigger-image" alt="Persona 2" />
+<img src="http://nicholasgiles.com/assets/images/workspace/persona1.svg" class="bigger-image" alt="Persona 1" />
+<img src="http://nicholasgiles.com/assets/images/workspace/persona2.svg" class="bigger-image" alt="Persona 2" />
 
 #### User Scenarios
 
@@ -76,13 +76,13 @@ Pulling from the two personas that were created, I constructed two interaction s
 
 Next, I built a site map to visualize and document the features uncovered in the interaction scenarios. By iterating on the site map, I eventually had all of the core features and interaction flows visually represented. The site map would become a helpful artifact to reference throughout the wireframe design process.
 
-<img src="http://nicholasgiles.com/assets/assets/images/workspace/sitemap.svg" class="bigger-image" alt="Site Map" />
+<img src="http://nicholasgiles.com/assets/images/workspace/sitemap.svg" class="bigger-image" alt="Site Map" />
 
 #### Wireframes
 
 The wireframes were designed to cover a majority of the interactions and components outlined in the site map. This includes the login flow, search functionality, reserving a workspace, current workspace options, and pinned workspaces.
 
-<img src="http://nicholasgiles.com/assets/assets/images/workspace/wireframes.svg" class="bigger-image" alt="Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/workspace/wireframes.svg" class="bigger-image" alt="Wireframes" />
 
 #### Reflection
 
