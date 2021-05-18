@@ -2,7 +2,7 @@
 title: "Biscotti App"
 layout: post
 date: 2021-04-12 02:44
-image: /assets/images/timetravel/biscotti/biscotti_appicon.svg
+image: /assets/images/biscotti/biscotti_appicon.svg
 headerImage: true
 tag:
 - UX Design
@@ -11,7 +11,7 @@ category: project
 projects: true
 description: "Biscotti mobile iOS app design | SI 520 Graphic Design."
 ---
-<img src="http://nicholasgiles.com/assets/images/timetravel/biscotti/high-fidelity-screens.png" class="bigger-image" alt="Biscotti App Icon" />
+<img src="https://nicholasgiles.com/assets/images/biscotti/high-fidelity-screens.png" class="bigger-image" alt="Biscotti App Icon" />
 
 ### Design Problem
 
@@ -30,29 +30,29 @@ services. They are in need of a new brand design and a digital product (an app o
 
 Sketching possible solutions helped me hone in on the features and components that would be most important to include.
 
-<img src="assets/images/timetravel/biscotti/biscotti/sketches.svg" alt="Sketches" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/biscotti/sketches.svg" alt="Sketches" class = "bigger-image"/>
 <figcaption>Sketches</figcaption>
 
 #### Wireframes</h4>
 
 I then crafted wireframes and refined the user experience for the home, menu, checkout, payment method, discounts, and login screens.
 
-<img src="assets/images/timetravel/biscotti/biscotti/wireframes.svg" alt="Wireframes" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/biscotti/wireframes.svg" alt="Wireframes" class = "bigger-image"/>
 <figcaption>Wireframes</figcaption>
 
 ### Visual Design
 
 #### Style Guide
-<img src="assets/images/timetravel/biscotti/biscotti/styleguide.svg" alt="Style Guide" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/biscotti/styleguide.svg" alt="Style Guide" class = "bigger-image"/>
 
 #### High-Fidelity Screens
 
 I applied the visual style guide to the wireframes in order to create high-fidelity screens.
 
-<img src="assets/images/timetravel/biscotti/biscotti/high-fidelity-screens.png" alt="High Fidelity Screens" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/biscotti/high-fidelity-screens.png" alt="High Fidelity Screens" class = "bigger-image"/>
 
 <br>
-<img src="assets/images/timetravel/biscotti/biscotti/product-marketing-screen.png" alt="Biscotti App Hero Image" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/biscotti/product-marketing-screen.png" alt="Biscotti App Hero Image" class = "bigger-image"/>
 
 ---
 

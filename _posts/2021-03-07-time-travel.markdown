@@ -12,7 +12,7 @@ projects: true
 description: "Time Travel iOS app | SI 520 Graphic Design."
 ---
 
-<img src="assets/images/timetravel/heroimage.png" alt="Time Travel Hero Image" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/heroimage.png" alt="Time Travel Hero Image" class = "bigger-image"/>
 
 ### Design Problem
 
@@ -29,7 +29,7 @@ Design two key screens for a time travel app, including a small icon set. Create
 
 To solve for this design problem, I began by drafting **research questions** and conducting virtual stakeholder interviews to identify user needs. From there, I crafted **user personas** and did some quick **sketches**. Finally, I was able to align on a core set of features by building **wireframes**, that ultimately went on to inform the **style guide** and **high-fidelity screens**.
 
-<img src="assets/images/timetravel/process-diagram.svg" alt="Process Diagram" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/process-diagram.svg" alt="Process Diagram" class = "bigger-image"/>
 
 ---
 
@@ -69,9 +69,9 @@ From the high level research questions, individual interview questions were draf
 
 Despite the pandemic, I was able to conduct two user interviews, albeit remotely. I distilled all of the interviews and findings into two personas. I decided to focus on the motivations and obstacles that people may experience while shopping or managing a small business.
 
-<img src="assets/images/timetravel/persona_assistive-tech-user.svg" alt="Persona: Assistive Tech User" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/persona_assistive-tech-user.svg" alt="Persona: Assistive Tech User" class = "bigger-image"/>
 
-<img src="assets/images/timetravel/persona_social-traveler.svg" alt="Persona: Social Traveler.svg" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/persona_social-traveler.svg" alt="Persona: Social Traveler.svg" class = "bigger-image"/>
 
 ---
 
@@ -81,20 +81,20 @@ Despite the pandemic, I was able to conduct two user interviews, albeit remotely
 
 Sketching basic wireframes of the core screens and components was the step in the design process. I sketched a few variations of each screen in order to document some basic concepts and layouts. I also sketched some icons that would go on to be used in the final high fidelity screens.
 
-<img src="assets/images/timetravel/sketch1.png" alt="Sketch 1" class = "partialwidth"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/sketch1.png" alt="Sketch 1" class = "partialwidth"/>
 <figcaption>Final Sketches</figcaption>
 
-<img src="assets/images/timetravel/sketch2.png" alt="Sketch 2" class = "partialwidth"/></p>
+<img src="https://nicholasgiles.com/assets/images/timetravel/sketch2.png" alt="Sketch 2" class = "partialwidth"/></p>
 <figcaption>Alternate Sketches</figcaption>
 
-<img src="assets/images/timetravel/sketch_icons.png" alt="Sketch Icons" class = "partialwidth"/></p>
+<img src="https://nicholasgiles.com/assets/images/timetravel/sketch_icons.png" alt="Sketch Icons" class = "partialwidth"/></p>
 <figcaption>Icon Sketches</figcaption>
 
 #### Wireframes
 
 I replicated the sketches as wireframes with a few minor adjustments.
 
-<img src="assets/images/timetravel/wireframes.svg" alt="Wireframes" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/wireframes.svg" alt="Wireframes" class = "bigger-image"/>
 <figcaption>Wireframes</figcaption>
 
 ### Visual Design
@@ -103,20 +103,20 @@ I replicated the sketches as wireframes with a few minor adjustments.
 
 I pulled inspiration from mobile and tablet websites and applications. This visual mood board served as a starting point for developing the style guide.
 
-<img src="assets/images/timetravel/inspo.svg" alt="Inspiration" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/inspo.svg" alt="Inspiration" class = "bigger-image"/>
 
 #### Colors
-<img src="assets/images/timetravel/style-guide-colors.svg" alt="Style Guide: Colors" class = "bigger-image"/></p>
+<img src="https://nicholasgiles.com/assets/images/timetravel/style-guide-colors.svg" alt="Style Guide: Colors" class = "bigger-image"/></p>
 
 #### Typography
-<img src="assets/images/timetravel/style-guide-type.svg" alt="Style Guide: Type" class = "bigger-image"/></p>
+<img src="https://nicholasgiles.com/assets/images/timetravel/style-guide-type.svg" alt="Style Guide: Type" class = "bigger-image"/></p>
 
 
 #### High-Fidelity Screens
 
-<img src="assets/images/timetravel/hifi.svg" alt="High-Fidelity Prototype" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/hifi.svg" alt="High-Fidelity Prototype" class = "bigger-image"/>
 
-<img src="assets/images/timetravel/product_marketing_slide.svg" alt="Time Travel Hero Image" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/timetravel/product_marketing_slide.svg" alt="Time Travel Hero Image" class = "bigger-image"/>
 
 #### Reflection
 
