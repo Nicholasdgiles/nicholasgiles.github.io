@@ -1,5 +1,5 @@
 ---
-title: "Backyard Mobile App"
+title: "Backyard App"
 layout: post
 date: 2020-12-13 20:54
 image: /assets/images/backyard_iOS_icon.png

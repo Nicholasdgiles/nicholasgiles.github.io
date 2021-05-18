@@ -1,7 +1,7 @@
 ---
 title: "Time Travel App"
 layout: post
-date: 2020-03-07 05:17
+date: 2021-03-07 11:23
 image:
 headerImage: false
 tag:
@@ -14,7 +14,7 @@ description: "Time Travel iOS app | SI 520 Graphic Design."
 
 <img src="assets/images/timetravel/heroimage.png" alt="Time Travel Hero Image" class = "bigger-image"/>
 
-### Design Problem<
+### Design Problem
 
 Design two key screens for a time travel app, including a small icon set. Create two personas and build a solution off of that.
 
