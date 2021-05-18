@@ -39,31 +39,22 @@ To solve for this design problem, I began by drafting **research questions** and
 
 I crafted high level research questions for the stakeholder interviews in order to gather attitudinal, behavioral, and characteristic information.
 
-**Attitudinal:**
-* How do people feel about time travel?
-* What are their thoughts on products that could facilitate time travel?
+* **Attitudinal:** "How do people feel about time travel? What are their thoughts on products that could facilitate time travel?"
 
-**Behavioral:**
-* Why and how do people currently travel and what are their pain points?
+* **Behavioral:** "Why and how do people currently travel and what are their pain points?"
 
-**Characteristic:**
-* Who would benefit from a time machine product?
-* Who are the stakeholders of this product?
+* **Characteristic:** "Who would benefit from a time machine product? Who are the stakeholders of this product?"
 
 
 #### Interview Questions
 
 From the high level research questions, individual interview questions were drafted. These questions ladder up to the attitudinal, behavioral, and characteristic information that will go on to inform the personas.
 
-**Attitudinal:**
-* “What do you see as the main benefits or negative consequences of time travel?”
-* “If you could wave a magic wand what would the act of time travel look like to you?”
+* **Attitudinal:** “What do you see as the main benefits or negative consequences of time travel? If you could wave a magic wand what would the act of time travel look like to you?”
 
-**Behavioral:**
-* “What are important considerations when preparing to travel to a different location in real life right now?”
+* **Behavioral:** “What are important considerations when preparing to travel to a different location in real life right now?”
 
-**Characteristic:**
-* “If you were able to time travel, what would you do, when in time would you travel to? What are your motivations or goals?”
+* **Characteristic:** “If you were able to time travel, what would you do, when in time would you travel to? What are your motivations or goals?”
 
 #### Stakeholder Personas
 
