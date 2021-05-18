@@ -30,7 +30,7 @@ services. They are in need of a new brand design and a digital product (an app o
 
 Sketching possible solutions helped me hone in on the features and components that would be most important to include.
 
-<img src="https://nicholasgiles.com/assets/images/biscotti/sketches.svg" alt="Sketches" class = "bigger-image"/>
+<img src="https://nicholasgiles.com/assets/images/biscotti/sketches.png" alt="Sketches" class = "bigger-image"/>
 <figcaption>Sketches</figcaption>
 
 #### Wireframes
