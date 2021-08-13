@@ -11,7 +11,7 @@ category: project
 projects: true
 description: "Biscotti mobile iOS app design | SI 520 Graphic Design."
 ---
-<img src="https://nicholasgiles.com/assets/images/biscotti/product-marketing-screen.png" class="bigger-image" alt="Biscotti App Icon" />
+<img src="https://nicholasgiles.com/assets/images/biscotti/biscotti-hero.png" class="bigger-image" alt="Biscotti Mobile Order" />
 
 ### Design Problem
 
