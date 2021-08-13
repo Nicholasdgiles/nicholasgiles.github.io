@@ -15,8 +15,7 @@ description: "Biscotti mobile iOS app design | SI 520 Graphic Design."
 
 ### Design Problem
 
-"Biscotti" is a coffee shop that offers the ultimate coffee and biscotti experience. The coffee shop offers indoor and outdoor sitting (when the weather permits) and pick-up/delivery
-services. They are in need of a new brand design and a digital product (an app or a website).
+"Biscotti" is a coffee shop that offers the ultimate coffee and biscotti experience. The coffee shop offers indoor and outdoor sitting (when the weather permits) and pick-up/delivery services. They are in need of a new brand design and a digital product (an app or a website).
 
 ### Project Overview
 * Discipline: Brand Design, Product Design
@@ -28,14 +27,14 @@ services. They are in need of a new brand design and a digital product (an app o
 
 #### Sketches
 
-Sketching possible solutions helped me hone in on the features and components that would be most important to include.
+First, I started exploring product options and brainstormed solutions by looking at competitor's products. Then I moved onto sketching possible solutions which helped me hone in on the features and components that would be most important to include.
 
 <img src="https://nicholasgiles.com/assets/images/biscotti/sketches.png" alt="Sketches" class = "bigger-image"/>
 <figcaption>Sketches</figcaption>
 
 #### Wireframes
 
-I then crafted wireframes and refined the user experience for the home, menu, checkout, payment method, discounts, and login screens.
+After I aligned on core features, I then crafted wireframes and refined the user experience for the home, menu, checkout, payment method, discounts, and login screens.
 
 <img src="https://nicholasgiles.com/assets/images/biscotti/wireframes.svg" alt="Wireframes" class = "bigger-image"/>
 <figcaption>Wireframes</figcaption>
@@ -43,11 +42,14 @@ I then crafted wireframes and refined the user experience for the home, menu, ch
 ### Visual Design
 
 #### Style Guide
+
+The style guide was created with the Biscotti brand in mind. Using the client's creative requirements I was able to decide on primary and secondary colors, spacing, and font choices.
+
 <img src="https://nicholasgiles.com/assets/images/biscotti/styleguide.svg" alt="Style Guide" class = "bigger-image"/>
 
 #### High-Fidelity Screens
 
-I applied the visual style guide to the wireframes in order to create high-fidelity screens.
+I then applied the visual style guide to the wireframes in order to create high-fidelity screens. Using the coffee color scheme to make important elements pop, as well as a lot of white space, I was able to create key screens that show the end-to-end shopping and checkout flow.
 
 <img src="https://nicholasgiles.com/assets/images/biscotti/high-fidelity-screens.png" alt="High Fidelity Screens" class = "bigger-image"/>
 

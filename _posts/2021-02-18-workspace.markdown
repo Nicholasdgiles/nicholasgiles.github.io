@@ -91,7 +91,7 @@ The wireframes were designed to cover a majority of the interactions and compone
 
 With bright cheerful secondary colors and a dark teal primary color, I designed the high fidelity screens to make users feel calm and comfortable. I used a card system  for each booking to help keep visual elements together. Filter buttons and other elements used 24px rounded corners to follow current chip-button design trends. I opted for the login screen to have a dark teal background color in order to create a sense of wonder and interest and encourage people to sign up.
 
-<img src="http://nicholasgiles.com/assets/images/workspace/workspace-hifi.png" class="bigger-image" alt="Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/workspace/workspace-hifi.png" class="bigger-image" alt="High-Fidelity Screens" />
 
 
 #### Reflection
