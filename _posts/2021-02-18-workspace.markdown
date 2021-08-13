@@ -1,7 +1,7 @@
 ---
-title: "Workspace App"
+title: "Workspace Booking"
 layout: post
-date: 2021-2-18 13:09
+date: 2021-6-4 12:33
 image: #
 headerImage: false
 tag:
@@ -9,8 +9,11 @@ tag:
 - UX
 category: project
 projects: true
-description: "Workspace App"
+description: "Workspace Booking App"
 ---
+
+<img src="http://nicholasgiles.com/assets/images/workspace/workspace-hero.png" class="bigger-image" alt="Workspace Hero Image" />
+
 
 ### Design Problem
 
@@ -84,9 +87,16 @@ The wireframes were designed to cover a majority of the interactions and compone
 
 <img src="http://nicholasgiles.com/assets/images/workspace/wireframes.svg" class="bigger-image" alt="Wireframes" />
 
+#### High-Fidelity Screens
+
+With bright cheerful secondary colors and a dark teal primary color, I designed the high fidelity screens to make users feel calm and comfortable. I used a card system  for each booking to help keep visual elements together. Filter buttons and other elements used 24px rounded corners to follow current chip-button design trends. I opted for the login screen to have a dark teal background color in order to create a sense of wonder and interest and encourage people to sign up.
+
+<img src="http://nicholasgiles.com/assets/images/workspace/workspace-hifi.svg" class="bigger-image" alt="Wireframes" />
+
+
 #### Reflection
 
-The next steps after building the wireframes would be produce a visual style guide and create a basic high fidelity prototype. The prototype would be used to conduct usability tests in order to identify issues and improve upon the visual and interaction design. Those findings would inform a final high fidelity working prototype.
+The next steps after building the high fidelity screens would be to create a basic high fidelity prototype. The prototype would be used to conduct usability tests in order to identify issues and improve upon the visual and interaction design. Those findings would inform a final high fidelity working prototype.
 
 ---
 
