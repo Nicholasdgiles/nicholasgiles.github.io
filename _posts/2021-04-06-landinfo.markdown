@@ -23,7 +23,7 @@ Land.info is an interactive 3D landscape visualization tool that harnesses socia
 
 Our team helped with user research and needs assessment on Land Info in order to identify common usability issues and recommend improvements; we conducted stakeholder interviews, deployed a survey, performed a heuristic evaluation, and finished with usability tests. Our high level findings and recommendations can be be found in the final report video below.
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=AC8h4HnWyys" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_oGXBPg5eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
