@@ -1,7 +1,7 @@
 ---
 title: "Land.Info Usability Test"
 layout: post
-date: 2021-6-4 11:28
+date: 2021-4-9 11:28
 image: #
 headerImage: false
 tag:
@@ -12,18 +12,18 @@ projects: true
 description: "Land.Info Usability Test"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_oGXBPg5eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Project Overview
 * Discipline: User Research
-* Course: SI 622 Needs Assessment and Usability Testing
+* Course: SI 622: Needs Assessment and Usability Testing
 * Tools Used: Google Suite, Figma, Otter.ai
 
 ### Summary
 
 Land.info is an interactive 3D landscape visualization tool that harnesses social, ecological and economic data to support practitioners with planning city, community, and environmental projects. Using this tool, users can place natural objects (terrain, trees) and man-made objects (road, benches, green infrastructure) as well as calculate cost based on different scenarios. Furthermore, the tool can also assess environmental and social impact, such as calculating carbon-dioxide and stormwater absorbed by plants.
 
-Our team helped with user research and needs assessment on Land Info in order to identify common usability issues and recommend improvements; we conducted stakeholder interviews, deployed a survey, performed a heuristic evaluation, and finished with usability tests. Our high level findings and recommendations can be be found in the final report video below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H_oGXBPg5eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Our team helped with user research and needs assessment on Land Info in order to identify common usability issues and recommend improvements; we conducted stakeholder interviews, deployed a survey, performed a heuristic evaluation, and finished with usability tests. Our high level findings and recommendations can be be found in the final video report above.
 
 ---
 
