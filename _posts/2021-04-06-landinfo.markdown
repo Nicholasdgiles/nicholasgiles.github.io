@@ -1,0 +1,30 @@
+---
+title: "Land.Info Usability Test"
+layout: post
+date: 2021-6-4 11:28
+image: #
+headerImage: false
+tag:
+- IxD
+- UX
+category: project
+projects: true
+description: "Land.Info Usability Test"
+---
+
+### Project Overview
+* Discipline: User Research
+* Course: SI 622 Needs Assessment and Usability Testing
+* Tools Used: Google Suite, Figma, Otter.ai
+
+### Summary
+
+Land.info is an interactive 3D landscape visualization tool that harnesses social, ecological and economic data to support practitioners with planning city, community, and environmental projects. Using this tool, users can place natural objects (terrain, trees) and man-made objects (road, benches, green infrastructure) as well as calculate cost based on different scenarios. Furthermore, the tool can also assess environmental and social impact, such as calculating carbon-dioxide and stormwater absorbed by plants.
+
+Our team helped with user research and needs assessment on Land Info in order to identify common usability issues and recommend improvements; we conducted stakeholder interviews, deployed a survey, performed a heuristic evaluation, and finished with usability tests. Our high level findings and recommendations can be be found in the final report video below.
+
+<iframe width="560" height="310" src="https://www.youtube.com/watch?v=H_oGXBPg5eU" frameborder="0" allowfullscreen></iframe>
+
+---
+
+Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
