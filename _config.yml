@@ -111,7 +111,7 @@ plugins:
   - jekyll-admin
   - jekyll-paginate-v2
 
-repository: ngiles/myblog
+repository: nicholasgiles.github.io
 
 jekyll-mentions:
   base_url: https://github.com
