@@ -17,7 +17,7 @@ description: "Plantcare Assistant"
 
 ### Coming Soon!
 
-This fall I am working on a IoT device and companion mobile application called the Plantcare Assistant. More information will be added here throughout the course of the project, so check back soon!
+I am currently working on the design of a soil moisture sensor device and companion mobile application that will help people take care of their plants. More information will be added here throughout the course of the project, so check back soon!
 
 ### Project Overview
 * Course: SI 612: Pervasive Interaction Design
