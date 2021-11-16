@@ -1,5 +1,5 @@
 ---
-title: "Plantcare Assistant"
+title: "🆕 Plantcare Assistant"
 layout: post
 date: 2021-11-10 11:12
 image: #
@@ -12,7 +12,7 @@ projects: true
 description: "Plantcare Assistant"
 ---
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/plantcarehero.png" class="bigger-image" alt="Plantcare Assistant Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare-hero.png" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
 
 ### Coming Soon!
