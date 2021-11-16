@@ -17,12 +17,12 @@ description: "Pride Places"
 
 ### Coming Soon!
 
-This past summer, I was a Product Design Intern at Pride Places, where I contributed towards the redesign of their LGBTQ+ directory mobile application. More information about the experience will be added here, so check back soon!
+This past summer, I was a Product Design Intern at Pride Places, which is an LGBTQ+ directory start-up based in San Francisco, California. I had the opportunity to contribute towards the redesign of their desktop and mobile web applications. More information about the experience will be added here, so check back soon!
 
 ### Overview
 * Company: Pride Places
 * Role: Product Design Intern
-* Location: San Francisco (Remote)
+* Location: San Francisco, CA (Remote)
 * Duration: May 2020 - Aug 2021
 * Discipline: Interaction Design, Visual Design
 * Tools Used: Figma, Illustrator, Otter.ai

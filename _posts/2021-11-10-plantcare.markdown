@@ -12,7 +12,7 @@ projects: true
 description: "Plantcare Assistant"
 ---
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/plantcarehero.png" class="bigger-image" alt="Pride Places Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/plantcarehero.png" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
 
 ### Coming Soon!
