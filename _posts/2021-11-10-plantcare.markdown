@@ -12,7 +12,7 @@ projects: true
 description: "Plantcare Assistant"
 ---
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare-hero.png" class="bigger-image" alt="Plantcare Assistant Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare-hero.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
 
 ### Coming Soon!
@@ -24,6 +24,9 @@ I am currently working on the design of a soil moisture sensor device and compan
 * Duration: Aug 2021 - Dec 2021
 * Discipline: Interaction Design, UI Design
 * Tools Used: Figma, Illustrator, Photoshop
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare-storyboard.png" class="bigger-image" alt="Plantcare Assistant Storyboard" />
+
 
 ---
 
