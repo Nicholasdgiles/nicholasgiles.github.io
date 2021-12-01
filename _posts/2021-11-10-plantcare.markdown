@@ -25,7 +25,8 @@ I am currently working on the design of a soil moisture sensor device and compan
 * Discipline: Interaction Design, UI Design
 * Tools Used: Figma, Illustrator, Photoshop
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare-storyboard.png" class="bigger-image" alt="Plantcare Assistant Storyboard" />
+### Storyboard
+<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare-storyboard.png" alt="Plantcare Assistant Storyboard" />
 
 
 ---
