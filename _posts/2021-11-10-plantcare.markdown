@@ -27,6 +27,9 @@ I am currently working on the design of a soil moisture sensor device and compan
 ### Storyboard
 <img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
 
+### Design Components
+<img src="http://nicholasgiles.com/assets/images/plantcare/product-components.png" alt="Design Components" />
+
 ### High-fidelity Designs
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
