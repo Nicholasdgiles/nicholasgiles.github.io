@@ -12,8 +12,7 @@ projects: true
 description: "Plantcare Assistant"
 ---
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare-hero.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
-
+<img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing.png" class="bigger-image" alt="Product Marketing" />
 
 ### Coming Soon!
 
@@ -30,9 +29,14 @@ I am currently working on the design of a soil moisture sensor device and compan
 
 ### High-fidelity Designs
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_1.png" alt="Product Screens 1" />
-<img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_2.png" alt="Product Screens 2" />
-<img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_3.png" alt="Product Screens 3" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare-hero.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/product-marketing2.jpg" class="bigger-image" alt="Plantcare Assistant Product Marketing" />
+
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_1.png" class="bigger-image" alt="Product Screens 1" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_2.png" class="bigger-image" alt="Product Screens 2" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_3.png" class="bigger-image" alt="Product Screens 3" />
 ---
 
 Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
