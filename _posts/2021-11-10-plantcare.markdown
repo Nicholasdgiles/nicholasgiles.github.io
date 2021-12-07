@@ -12,7 +12,7 @@ projects: true
 description: "Plantcare Assistant"
 ---
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing1.png" class="bigger-image" alt="Product Marketing" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing1.jpg" class="bigger-image" alt="Product Marketing" />
 
 ### Coming Soon!
 
