@@ -24,7 +24,7 @@ I am currently working on the design of a soil moisture sensor device and compan
 * Discipline: Interaction Design, UI Design
 * Tools Used: Figma, Illustrator, Photoshop
 
-## Research Methodologies
+### Research Methodologies
 I conducted a cultural probe in order to learn what motivates people to care for plants and how they feel about plant care. The study was done virtually to ensure safety during the COVID-19 pandemic. In order to mitigate any impact on the data, I created graphical representations of the probe materials to help users get a better feel for what was being asked of them.
 
 The research questions I sought to answer with the cultural probe were:
