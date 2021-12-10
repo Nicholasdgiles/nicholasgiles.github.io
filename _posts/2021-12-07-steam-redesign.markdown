@@ -12,8 +12,6 @@ projects: true
 description: "Steam Redesign"
 ---
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing1.jpg" class="bigger-image" alt="Product Marketing" />
-
 ### Coming Soon!
 
 I am currently working on the redesign of the Steam mobile app. More information will be added here throughout the course of the project, so check back soon!
