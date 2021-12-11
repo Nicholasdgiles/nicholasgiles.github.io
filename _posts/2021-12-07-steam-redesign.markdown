@@ -25,12 +25,12 @@ I am currently working on a redesign of Steam's mobile iOS application. More inf
 * Tools Used: Figma, Illustrator, Photoshop
 
 ### Design Components
-I produced components in figma using auto layout and variants in order to more efficiently produce product screens. I applied neumorphic styling to each of the design components to ensure consistent spacing.
+After creating wireframes, I began creating individual design components in Figma. Design components were built using the updated visual identity.
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_hero.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/design_components.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
 
 ### High-Fidelity Designs
-I updated Steam's brand identity and applied neumorphic design to their existing visual identity. After building out the updated design system, I created design components and produced eight high-fidelity screens.
+Eight high-fidelity mobile screens were produced utilizing the updated design components.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing1.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing2.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
