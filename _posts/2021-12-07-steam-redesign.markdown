@@ -38,8 +38,13 @@ The design system utilizes the existing Steam color scheme with an updated selec
 I audited Steam's existing iOS mobile application to identify key UX and UI improvements. Ultimately, I selected eight screens to design that will cover a majority of Steam's key features.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/1security.png" alt="Steam Redesign Key Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/2profile_setup.png" alt="Steam Redesign Key Wireframes" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/3my_profile.png" alt="Steam Redesign Key Wireframes" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/4game_search.png" alt="Steam Redesign Key Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/5community_market.png" alt="Steam Redesign Key Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/6my_items.png" alt="Steam Redesign Key Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/7item_listing.png" alt="Steam Redesign Key Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/8game_listing.png" alt="Steam Redesign Key Wireframes" />
 
 ### Design Components
 After creating wireframes, I began working on individual design components in Figma. I decided to utilize neumorphic design principles and built components with a 3D material design effect to ensure elements stand out from the dark background.
