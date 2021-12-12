@@ -35,7 +35,7 @@ The design system utilizes the existing Steam color scheme with an updated selec
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/styleguide.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
 
 ### Wireframes
-I audited Steam's existing iOS mobile application to identify key UX and UI improvements. Ultimately, I selected eight screens to design that will cover a majority of Steam's key features.
+I audited Steam's existing iOS mobile application to identify key UX and UI improvements. Ultimately, I designed eight wireframes that cover a majority of Steam's core features.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/1security.png" alt="Steam Redesign Key Wireframes" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/wireframes/2profile_setup.png" alt="Steam Redesign Key Wireframes" />
