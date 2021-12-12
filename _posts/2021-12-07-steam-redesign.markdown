@@ -24,6 +24,23 @@ I am currently working on a redesign of Steam's mobile iOS application. More inf
 * Discipline: Visual Design, UI Design
 * Tools Used: Figma, Illustrator, Photoshop
 
+### Personas
+Two personas were designed to represent key users for a redesigned Steam mobile application. Pertinent behaviorial information was included in place of unnecessary demographic details like race and gender.
+
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/personas.jpg" class="bigger-image" alt="Steam Redesignpersonas." />
+
+### Style Guide
+The design system utilizes the existing Steam color scheme with and expanded selection, including a heavier use of secondary colors. The mobile grid uses eight 20px columns to ensure horizontal spacing is consistent across screens. Cera Pro was the font family that I selected for this redesign, as it is clean, modern and easily readable in dark mode.
+
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/styleguide.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
+
+### Wireframes
+I audited Steam's existing iOS mobile application and identified key UX and UI improvements. Ultimately, I selected eight screens to design that covered a majority of Steam's key features.
+
+<img src="http://nicholasgiles.com/assets/images/wireframes/steam_redesign/1security.png" alt="Steam Redesign Key Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/wireframes/steam_redesign/3my_profile.png" alt="Steam Redesign Key Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/wireframes/steam_redesign/4game_search.png" alt="Steam Redesign Key Wireframes" />
+
 ### Design Components
 After creating wireframes, I began creating individual design components in Figma. Design components were built using the updated visual identity.
 
