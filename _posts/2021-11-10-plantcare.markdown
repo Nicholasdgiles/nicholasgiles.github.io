@@ -71,7 +71,9 @@ I created wireframes as props for user enactments in order to get quick insight 
 
 After conducting the user enactments, I added all of the notes to an affinity wall, clustered them into like-themes, and generated high level insights that would go on to inform the product.
 
+<br>
 <img src="http://nicholasgiles.com/assets/images/plantcare/affinity_wall.png" alt="Affinity Wall" />
+<br>
 
 I then documented core product attributes that address user needs and the design problem. After another session of brainstorming, I evaluated the new product ideas based on the following criteria:
 
@@ -99,15 +101,16 @@ From the cultural probe, survey results, and user enactment sessions, I generate
 
 ### Brainstorm
 I brainstormed and iterated on the concept further before moving forward with producing high fidelity screens.
+
 <img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
 
 ### Design Components
 Design components were created in Figma and used to build high-fidelity screens and a working prototype.
+
 <img src="http://nicholasgiles.com/assets/images/plantcare/product-components.png" alt="Design Components" />
 
 ### High-Fidelity Designs
 The high level feature points for the final product include:
-
 - **Monitor Plant Status**: the companion mobile app includes progress visualizations that indicates how much water has been added to your plant's soil and how much water is still needed.
 - **Actionable Plant Care Insights**: the smart device senses moisture in the soil and helps users easily understand their plant status by providing helpful recommendations.
 - **Control Notifications**: the smart device allows users to toggle on/off the notification based on their own preferences and needs.
