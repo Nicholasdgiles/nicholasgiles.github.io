@@ -24,7 +24,7 @@ I am currently working on the design of a soil moisture sensor device and compan
 * Discipline: Interaction Design, UI Design
 * Tools Used: Figma, Illustrator, Photoshop
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing2.jpg" class="bigger-image" alt="Plantcare Assistant Product Marketing" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
 ### Research Methodologies
 We conducted a cultural probe, survey, and user enactments over the course of the semester to learn more about plantcare and the people who do plantcare work.
@@ -69,7 +69,7 @@ I created wireframes as props for user enactments in order to get quick insight 
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/wireframes.png" alt="Plantcare Assistant Wireframes" />
 
-After conducting the user enactments, I added all of the notes to an affinity wall, clustered them into like-themes, and ultimately generated high level insights that would go on to inform the product.
+After conducting the user enactments, I added all of the notes to an affinity wall, clustered them into like-themes, and generated high level insights that would go on to inform the product.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/affinity_wall.png" alt="Affinity Wall" />
 
@@ -82,16 +82,12 @@ I then documented core product attributes that address user needs and the design
 - **Highly customizable:** device, notification, and privacy settings can be customized to users’ needs.
 - **Single device/platform:** the solution should focus on a single device/modality that works best based on context (ie. voice assistant, mobile app, carplay, connected home, etc.).
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/affinity_wall.png" alt="Affinity Wall" />
-
 ### Storyboard
-After evaluating our ideas based on the criteria listed above, we crafted a storyboard to help us narrow down to a core set of features and start documenting specifications for a minimum viable product.
+After evaluating my ideas based on the criteria listed above, I crafted a storyboard in order to narrow down to a core set of features and started documenting specifications for a minimum viable product.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
 
 ### Key Findings
-From the research studies, we added all of our user enactment notes to an affinity wall, clustered them into like themes, and ultimately generated high level insights that would go on to inform the product.
-
 From the cultural probe, survey results, and user enactment sessions, I generated four main research findings:
 
 1. A main challenge for most plant care takers, is that they find it difficult to identify plant health.
@@ -105,7 +101,6 @@ From the cultural probe, survey results, and user enactment sessions, I generate
 I brainstormed and iterated on the concept further before moving forward with producing high fidelity screens.
 <img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
 
-
 ### Design Components
 Design components were created in Figma and used to build high-fidelity screens and a working prototype.
 <img src="http://nicholasgiles.com/assets/images/plantcare/product-components.png" alt="Design Components" />
@@ -118,7 +113,7 @@ The high level feature points for the final product include:
 - **Control Notifications**: the smart device allows users to toggle on/off the notification based on their own preferences and needs.
 - **Personalized Plantcare Reminders**: users can input plant details into the companion app to further tailor plant care recommendations.
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing2.jpg" class="bigger-image" alt="Plantcare Assistant Product Marketing" />
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_1.jpg" class="bigger-image" alt="Product Screens 1" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_2.jpg" class="bigger-image" alt="Product Screens 2" />
