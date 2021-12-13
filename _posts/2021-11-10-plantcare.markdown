@@ -24,7 +24,12 @@ I am currently working on the design of a soil moisture sensor device and compan
 * Discipline: Interaction Design, UI Design
 * Tools Used: Figma, Illustrator, Photoshop
 
+<img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing2.jpg" class="bigger-image" alt="Plantcare Assistant Product Marketing" />
+
 ### Research Methodologies
+We conducted a cultural probe, survey, and user enactments over the course of the semester to learn more about plantcare and the people who do plantcare work.
+
+### Cultural Probe
 I conducted a cultural probe in order to learn what motivates people to care for plants and how they feel about plant care. The study was done virtually to ensure safety during the COVID-19 pandemic. In order to mitigate any impact on the data, I created graphical representations of the probe materials to help users get a better feel for what was being asked of them.
 
 The research questions I sought to answer with the cultural probe were:
@@ -36,38 +41,83 @@ The research questions I sought to answer with the cultural probe were:
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_workbook.png" alt="Plantcare Assistant Cultural Probe Workbook" />
 
-The **Plant Care Workbook** helped us gain insights on:
+The **Plant Care Workbook** helped me gain insights on:
 - Basic plant care info and photos
 - Participants’ perception of their plant care work
 - Info on local plant care community
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_feelings.png" alt="Plantcare Assistant Cultural Probe Feelings Booklets" />
 
-The **Plant Care Feelings Workbook** helped us gain insights on:
+The **Plant Care Feelings Workbook** helped me gain insights on:
 - Positives: benefits of plant care; how the benefits make participants feel
 - Negatives: pain points of plant care; how they make participants feel
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_daylog.png" alt="Plantcare Assistant Cultural Probe Day Log" />
 
-The **Plant Care Day Log** served as a mini diary study, and helped us gain insights on:
+The **Plant Care Day Log** served as a mini diary study, and helped me gain insights on:
 - Daily plant care work
 - How those specific tasks make participants feel
 
-### Storyboard
-<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
+### User Enactments
+I decided to conduct user enactments in order to test out different design options I had come up with. The questions I sought to answer with the user enactments were the following:
 
-### Brainstorm
-<img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
+1. What is the minimal viable function the product needs to achieve to help users take care of their plants?
+2. How much user control do participants prefer and what level of automation are they comfortable with?
+3. What potential error cases would come up and how should we go about designing for them?
 
-### Wireframes
+I created wireframes as props for user enactments in order to get quick insight on a handful of possible user scenarios.
+
 <img src="http://nicholasgiles.com/assets/images/plantcare/wireframes.png" alt="Plantcare Assistant Wireframes" />
 
+After conducting the user enactments, I added all of the notes to an affinity wall, clustered them into like-themes, and ultimately generated high level insights that would go on to inform the product.
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/affinity_wall.png" alt="Affinity Wall" />
+
+I then documented core product attributes that address user needs and the design problem. After another session of brainstorming, I evaluated the new product ideas based on the following criteria:
+
+- **Relevancy to plant care:** the solution addresses the needs of users who do plant care work
+- **Feasible to implement:** we’ll need to build any mobile device screens and physical structures/apparatuses that we select for our IoT solution; the simpler the solution, the easier the product will be to build.
+- **New ubiquitous technology:** meets the definition of UbiComp , is a novel concept, and is built using computational media.
+- **Ease of use/durability:** due to users' busy schedules, the product needs to be intuitive and easy to use and should easily fit into users’ environment and routines. This includes being resistant to water damage and durable so users don’t need to worry about breaking it.
+- **Highly customizable:** device, notification, and privacy settings can be customized to users’ needs.
+- **Single device/platform:** the solution should focus on a single device/modality that works best based on context (ie. voice assistant, mobile app, carplay, connected home, etc.).
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/affinity_wall.png" alt="Affinity Wall" />
+
+### Storyboard
+After evaluating our ideas based on the criteria listed above, we crafted a storyboard to help us narrow down to a core set of features and start documenting specifications for a minimum viable product.
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
+
+### Key Findings
+From the research studies, we added all of our user enactment notes to an affinity wall, clustered them into like themes, and ultimately generated high level insights that would go on to inform the product.
+
+From the cultural probe, survey results, and user enactment sessions, I generated four main research findings:
+
+1. A main challenge for most plant care takers, is that they find it difficult to identify plant health.
+2. People are often too busy to take care of their plants.
+3. Plant owners have limited access to plant care communities.
+4. There are two main ways people help each other with plant care work, outside of core plant care activities (i.e. watering), which are:
+  - Motivating, encouraging, and holding each other accountable to do plant care work
+  - reminding each other to take care of their plants
+
+### Brainstorm
+I brainstormed and iterated on the concept further before moving forward with producing high fidelity screens.
+<img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
+
+
 ### Design Components
+Design components were created in Figma and used to build high-fidelity screens and a working prototype.
 <img src="http://nicholasgiles.com/assets/images/plantcare/product-components.png" alt="Design Components" />
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing2.jpg" class="bigger-image" alt="Plantcare Assistant Product Marketing" />
-
 ### High-Fidelity Designs
+The high level feature points for the final product include:
+
+- **Monitor Plant Status**: the companion mobile app includes progress visualizations that indicates how much water has been added to your plant's soil and how much water is still needed.
+- **Actionable Plant Care Insights**: the smart device senses moisture in the soil and helps users easily understand their plant status by providing helpful recommendations.
+- **Control Notifications**: the smart device allows users to toggle on/off the notification based on their own preferences and needs.
+- **Personalized Plantcare Reminders**: users can input plant details into the companion app to further tailor plant care recommendations.
+
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_1.jpg" class="bigger-image" alt="Product Screens 1" />
