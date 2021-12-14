@@ -29,11 +29,9 @@ Two personas were designed to represent key users for a redesigned Steam mobile 
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.jpg" class="bigger-image" alt="Steam Redesign Persona" />
 
-In contrast, the second persona, Tulio, focuses on users who have disposable income, limited time to play, and enjoys gaming with close friends and family.
+In contrast, the second persona, Tulio, focuses on users who have disposable income, limited time to play, and enjoy gaming with close friends and family.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/persona2.jpg" class="bigger-image" alt="Steam Redesign Persona" />
-
-
 
 ### Style Guide
 The design system utilizes the existing Steam color scheme with an updated selection, including a heavier use of secondary colors. I used eight 20px columns for the mobile grid to ensure spacing is consistent across screens. Cera Pro was the font family that I selected for this redesign, as it is clean, modern and easily readable in dark mode.
