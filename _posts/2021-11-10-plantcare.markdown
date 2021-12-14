@@ -61,7 +61,7 @@ The **Plant Care Day Log** served as a mini diary study, and helped me gain insi
 ### Survey
 I then conducted survey in order to validate the findings I gathered from the cultural probe as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I recruited 14 participants and asked them to fill out a 10 question survey on Qualtrics.
 
-Key Findings:
+**Key Findings:**
 <img src="http://nicholasgiles.com/assets/images/plantcare/survey_keyquestions.jpg" alt="Plantcare Assistant Wireframes" />
 
 - Plant owners would benefit from daily or weekly plant care reminders.
