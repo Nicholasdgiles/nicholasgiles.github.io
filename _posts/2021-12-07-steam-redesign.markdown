@@ -16,7 +16,7 @@ description: "Steam Redesign"
 
 ### Design Problem
 
-**App Redesign:** pick an app or other digital product with significant flaws in the visual design, look and feel, and UI. Document those flaws and discuss alternative ideas for a redesign. Focus on the visuals and desired emotional respons and address UX issues secondarily. Your finalized submission should contain six or more key redesigned screens, two personas, and a style guide.
+**App Redesign:** pick an app or digital product with significant flaws in the visual design, look and feel, and UI. Document those flaws, brainstorm alternative solutions, and redesign the application. Focus on the visuals and desired emotional response and address UX issues secondarily. Your finalized submission should contain six or more key redesigned screens, two personas, and a style guide.
 
 ### Project Overview
 * Course: SI 616: Advanced Visual Design
@@ -25,10 +25,10 @@ description: "Steam Redesign"
 * Tools Used: Figma, Illustrator, Photoshop
 
 ### Personas
-Two personas were designed to represent key users for a redesigned Steam mobile application. The first persona, Alex, focuses on users who have limited income, but ample amount of time to play games with others online. In contrast, the second persona, Tulio, has disposable income, but limited time to play, and enjoys gaming with close friends and family. Documenting two persona's with contrasting behaviorial characteristics helped ensure different users' needs would be addressed with the redesign.
+Two personas were designed to represent key users for a redesigned Steam mobile application. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online. In contrast, the second persona, Tulio, focuses on users who have disposable income, limited time to play, and enjoys gaming with close friends and family. Documenting two persona's contrasting behaviorial characteristics helped ensure different users' needs would be addressed with the redesign.
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.svg" class="bigger-image" alt="Steam Redesign Personas." />
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/persona2.svg" class="bigger-image" alt="Steam Redesign Personas." />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.svg" class="bigger-image" alt="Steam Redesign Persona" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/persona2.svg" class="bigger-image" alt="Steam Redesign Persona" />
 
 ### Style Guide
 The design system utilizes the existing Steam color scheme with an updated selection, including a heavier use of secondary colors. I used eight 20px columns for the mobile grid to ensure spacing is consistent across screens. Cera Pro was the font family that I selected for this redesign, as it is clean, modern and easily readable in dark mode.
