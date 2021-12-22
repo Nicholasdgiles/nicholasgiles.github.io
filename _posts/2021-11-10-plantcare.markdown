@@ -1,7 +1,7 @@
 ---
 title: "🆕 Plantcare Assistant"
 layout: post
-date: 2021-11-10 11:12
+date: 2021-12-02 11:12
 image: #
 headerImage: false
 tag:
@@ -38,20 +38,21 @@ The research questions I sought to answer with the cultural probe were:
 - Would education/information on plant care help people care for their plants?
 - What are participants’ pain points/frustrations throughout the plant care process?
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_workbook.png" alt="Plantcare Assistant Cultural Probe Workbook" />
+<br><img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_workbook.png" alt="Plantcare Assistant Cultural Probe Workbook" />
+<br>
 
 The **Plant Care Workbook** helped me gain insights on:
 - Basic plant care info and photos
 - Participants’ perception of their plant care work
 - Info on local plant care community
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_feelings.png" alt="Plantcare Assistant Cultural Probe Feelings Booklets" />
+<br><img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_feelings.png" alt="Plantcare Assistant Cultural Probe Feelings Booklets" />
 
 The **Plant Care Feelings Workbook** helped me gain insights on:
 - Positives: benefits of plant care; how the benefits make participants feel
 - Negatives: pain points of plant care; how they make participants feel
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_daylog.png" alt="Plantcare Assistant Cultural Probe Day Log" />
+<br><img src="http://nicholasgiles.com/assets/images/plantcare/culturalprobe_daylog.png" alt="Plantcare Assistant Cultural Probe Day Log" />
 
 The **Plant Care Day Log** served as a mini diary study, and helped me gain insights on:
 - Daily plant care work
@@ -62,11 +63,12 @@ I then conducted survey in order to validate the findings I gathered from the cu
 
 **Key Findings:**
 <br>
-<img src="http://nicholasgiles.com/assets/images/plantcare/survey_keyquestions.jpg" alt="Plantcare Assistant Wireframes" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/survey_keyquestions.jpg" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
+<figcaption class="caption">Key Survey Findings</figcaption>
 
 - A majority of respondents (76.92%) require support from others with caring for their plants.
     - 29.63% need help with plant care activities
-    - 22.22% ask others for information on plant care
+    - 22.23% ask others for information on plant care
 - People enjoy plant care primarily because of the aesthetic (31.58%) & to connect with nature (21.06%)
 - It can be difficult for plant owners to identify plant health. (20.45%)
 - Plant owners would benefit from daily or weekly plant care reminders.
@@ -81,11 +83,13 @@ I also decided to conduct user enactments in order to test out different design 
 I created wireframes as props for user enactments in order to get quick insight on a handful of possible user scenarios.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/wireframes.png" alt="Plantcare Assistant Wireframes" />
+<figcaption class="caption">Wireframes</figcaption>
 
 After conducting the user enactments, I added all of the notes to an affinity wall, clustered them into like-themes, and generated high level insights that would go on to inform the product.
 
 <br>
 <img src="http://nicholasgiles.com/assets/images/plantcare/affinity_wall.png" alt="Affinity Wall" />
+<figcaption class="caption">Affinity Wall</figcaption>
 <br>
 
 I then documented core product attributes that address user needs and the design problem. After another session of brainstorming, I evaluated the new product ideas based on the following criteria:
@@ -101,21 +105,22 @@ I then documented core product attributes that address user needs and the design
 After evaluating my ideas based on the criteria listed above, I crafted a storyboard in order to narrow down to a core set of features and started documenting specifications for a minimum viable product.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
+<figcaption class="caption">Storyboard</figcaption>
 
 ### Key Findings
 From the cultural probe, survey results, and user enactment sessions, I generated four main research findings:
 
-1. A main challenge for most plant care takers, is that they find it difficult to identify plant health.
-2. People are often too busy to take care of their plants.
-3. Plant owners have limited access to plant care communities.
-4. There are two main ways people help each other with plant care work, outside of core plant care activities (i.e. watering), which are:
+- A main challenge for most plant care takers, is that they find it difficult to identify plant health.
+- People are often too busy to take care of their plants.
+- Plant owners have limited access to plant care communities.
+- There are two main ways people help each other with plant care work, outside of core plant care activities (i.e. watering), which are:
   - Motivating, encouraging, and holding each other accountable to do plant care work
   - reminding each other to take care of their plants
 
-### Brainstorm
+### Ideation
 In order to document system requirements, I brainstormed potential features and mapped out the system architecture before moving forward with producing high fidelity screens.
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
+<br><img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
 <figcaption class="caption">Feature Brainstorm</figcaption>
 <img src="http://nicholasgiles.com/assets/images/plantcare/system_architecture.png" alt="Plantcare Assistant Architecture" />
 <figcaption class="caption">System Architecture</figcaption>
@@ -124,6 +129,7 @@ In order to document system requirements, I brainstormed potential features and 
 Design components were created in Figma and used to build high-fidelity screens and a working prototype.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product-components.png" alt="Design Components" />
+<figcaption class="caption">Design Components</figcaption>
 
 ### High-Fidelity Designs
 The high level feature points for the final product include:
