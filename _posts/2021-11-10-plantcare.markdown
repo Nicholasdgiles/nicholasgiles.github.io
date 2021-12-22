@@ -14,9 +14,8 @@ description: "Plantcare Assistant"
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing1.jpg" class="bigger-image" alt="Product Marketing" />
 
-### Coming Soon!
-
-I am currently working on the design of a soil moisture sensor device and companion mobile application that will help people take care of their plants. More information will be added here throughout the course of the project, so check back soon!
+### Design Problem
+I am currently working on the design of a soil moisture sensor device and companion mobile application that will help people take care of their plants.
 
 ### Project Overview
 * Course: SI 612: Pervasive Interaction Design
@@ -27,7 +26,7 @@ I am currently working on the design of a soil moisture sensor device and compan
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
 ### Research Methodologies
-We conducted a cultural probe, survey, and user enactments over the course of the semester to learn more about plantcare and the people who do plantcare work.
+I decided to conduct a cultural probe, survey, and user enactments over the course of the project to learn more about plantcare and the people who do plantcare work.
 
 ### Cultural Probe
 I conducted a cultural probe in order to learn what motivates people to care for plants and how they feel about plant care. The study was done virtually to ensure safety during the COVID-19 pandemic. In order to mitigate any impact on the data, I created graphical representations of the probe materials to help users get a better feel for what was being asked of them.
@@ -62,14 +61,15 @@ The **Plant Care Day Log** served as a mini diary study, and helped me gain insi
 I then conducted survey in order to validate the findings I gathered from the cultural probe as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I recruited 14 participants and asked them to fill out a 10 question survey on Qualtrics.
 
 **Key Findings:**
+<br>
 <img src="http://nicholasgiles.com/assets/images/plantcare/survey_keyquestions.jpg" alt="Plantcare Assistant Wireframes" />
 
-- Plant owners would benefit from daily or weekly plant care reminders.
 - A majority of respondents (76.92%) require support from others with caring for their plants.
     - 29.63% need help with plant care activities
     - 22.22% ask others for information on plant care
 - People enjoy plant care primarily because of the aesthetic (31.58%) & to connect with nature (21.06%)
 - It can be difficult for plant owners to identify plant health. (20.45%)
+- Plant owners would benefit from daily or weekly plant care reminders.
 
 ### User Enactments
 I also decided to conduct user enactments in order to test out different design options I had come up with. The questions I sought to answer with the user enactments were the following:
@@ -113,10 +113,12 @@ From the cultural probe, survey results, and user enactment sessions, I generate
   - reminding each other to take care of their plants
 
 ### Brainstorm
-I brainstormed and iterated on the concept further before moving forward with producing high fidelity screens and documenting system architecture.
+In order to document system requirements, I brainstormed potential features and mapped out the system architecture before moving forward with producing high fidelity screens.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
+<figcaption class="caption">Feature Brainstorm</figcaption>
 <img src="http://nicholasgiles.com/assets/images/plantcare/system_architecture.png" alt="Plantcare Assistant Architecture" />
+<figcaption class="caption">System Architecture</figcaption>
 
 ### Design Components
 Design components were created in Figma and used to build high-fidelity screens and a working prototype.
