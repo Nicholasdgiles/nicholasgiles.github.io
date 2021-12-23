@@ -15,7 +15,7 @@ description: "Plantcare Assistant"
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing1.jpg" class="bigger-image" alt="Product Marketing" />
 
 ### Design Problem
-I am currently working on the design of a soil moisture sensor device and companion mobile application that will help people take care of their plants.
+I worked on an interaction design project where I researched a domain of interest and designed a novel solution to address a problem. From my research, I decided to design a mobile application and soil moisture sensor that helps people take care of their plants.
 
 ### Project Overview
 * Course: SI 612: Pervasive Interaction Design
@@ -26,10 +26,7 @@ I am currently working on the design of a soil moisture sensor device and compan
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
 ### Approach
-For my SI 612: Pervasive Interaction Design project, I focused on addressing interaction design problem with a user-centered design approach. I began by deciding upon a design problem and conducting a **cultural probe** and a **survey** in order to gather information about the plantcare domain. From there, I crafted **personas**, an **empathy map**, and a **journey map** that I ultimately made into a **storyboard**. Then I conducted **user enactments** to expand our product scope, and then narrowed back in on a core set of features. After we went through the user feedback, we were able to align on a core set of features that we went on to include in our **wireframes**. Using Sketch and Figma, we then designed a **high fidelity prototype**. After gathering additional user feedback, we iterated on the concepts to create a "final" version of the high fidelity prototype.
-
-### Research Methodologies
-I decided to conduct a cultural probe, survey, and user enactments over the course of the project to learn more about plantcare and the people who do plantcare work.
+I began by deciding upon an interaction design problem, then I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain, and the people who participate in it. From there, I crafted **personas**, an **empathy map**, and a **journey map**. Then I built some core **wireframes** and conducted **user enactments** to explore possible solutions. From those learnings, I narrowed in on a core set of features that I included in the design of the **high fidelity prototype**.
 
 ### Cultural Probe
 I conducted a cultural probe in order to learn what motivates people to care for plants and how they feel about plant care. The study was done virtually to ensure safety during the COVID-19 pandemic. In order to mitigate any impact on the data, I created graphical representations of the probe materials to help users get a better feel for what was being asked of them.
@@ -61,8 +58,18 @@ The **Plant Care Day Log** served as a mini diary study, and helped me gain insi
 - Daily plant care work
 - How those specific tasks make participants feel
 
+**Key Findings:**
+From the cultural probe, I generated four high-level research findings:
+
+- Plant owners often find it difficult to identify plant health.
+- Plant owners are often too busy to take care of their plants.
+- Plant owners have limited access to plant care communities.
+- There are two main ways people help each other with plant care work, outside of core plant care activities (i.e. watering), which are:
+  - Motivating, encouraging, and holding each other accountable to do plant care work
+  - reminding each other to take care of their plants
+
 ### Survey
-I then conducted survey in order to validate the findings I gathered from the cultural probe as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I recruited 14 participants and asked them to fill out a 10 question survey on Qualtrics.
+I then conducted survey in order to validate the findings I gathered from the cultural probe as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I was able to recruit 35 participants and asked them to fill out a 10 question survey on Qualtrics.
 
 **Key Findings:**
 - A majority of respondents (76.92%) require support from others with caring for their plants.
@@ -76,7 +83,6 @@ I then conducted survey in order to validate the findings I gathered from the cu
 <img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
-
 
 ### User Enactments
 I also decided to conduct user enactments in order to test out different design options I had come up with. The questions I sought to answer with the user enactments were the following:
@@ -111,20 +117,6 @@ After evaluating my ideas based on the criteria listed above, I crafted a storyb
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
 <figcaption class="caption">Storyboard</figcaption>
-
-### Key Findings
-From the cultural probe, survey results, and user enactment sessions, I generated four main research findings:
-
-- A main challenge for most plant care takers, is that they find it difficult to identify plant health.
-- People are often too busy to take care of their plants.
-- Plant owners have limited access to plant care communities.
-- There are two main ways people help each other with plant care work, outside of core plant care activities (i.e. watering), which are:
-  - Motivating, encouraging, and holding each other accountable to do plant care work
-  - reminding each other to take care of their plants
-
-<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" alt="Key Finding 1" />
-<img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" alt="Key Finding 2" />
-<img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" alt="Key Finding 3" />
 
 
 ### Ideation
