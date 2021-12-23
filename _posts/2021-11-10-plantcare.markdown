@@ -84,7 +84,7 @@ I then conducted a survey in order to validate the findings I gathered from the 
 <img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" alt="Plantcare Assistant Survey Findings" />
 
-From those findings, I generated personas, an empathy map, and a journey map:
+From the research findings, I generated personas, an empathy map, and a journey map.
 
 #### Personas
 <img src="http://nicholasgiles.com/assets/images/plantcare/personas.png" alt="Personas" />
@@ -165,6 +165,7 @@ The high level feature points for the final product include:
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing2.jpg" class="bigger-image" alt="Plantcare Assistant Product Marketing" />
 
+The high fidelity screens were designed to include a plantcare dashboard, task assignment modules, and individual plant details, as well as social features and customizable settings.
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_1.jpg" class="bigger-image" alt="Product Screens 1" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_2.jpg" class="bigger-image" alt="Product Screens 2" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_3.jpg" class="bigger-image" alt="Product Screens 3" />
