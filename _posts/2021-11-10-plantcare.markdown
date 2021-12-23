@@ -80,9 +80,9 @@ I then conducted a survey in order to validate the findings I gathered from the 
 - Plant owners would benefit from daily to weekly plant care reminders.
 
 <br>
-<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
-<img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
-<img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" alt="Plantcare Assistant Survey Findings" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" alt="Plantcare Assistant Survey Findings" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" alt="Plantcare Assistant Survey Findings" />
 
 ### User Enactments
 I also decided to conduct user enactments in order to test out different design options I had come up with. The questions I sought to answer with the user enactments were the following:
