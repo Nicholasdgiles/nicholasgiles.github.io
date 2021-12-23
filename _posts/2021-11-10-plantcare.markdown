@@ -150,6 +150,11 @@ To ensure I would build functional technology, I documented system architecture 
 <img src="http://nicholasgiles.com/assets/images/plantcare/system_architecture.png" alt="Plantcare Assistant Architecture" />
 <figcaption class="caption">System Architecture</figcaption>
 
+### Style guide
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/colors.png" alt="Colors" />
+<figcaption class="caption">Colors</figcaption>
+
 ### Design Components
 Design components were created in Figma using auto-layout and variants; I used them to build high-fidelity screens and a working prototype.
 

@@ -28,15 +28,18 @@ description: "Steam Redesign"
 Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behaviorial characteristics for both of the personas in order to ensure different users' needs would be addressed. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.jpg" class="bigger-image" alt="Steam Redesign Persona" />
+<figcaption class="caption">Persona 1: Alex Melis</figcaption>
 
 In contrast, the second persona, Tulio, focuses on users who have disposable income, limited time to play, and enjoy gaming with close friends and family.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/persona2.jpg" class="bigger-image" alt="Steam Redesign Persona" />
+<figcaption class="caption">Persona 2: Tulio Alvarez</figcaption>
 
 ### Style Guide
 The design system utilizes the existing Steam color scheme with an updated selection, including a heavier use of secondary colors. I used eight 20px columns for the mobile grid to ensure spacing is consistent across screens. Cera Pro was the font family that I selected for this redesign, as it is clean, modern and easily readable in dark mode.
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/styleguide.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/styleguide.jpg" alt="Steam Redesign Hero Image" />
+<figcaption class="caption">Style Guide</figcaption>
 
 ### Wireframes
 I audited Steam's existing iOS mobile application to identify key UX and UI improvements. Ultimately, I designed eight wireframes that cover a majority of Steam's core features.
@@ -54,9 +57,12 @@ I audited Steam's existing iOS mobile application to identify key UX and UI impr
 After creating wireframes, I began working on individual design components in Figma. I decided to utilize neumorphic design principles and built components with a 3D material design effect to ensure elements stand out from the dark background.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/design_components.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
+<figcaption class="caption">Design Components</figcaption>
 
 ### High-Fidelity Designs
 Eight high-fidelity mobile screens were produced utilizing the updated design components. For the background, I created a few gradients using the updated brand colors.
+
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_marketing.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing1.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing2.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
