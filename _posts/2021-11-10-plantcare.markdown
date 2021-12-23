@@ -79,7 +79,6 @@ I then conducted a survey in order to validate the findings I gathered from the 
 - It can be difficult for plant owners to identify plant health. (20.45%)
 - Plant owners would benefit from daily to weekly plant care reminders.
 
-<br>
 <img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" alt="Plantcare Assistant Survey Findings" />
@@ -150,10 +149,10 @@ To ensure I would build functional technology, I documented system architecture 
 <img src="http://nicholasgiles.com/assets/images/plantcare/system_architecture.png" alt="Plantcare Assistant Architecture" />
 <figcaption class="caption">System Architecture</figcaption>
 
-### Style guide
+### Style Guide
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/colors.png" alt="Colors" />
-<figcaption class="caption">Colors</figcaption>
+<img src="http://nicholasgiles.com/assets/images/plantcare/styleguide.png" alt="Style Guide" />
+<figcaption class="caption">Style Guide</figcaption>
 
 ### Design Components
 Design components were created in Figma using auto-layout and variants; I used them to build high-fidelity screens and a working prototype.
