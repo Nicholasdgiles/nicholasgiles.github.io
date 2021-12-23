@@ -25,6 +25,9 @@ I am currently working on the design of a soil moisture sensor device and compan
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
+### Approach
+For my SI 612: Pervasive Interaction Design project, I focused on addressing interaction design problem with a user-centered design approach. I began by deciding upon a design problem and conducting a **cultural probe** and a **survey** in order to gather information about the plantcare domain. From there, I crafted **personas**, an **empathy map**, and a **journey map** that I ultimately made into a **storyboard**. Then I conducted **user enactments** to expand our product scope, and then narrowed back in on a core set of features. After we went through the user feedback, we were able to align on a core set of features that we went on to include in our **wireframes**. Using Sketch and Figma, we then designed a **high fidelity prototype**. After gathering additional user feedback, we iterated on the concepts to create a "final" version of the high fidelity prototype.
+
 ### Research Methodologies
 I decided to conduct a cultural probe, survey, and user enactments over the course of the project to learn more about plantcare and the people who do plantcare work.
 
@@ -62,16 +65,18 @@ The **Plant Care Day Log** served as a mini diary study, and helped me gain insi
 I then conducted survey in order to validate the findings I gathered from the cultural probe as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I recruited 14 participants and asked them to fill out a 10 question survey on Qualtrics.
 
 **Key Findings:**
-<br>
-<img src="http://nicholasgiles.com/assets/images/plantcare/survey_keyquestions.jpg" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
-<figcaption class="caption">Key Survey Findings</figcaption>
-
 - A majority of respondents (76.92%) require support from others with caring for their plants.
     - 29.63% need help with plant care activities
     - 22.23% ask others for information on plant care
 - People enjoy plant care primarily because of the aesthetic (31.58%) & to connect with nature (21.06%)
 - It can be difficult for plant owners to identify plant health. (20.45%)
 - Plant owners would benefit from daily or weekly plant care reminders.
+
+<br>
+<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
+
 
 ### User Enactments
 I also decided to conduct user enactments in order to test out different design options I had come up with. The questions I sought to answer with the user enactments were the following:
@@ -95,9 +100,9 @@ After conducting the user enactments, I added all of the notes to an affinity wa
 I then documented core product attributes that address user needs and the design problem. After another session of brainstorming, I evaluated the new product ideas based on the following criteria:
 
 - **Relevancy to plant care:** the solution addresses the needs of users who do plant care work
-- **Feasible to implement:** we’ll need to build any mobile device screens and physical structures/apparatuses that we select for our IoT solution; the simpler the solution, the easier the product will be to build.
+- **Feasible to implement:** the simpler the solution, the easier the product will be to build.
 - **New ubiquitous technology:** meets the definition of UbiComp , is a novel concept, and is built using computational media.
-- **Ease of use/durability:** due to users' busy schedules, the product needs to be intuitive and easy to use and should easily fit into users’ environment and routines. This includes being resistant to water damage and durable so users don’t need to worry about breaking it.
+- **Ease of use/durability:** the product needs to be intuitive and easy to use and should easily fit into users’ environment and routines. This includes being resistant to water damage and durable so users don’t need to worry about breaking it.
 - **Highly customizable:** device, notification, and privacy settings can be customized to users’ needs.
 - **Single device/platform:** the solution should focus on a single device/modality that works best based on context (ie. voice assistant, mobile app, carplay, connected home, etc.).
 
@@ -116,6 +121,11 @@ From the cultural probe, survey results, and user enactment sessions, I generate
 - There are two main ways people help each other with plant care work, outside of core plant care activities (i.e. watering), which are:
   - Motivating, encouraging, and holding each other accountable to do plant care work
   - reminding each other to take care of their plants
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" alt="Key Finding 1" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" alt="Key Finding 2" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" alt="Key Finding 3" />
+
 
 ### Ideation
 In order to document system requirements, I brainstormed potential features and mapped out the system architecture before moving forward with producing high fidelity screens.
