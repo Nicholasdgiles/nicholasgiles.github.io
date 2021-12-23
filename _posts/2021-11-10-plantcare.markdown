@@ -84,6 +84,20 @@ I then conducted a survey in order to validate the findings I gathered from the 
 <img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" alt="Plantcare Assistant Survey Findings" />
 
+From those findings, I generated personas, an empathy map, and a journey map:
+
+#### Personas
+<img src="http://nicholasgiles.com/assets/images/plantcare/personas.png" alt="Personas" />
+<figcaption class="caption">Personas</figcaption>
+
+#### Empathy Map
+<img src="http://nicholasgiles.com/assets/images/plantcare/empathy_map.png" alt="Empathy Map" />
+<figcaption class="caption">Empathy Map</figcaption>
+
+#### Journey Map
+<img src="http://nicholasgiles.com/assets/images/plantcare/journey_map.png" alt="Journey Map" />
+<figcaption class="caption">Journey Map</figcaption>
+
 ### User Enactments
 I also decided to conduct user enactments in order to test out different design options I had come up with. The questions I sought to answer with the user enactments were the following:
 
@@ -96,8 +110,6 @@ I recruited three participants and created scripts and wireframe props for the u
 <img src="http://nicholasgiles.com/assets/images/plantcare/wireframes.png" alt="Plantcare Assistant Wireframes" />
 <figcaption class="caption">Wireframes</figcaption>
 
-**Key Findings:**
-
 After conducting the user enactments, I added all of the notes to an affinity wall, clustered them into like-themes, and generated high-level insights that would go on to inform the end product.
 
 <br>
@@ -105,6 +117,7 @@ After conducting the user enactments, I added all of the notes to an affinity wa
 <figcaption class="caption">Affinity Wall</figcaption>
 <br>
 
+**Key Findings:**
 1. Users expect the plantcare assistant to give feedback and confirmation immediately after they water their plants.
 2. Users expect to be able to toggle on & off and customize notifications based on needs and preferences.
 3. Users expect the Smart Device to provide some practical and actionable recommendations and instructions regarding their specific plant and what moisture levels mean in regards to the plant itself.
