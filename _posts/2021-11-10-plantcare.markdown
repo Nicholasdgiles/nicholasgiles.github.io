@@ -26,7 +26,7 @@ I worked on an interaction design project where I researched a domain of interes
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 
 ### Approach
-I began by deciding upon an interaction design problem, then I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain, and the people who participate in it. From there, I crafted **personas**, an **empathy map**, and a **journey map**. Then I built some core **wireframes** and conducted **user enactments** to explore possible solutions. From those learnings, I narrowed in on a core set of features that I included in the design of the **high fidelity prototype**.
+I began by deciding upon an interaction design problem, then I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain and the people who participate in it. From there, I crafted **personas**, an **empathy map**, and a **journey map**. Then I built **wireframes** and conducted **user enactments** to explore possible solutions. From the user enactment learnings I generated, I was able to narrow in on a core set of features that I included in the design of the **high fidelity prototype**.
 
 ### Cultural Probe
 I conducted a cultural probe in order to learn what motivates people to care for plants and how they feel about plant care. The study was done virtually to ensure safety during the COVID-19 pandemic. In order to mitigate any impact on the data, I created graphical representations of the probe materials to help users get a better feel for what was being asked of them.
@@ -58,9 +58,9 @@ The **Plant Care Day Log** served as a mini diary study, and helped me gain insi
 - Daily plant care work
 - How those specific tasks make participants feel
 
-**Key Findings:**
 From the cultural probe, I generated four high-level research findings:
 
+**Key Findings:**
 - Plant owners often find it difficult to identify plant health.
 - Plant owners are often too busy to take care of their plants.
 - Plant owners have limited access to plant care communities.
@@ -69,7 +69,7 @@ From the cultural probe, I generated four high-level research findings:
   - reminding each other to take care of their plants
 
 ### Survey
-I then conducted survey in order to validate the findings I gathered from the cultural probe as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I was able to recruit 35 participants and asked them to fill out a 10 question survey on Qualtrics.
+I then conducted a survey in order to validate the findings I gathered from the cultural probe, as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I was able to recruit 35 participants and asked them to fill out a 10 question survey on Qualtrics.
 
 **Key Findings:**
 - A majority of respondents (76.92%) require support from others with caring for their plants.
@@ -77,12 +77,12 @@ I then conducted survey in order to validate the findings I gathered from the cu
     - 22.23% ask others for information on plant care
 - People enjoy plant care primarily because of the aesthetic (31.58%) & to connect with nature (21.06%)
 - It can be difficult for plant owners to identify plant health. (20.45%)
-- Plant owners would benefit from daily or weekly plant care reminders.
+- Plant owners would benefit from daily to weekly plant care reminders.
 
 <br>
 <img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
-<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
-<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" class="bigger-image" alt="Plantcare Assistant Survey Findings" />
 
 ### User Enactments
 I also decided to conduct user enactments in order to test out different design options I had come up with. The questions I sought to answer with the user enactments were the following:
@@ -91,19 +91,32 @@ I also decided to conduct user enactments in order to test out different design 
 2. How much user control do participants prefer and what level of automation are they comfortable with?
 3. What potential error cases would come up and how should we go about designing for them?
 
-I created wireframes as props for user enactments in order to get quick insight on a handful of possible user scenarios.
+I recruited three participants and created scripts and wireframe props for the user enactments in order to get quick insight on a handful of possible user scenarios.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/wireframes.png" alt="Plantcare Assistant Wireframes" />
 <figcaption class="caption">Wireframes</figcaption>
 
-After conducting the user enactments, I added all of the notes to an affinity wall, clustered them into like-themes, and generated high level insights that would go on to inform the product.
+**Key Findings:**
+
+After conducting the user enactments, I added all of the notes to an affinity wall, clustered them into like-themes, and generated high-level insights that would go on to inform the end product.
 
 <br>
 <img src="http://nicholasgiles.com/assets/images/plantcare/affinity_wall.png" alt="Affinity Wall" />
 <figcaption class="caption">Affinity Wall</figcaption>
 <br>
 
-I then documented core product attributes that address user needs and the design problem. After another session of brainstorming, I evaluated the new product ideas based on the following criteria:
+1. Users expect the plantcare assistant to give feedback and confirmation immediately after they water their plants.
+2. Users expect to be able to toggle on & off and customize notifications based on needs and preferences.
+3. Users expect the Smart Device to provide some practical and actionable recommendations and instructions regarding their specific plant and what moisture levels mean in regards to the plant itself.
+4. Users would like if the Smart Device incorporated additional features (i.e. weather, calendars, and GPS) that would provide more detailed information & personalized plant care recommendations (but there are some concerns regarding privacy for GPS monitoring).
+
+### Ideation
+From the user enactment findings, I did another round of brainstorming and sketched out possible design features and solutions.
+
+<br><img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
+<figcaption class="caption">Feature Brainstorm</figcaption>
+
+I then documented core product attributes that address user needs, and evaluated my new ideas based on the following criteria:
 
 - **Relevancy to plant care:** the solution addresses the needs of users who do plant care work
 - **Feasible to implement:** the simpler the solution, the easier the product will be to build.
@@ -113,22 +126,19 @@ I then documented core product attributes that address user needs and the design
 - **Single device/platform:** the solution should focus on a single device/modality that works best based on context (ie. voice assistant, mobile app, carplay, connected home, etc.).
 
 ### Storyboard
-After evaluating my ideas based on the criteria listed above, I crafted a storyboard in order to narrow down to a core set of features and started documenting specifications for a minimum viable product.
+Following the evaluation of the newly brainstormed ideas, I crafted a storyboard that helped me start documenting specifications for a minimum viable product.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
 <figcaption class="caption">Storyboard</figcaption>
 
+### System Architecture
+To ensure I would build functional technology, I documented system architecture before moving forward with producing the high fidelity designs.
 
-### Ideation
-In order to document system requirements, I brainstormed potential features and mapped out the system architecture before moving forward with producing high fidelity screens.
-
-<br><img src="http://nicholasgiles.com/assets/images/plantcare/brainstorm.png" alt="Plantcare Assistant Brainstorm" />
-<figcaption class="caption">Feature Brainstorm</figcaption>
 <img src="http://nicholasgiles.com/assets/images/plantcare/system_architecture.png" alt="Plantcare Assistant Architecture" />
 <figcaption class="caption">System Architecture</figcaption>
 
 ### Design Components
-Design components were created in Figma and used to build high-fidelity screens and a working prototype.
+Design components were created in Figma using auto-layout and variants; I used them to build high-fidelity screens and a working prototype.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product-components.png" alt="Design Components" />
 <figcaption class="caption">Design Components</figcaption>
