@@ -181,7 +181,8 @@ The high fidelity screens were designed to include a plantcare dashboard, task a
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_3.jpg" class="bigger-image" alt="Product Screens 3" />
 
 ### Reflection
-Users had expressed in the user enactment sessions that they wanted additional details on plant moisture levels. For future iterations, I would look into providing more specific plant moisture measurements and instructions for users. Additionally, manual input of plant care details could be added to allow for more personalized plantcare recommendations, however, it would need to be a compelling user experience in order to entice users to do so. I would start by conducting usability tests with an updated high-fidelity prototype and use those insights to iterate and improve the user experience.
+During the user enactment sessions, users had expressed that they wanted additional details on plant moisture levels. For future iterations, I would look into providing more specific plant moisture measurements and instructions for users. Additionally, manual input of plant care details could be added to allow for more personalized plantcare recommendations. I would start by conducting usability tests with an updated high-fidelity prototype and use those insights to iterate and improve the user experience.
+
 ---
 
-Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
+Check out my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
