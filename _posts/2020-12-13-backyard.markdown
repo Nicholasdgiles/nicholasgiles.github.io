@@ -23,10 +23,10 @@ How can we enable people to (1) more easily divest from large retailers and busi
 ---
 
 ### Project Overview
-* Discipline: Interaction Design
 * Course: SI 582 Interaction Design
 * Duration: Aug. 2020 - Dec. 2020
 * With: Lingyu Zhao, Seung Jun Kim, Xinyi Wang
+* Discipline: UX Research, Interaction Design, UI Design
 * Tools Used: Sketch, Figma, Photoshop, Illustrator
 
 ---

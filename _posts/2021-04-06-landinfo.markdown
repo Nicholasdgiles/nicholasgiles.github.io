@@ -17,9 +17,10 @@ description: "Land.Info Usability Test"
 <iframe width="672" height="378" src="https://www.youtube.com/embed/H_oGXBPg5eU" class="bigger-image" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Project Overview
-* Discipline: User Research
 * Course: SI 622: Needs Assessment & Usability Testing
-* Tools Used: Google Suite, Figma, Otter.ai
+* Duration: Jan 2021 - Dec April 2021
+* Discipline: UX Research (Quantitative & Qualitative)
+* Tools Used: Qualtrics, Otter.ai, Figma
 
 ### Summary
 

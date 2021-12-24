@@ -20,7 +20,8 @@ description: "Workspace Booking App"
 “Your school wants to provide dedicated spaces for students to help them focus on their academic studies. Design an experience for students, professors, and members of the school community to reserve work desks/spaces in the library. Consider the experience of checking availability, reserving the space, and reporting any issues.”
 
 ### Project Overview
-* Discipline: Interaction Design
+* Duration: Jan 2021 - Dec April 2021
+* Discipline: UX Research & Design, UI Design
 * Tools Used: Figma, Photoshop, Illustrator, Otter.ai
 
 ### Approach

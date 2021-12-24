@@ -86,19 +86,23 @@ I then conducted a survey in order to validate the findings I gathered from the 
 From the research findings, I generated personas, an empathy map, and a journey map.
 
 #### Personas
+Two personas were created from the research findings; both a primary and secondary persona were built, as this would help me make product decisions and prioritize feature sets down the road.
+
 <img src="http://nicholasgiles.com/assets/images/plantcare/personas.png" alt="Personas" />
 <figcaption class="caption">Personas</figcaption>
 
 #### Empathy Map
+An empathy map was created for the primary persona, which describes what the user says, does, feels, and thinks in relation to plantcare work.
 <img src="http://nicholasgiles.com/assets/images/plantcare/empathy_map.png" alt="Empathy Map" />
 <figcaption class="caption">Empathy Map</figcaption>
 
 #### Journey Map
-<img src="http://nicholasgiles.com/assets/images/plantcare/journey_map.png" alt="Journey Map" />
+I created a journey map which tracks the users' mood throughout the plantcare lifecycle. This helped me identify pain points and resulting product opportunities.
+<Img src="http://nicholasgiles.com/assets/images/plantcare/journey_map.png" alt="Journey Map" />
 <figcaption class="caption">Journey Map</figcaption>
 
 ### User Enactments
-I also decided to conduct user enactments in order to test out different design options I had come up with. The questions I sought to answer with the user enactments were the following:
+I also decided to conduct user enactments in order to test out the different design options I had come up with. The questions I sought to answer with the user enactments were the following:
 
 1. What is the minimal viable function the product needs to achieve to help users take care of their plants?
 2. How much user control do participants prefer and what level of automation are they comfortable with?
@@ -119,8 +123,8 @@ After conducting the user enactments, I added all of the notes to an affinity wa
 **Key Findings:**
 1. Users expect the plantcare assistant to give feedback and confirmation immediately after they water their plants.
 2. Users expect to be able to toggle on & off and customize notifications based on needs and preferences.
-3. Users expect the Smart Device to provide some practical and actionable recommendations and instructions regarding their specific plant and what moisture levels mean in regards to the plant itself.
-4. Users would like if the Smart Device incorporated additional features (i.e. weather, calendars, and GPS) that would provide more detailed information & personalized plant care recommendations (but there are some concerns regarding privacy for GPS monitoring).
+3. Users expect the plantcare assistant to provide some practical and actionable recommendations and instructions regarding their specific plant and what moisture levels mean in regards to the plant itself.
+4. Users would like if the plantcare assistant incorporated additional features (i.e. weather, calendars, and GPS) that would provide more detailed information & personalized plant care recommendations (but there are some concerns regarding privacy for GPS monitoring).
 
 ### Ideation
 From the user enactment findings, I did another round of brainstorming and sketched out possible design features and solutions.
@@ -163,17 +167,21 @@ Design components were created in Figma using auto-layout and variants; I used t
 ### High-Fidelity Designs
 The high level feature points for the final product include:
 - **Monitor Plant Status**: the companion mobile app includes progress visualizations that indicates how much water has been added to your plant's soil and how much water is still needed.
-- **Actionable Plant Care Insights**: the smart device senses moisture in the soil and helps users easily understand their plant status by providing helpful recommendations.
-- **Control Notifications**: the smart device allows users to toggle on/off the notification based on their own preferences and needs.
+- **Actionable Plant Care Insights**: the plantcare assistant senses moisture in the soil and helps users easily understand their plant status by providing helpful recommendations.
+- **Control Notifications**: the plantcare assistant allows users to toggle on/off the notification based on their own preferences and needs.
 - **Personalized Plantcare Reminders**: users can input plant details into the companion app to further tailor plant care recommendations.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_marketing2.jpg" class="bigger-image" alt="Plantcare Assistant Product Marketing" />
 
 The high fidelity screens were designed to include a plantcare dashboard, task assignment modules, and individual plant details, as well as social features and customizable settings.
+
+<br><br>
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_1.jpg" class="bigger-image" alt="Product Screens 1" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_2.jpg" class="bigger-image" alt="Product Screens 2" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_3.jpg" class="bigger-image" alt="Product Screens 3" />
 
+### Reflection
+Users had expressed in the user enactment sessions that they wanted additional details on plant moisture levels. For future iterations, I would look into providing more specific plant moisture measurements and instructions for users. Additionally, manual input of plant care details could be added to allow for more personalized plantcare recommendations, however, it would need to be a compelling user experience in order to entice users to do so. I would start by conducting usability tests with an updated high-fidelity prototype and use those insights to iterate and improve the user experience.
 ---
 
 Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
