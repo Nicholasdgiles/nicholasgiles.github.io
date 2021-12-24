@@ -20,8 +20,8 @@ I worked on an interaction design project where I researched a domain of interes
 ### Project Overview
 * Course: SI 612: Pervasive Interaction Design
 * Duration: Aug 2021 - Dec 2021
-* Discipline: Interaction Design, UI Design
-* Tools Used: Figma, Illustrator, Photoshop
+* Discipline: UX Research & Design, Interaction Design, UI Design
+* Tools Used: Figma, Illustrator, Photoshop, Qualtrics
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
 

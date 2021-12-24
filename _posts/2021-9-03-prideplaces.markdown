@@ -24,7 +24,7 @@ This past summer, I was a Product Design Intern at Pride Places, which is an LGB
 * Role: Product Design Intern
 * Location: San Francisco, CA (Remote)
 * Duration: May 2021 - Aug 2021
-* Discipline: Interaction Design, Visual Design
+* Discipline: UX Research, Interaction Design, Visual Design
 * Tools Used: Figma, Illustrator, Otter.ai
 
 ---

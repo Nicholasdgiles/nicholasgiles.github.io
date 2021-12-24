@@ -62,11 +62,11 @@ After creating wireframes, I began working on individual design components in Fi
 ### High-Fidelity Designs
 Eight high-fidelity mobile screens were produced utilizing the updated design components. For the background, I created a few gradients using the updated brand colors.
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_marketing.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
-
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing1.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing2.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing3.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
+
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_marketing.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
 
 ---
 
