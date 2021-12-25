@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+// @import 'https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap';
 
 /* sora-100 - latin */
 @font-face {
@@ -105,13 +105,6 @@
        url('../fonts/sora-v3-latin-800.svg#Sora') format('svg'); /* Legacy iOS */
 }
 
-body, html {
-  font-family: "Sora"
-}
-
-h1, h2, h3, h4 {
-  font-family: "Sora"
-}
 
 @import "base/variables";
 @import "base/normalize";
