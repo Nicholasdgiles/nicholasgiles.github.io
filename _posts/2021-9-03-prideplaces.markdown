@@ -29,4 +29,4 @@ This past summer, I was a Product Design Intern at Pride Places, which is an LGB
 
 ---
 
-Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
+Check out my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
