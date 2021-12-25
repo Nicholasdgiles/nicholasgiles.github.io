@@ -2,18 +2,6 @@
 /** 1. Change the default font family in all browsers (opinionated). 2. Prevent adjustments of font size after orientation changes in IE and iOS. */
 html {  /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
-@font-face {
-    font-family: 'Cera Pro', sans-serif;
-    src: url('assets/fonts/CeraPro-Italic_1.eot');
-    src: url('assets/fonts/CeraPro-Italic_1.eot?#iefix') format('embedded-opentype'),
-        url('assets/fonts/CeraPro-Italic_1.woff2') format('woff2'),
-        url('assets/fonts/CeraPro-Italic_1.woff') format('woff'),
-        url('assets/fonts/CeraPro-Italic_1.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
 /** Remove the margin in all browsers (opinionated). */
 body { margin: 0; font-family: "Cera Pro", sans-serif}
 
