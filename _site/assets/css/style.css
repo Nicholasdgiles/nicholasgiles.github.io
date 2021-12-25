@@ -3,7 +3,7 @@
 html {  /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 @font-face {
-    font-family: 'Cera Pro';
+    font-family: 'Cera Pro', sans-serif;
     src: url('assets/fonts/CeraPro-Italic_1.eot');
     src: url('assets/fonts/CeraPro-Italic_1.eot?#iefix') format('embedded-opentype'),
         url('assets/fonts/CeraPro-Italic_1.woff2') format('woff2'),
@@ -15,7 +15,7 @@ html {  /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 10
 }
 
 /** Remove the margin in all browsers (opinionated). */
-body { margin: 0; font-family: "Cera Pro"}
+body { margin: 0; font-family: "Cera Pro", sans-serif}
 
 /* HTML5 display definitions ========================================================================== */
 /** Add the correct display in IE 9-. 1. Add the correct display in Edge, IE, and Firefox. 2. Add the correct display in IE. */
@@ -163,7 +163,7 @@ button { cursor: pointer; border-radius: 0; }
 details summary { cursor: pointer; }
 details:not([open]) > *:not(summary) { display: none !important; }
 
-h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: 0; font-family: "Cera Pro"}
+h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: 0; font-family: "Cera Pro", sans-serif}
 
 h1 { font-size: 32px; font-weight: 600; }
 
