@@ -30,4 +30,4 @@ I worked with a team of students to help our client with user research and a nee
 
 ---
 
-Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
+Check out my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
