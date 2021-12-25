@@ -101,4 +101,4 @@ The next steps after building the high fidelity screens would be to create a bas
 
 ---
 
-Check out my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
+Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.

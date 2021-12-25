@@ -70,4 +70,4 @@ Eight high-fidelity mobile screens were produced utilizing the updated design co
 
 ---
 
-Check out my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
+Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
