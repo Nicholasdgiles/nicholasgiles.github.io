@@ -1,4 +1,28 @@
-// @import 'https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap';
+
+@import "base/variables";
+@import "base/normalize";
+@import "base/syntax";
+@import "base/general";
+@import "base/helpers";
+
+@import "pages/home-blog-projects";
+@import "pages/page";
+@import "pages/post";
+@import "pages/tags";
+
+@import "components/author";
+@import "components/disqus";
+@import "components/footer";
+@import "components/header";
+@import "components/nav";
+@import "components/others";
+@import "components/pagination";
+@import "components/related";
+@import "components/share";
+@import "components/side-by-side";
+@import "components/social-links";
+@import "components/spoiler";
 
 /* sora-100 - latin */
 @font-face {
@@ -104,28 +128,3 @@
        url('../fonts/sora-v3-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/sora-v3-latin-800.svg#Sora') format('svg'); /* Legacy iOS */
 }
-
-
-@import "base/variables";
-@import "base/normalize";
-@import "base/syntax";
-@import "base/general";
-@import "base/helpers";
-
-@import "pages/home-blog-projects";
-@import "pages/page";
-@import "pages/post";
-@import "pages/tags";
-
-@import "components/author";
-@import "components/disqus";
-@import "components/footer";
-@import "components/header";
-@import "components/nav";
-@import "components/others";
-@import "components/pagination";
-@import "components/related";
-@import "components/share";
-@import "components/side-by-side";
-@import "components/social-links";
-@import "components/spoiler";
