@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-BlackItalic.eot');
-    src: url('fonts/CeraPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-BlackItalic.woff2') format('woff2'),
-        url('fonts/CeraPro-BlackItalic.woff') format('woff'),
-        url('fonts/CeraPro-BlackItalic.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Bold.eot');
-    src: url('fonts/CeraPro-Bold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Bold.woff2') format('woff2'),
-        url('fonts/CeraPro-Bold.woff') format('woff'),
-        url('fonts/CeraPro-Bold.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -24,11 +24,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Black.eot');
-    src: url('fonts/CeraPro-Black.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Black.woff2') format('woff2'),
-        url('fonts/CeraPro-Black.woff') format('woff'),
-        url('fonts/CeraPro-Black.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Black.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Black.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Black.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -37,10 +37,11 @@
 @font-face {
     font-family: 'Cera Pro', sans-serif;
     src: url('fonts/CeraPro-BlackItalic_1.eot');
-    src: url('fonts/CeraPro-BlackItalic_1.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-BlackItalic_1.woff2') format('woff2'),
-        url('fonts/CeraPro-BlackItalic_1.woff') format('woff'),
-        url('fonts/CeraPro-BlackItalic_1.ttf') format('truetype');
+    src: url("https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic_1.eot")
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic_1.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic_1.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-BlackItalic_1.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -48,11 +49,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Light.eot');
-    src: url('fonts/CeraPro-Light.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Light.woff2') format('woff2'),
-        url('fonts/CeraPro-Light.woff') format('woff'),
-        url('fonts/CeraPro-Light.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Light.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Light.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Light.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -60,11 +61,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Black_1.eot');
-    src: url('fonts/CeraPro-Black_1.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Black_1.woff2') format('woff2'),
-        url('fonts/CeraPro-Black_1.woff') format('woff'),
-        url('fonts/CeraPro-Black_1.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Black_1.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Black_1.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Black_1.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Black_1.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Black_1.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -72,11 +73,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Bold_1.eot');
-    src: url('fonts/CeraPro-Bold_1.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Bold_1.woff2') format('woff2'),
-        url('fonts/CeraPro-Bold_1.woff') format('woff'),
-        url('fonts/CeraPro-Bold_1.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold_1.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold_1.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold_1.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Bold_1.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -84,11 +85,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Thin.eot');
-    src: url('fonts/CeraPro-Thin.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Thin.woff2') format('woff2'),
-        url('fonts/CeraPro-Thin.woff') format('woff'),
-        url('fonts/CeraPro-Thin.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Thin.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Thin.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Thin.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -96,11 +97,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Italic.eot');
-    src: url('fonts/CeraPro-Italic.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Italic.woff2') format('woff2'),
-        url('fonts/CeraPro-Italic.woff') format('woff'),
-        url('fonts/CeraPro-Italic.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Italic.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Italic.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Italic.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -108,11 +109,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Light_1.eot');
-    src: url('fonts/CeraPro-Light_1.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Light_1.woff2') format('woff2'),
-        url('fonts/CeraPro-Light_1.woff') format('woff'),
-        url('fonts/CeraPro-Light_1.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Light_1.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Light_1.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Light_1.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Light_1.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Light_1.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -120,11 +121,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Medium.eot');
-    src: url('fonts/CeraPro-Medium.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Medium.woff2') format('woff2'),
-        url('fonts/CeraPro-Medium.woff') format('woff'),
-        url('fonts/CeraPro-Medium.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Medium.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Medium.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Medium.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -132,11 +133,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/CeraPro-Regular.eot');
-    src: url('fonts/CeraPro-Regular.eot?#iefix') format('embedded-opentype'),
-        url('fonts/CeraPro-Regular.woff2') format('woff2'),
-        url('fonts/CeraPro-Regular.woff') format('woff'),
-        url('fonts/CeraPro-Regular.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Regular.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/CeraPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Regular.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Regular.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/CeraPro-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -144,11 +145,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/assets/fonts/CeraPro-Italic_1.eot');
-    src: url('fonts/assets/fonts/CeraPro-Italic_1.eot?#iefix') format('embedded-opentype'),
-        url('fonts/assets/fonts/CeraPro-Italic_1.woff2') format('woff2'),
-        url('fonts/assets/fonts/CeraPro-Italic_1.woff') format('woff'),
-        url('fonts/assets/fonts/CeraPro-Italic_1.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Italic_1.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Italic_1.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Italic_1.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Italic_1.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Italic_1.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -156,11 +157,11 @@
 
 @font-face {
     font-family: 'Cera Pro', sans-serif;
-    src: url('fonts/assets/fonts/CeraPro-Medium_1.eot');
-    src: url('fonts/assets/fonts/CeraPro-Medium_1.eot?#iefix') format('embedded-opentype'),
-        url('fonts/assets/fonts/CeraPro-Medium_1.woff2') format('woff2'),
-        url('fonts/assets/fonts/CeraPro-Medium_1.woff') format('woff'),
-        url('fonts/assets/fonts/CeraPro-Medium_1.ttf') format('truetype');
+    src: url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Medium_1.eot');
+    src: url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Medium_1.eot?#iefix') format('embedded-opentype'),
+        url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Medium_1.woff2') format('woff2'),
+        url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Medium_1.woff') format('woff'),
+        url('https://nicholasgiles.com/sass/fonts/assets/fonts/CeraPro-Medium_1.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
