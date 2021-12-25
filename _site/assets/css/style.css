@@ -4,11 +4,11 @@ html {  /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 10
 
 @font-face {
     font-family: 'Cera Pro';
-    src: url('CeraPro-Italic_1.eot');
-    src: url('CeraPro-Italic_1.eot?#iefix') format('embedded-opentype'),
-        url('CeraPro-Italic_1.woff2') format('woff2'),
-        url('CeraPro-Italic_1.woff') format('woff'),
-        url('CeraPro-Italic_1.ttf') format('truetype');
+    src: url('assets/fonts/CeraPro-Italic_1.eot');
+    src: url('assets/fonts/CeraPro-Italic_1.eot?#iefix') format('embedded-opentype'),
+        url('assets/fonts/CeraPro-Italic_1.woff2') format('woff2'),
+        url('assets/fonts/CeraPro-Italic_1.woff') format('woff'),
+        url('assets/fonts/CeraPro-Italic_1.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
