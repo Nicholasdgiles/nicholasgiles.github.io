@@ -1,9 +1,31 @@
 body, html
 	font-size: 62.5%
 
+  @font-face {
+  		font-family: "Cera Pro"
+          src: url('CeraProRegular.woff') format('woff'),
+					src: url('CeraProRegular.woff') format('woff')
+					src: url('CeraProRegular.woff2') format('woff2')
+  			  src: url('CeraProRegular.eot')
+				  src: url('CeraProRegular.eot?#iefix') format('embedded-opentype')
+
+          font-weight: normal
+          font-style: normal
+          font-display: swap
+      }
+      .cera-pro {
+          font-family: "Cera Pro"
+          color: black
+      }
+
 body
 	font: 16px "Cera Pro"
+	font-family: "Cera Pro"
 	color: $alpha
+	src: url('CeraProRegular.woff') format('woff')
+	src: url('CeraProRegular.woff2') format('woff2')
+  src: url('CeraProRegular.eot')
+	src: url('CeraProRegular.eot?#iefix') format('embedded-opentype')
 
 h1, h2, h3, h4
 	font-family: "Cera Pro"
