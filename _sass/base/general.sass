@@ -6,8 +6,17 @@ body
 	color: $alpha
 	background: $omega
 
+
+//body, html <--- Nick's styling
+	font-size: 62.5%
+  font-style: normal
+  font-weight: 400
+	font: 16px
+
+	color: $alpha
+
 h1, h2, h3, h4
-	font-family: $fontSans
+  font-family: $fontSans
 	color: $beta
 	-webkit-font-smoothing: antialiased
 	text-rendering: optimizeLegibility
@@ -16,10 +25,11 @@ h1
 	font-size: 3rem
 	letter-spacing: -1px
 	color: $beta
-	font-weight: 700
+	font-weight: 800
 
 h2
 	font-size: 2.2rem
+	font-weight: 400
 
 h3
 	font-size: 2rem
@@ -30,7 +40,6 @@ h4
 a
 	color: $delta
 	text-decoration: underline
-	font-weight: $thin-font
 
 p
 	line-height: 1.7
@@ -43,8 +52,8 @@ p
 		letter-spacing: 0.2px
 
 strong
-	font-weight: 400
-	color: $zeta
+	font-weight: 700
+	color: #000
 
 ul,
 ol
@@ -92,21 +101,13 @@ figure.highlight
 	width: 100%
 	margin: 0
 
-code
-	padding: 2px 3px
-	font-family: $fontMonospace
-	font-size: 12px
-	vertical-align: middle
-	background: #eee
-	border-radius: 2px
-
-pre > code,
+code,
 tt
 	padding: 1px 0
 	font-family: $fontMonospace
 	font-size: 12px
 	line-height: 20px
-	background: $omega
+	background: #fff
 	border-radius: 2px
 
 pre
@@ -118,7 +119,7 @@ pre
 	font-size: 1.2rem
 	line-height: 2rem
 	overflow: auto
-	background: $omega
+	background: #fff
 	border: 1px solid $epsilon
 	border-radius: 2px
 

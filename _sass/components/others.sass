@@ -1,12 +1,15 @@
 .evidence
-    background-image: linear-gradient(to bottom, $kappa, $kappa)
-    color: $beta
+    background-image: linear-gradient(to bottom,transparent 0,transparent 60%,#ffdab9 60%,#ffdab9 100%)
+
+.evidence:hover
+    background-image: none
+    background-color: #ffdab9
 
 .star
     > .url > .title
         width: auto !important
         display: inline
-        background-image: linear-gradient($kappa, $kappa)
+        background-image: linear-gradient(rgba(39,243,106,0.15), rgba(39,243,106,0.15))
 
 .twitter-tweet
     margin: 10px auto
@@ -15,21 +18,19 @@
     display: inline-block
     width: 17px
     height: 17px
-    fill: $zeta
+    fill: #000
     text-align: center
-    color: $gama
+    color: #000
     margin: 7px auto
 
 .caption
     position: relative
-    top: 1rem
     left: 0
     right: 0
     margin: 0 auto
     width: 100%
     text-align: center
     font-size: 1.3rem
-    font-weight: $thin-font
 
 .bigger-image
     min-width: 130%
