@@ -16,7 +16,7 @@ resume: #true
 resume-external: #true
 resume-url: #https://drive.google.com/file/d/1kGpukFS5cHD-3jpKdgJrfhfoKtL9vBJP/view?usp=sharing
 
-url: https://nicholasgiles.com/
+url: http://localhost:4000 # https://nicholasgiles.com/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
