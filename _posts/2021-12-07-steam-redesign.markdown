@@ -12,7 +12,7 @@ projects: true
 description: "Steam Redesign"
 ---
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_hero.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_marketing.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
 
 ### Design Problem
 
@@ -66,7 +66,9 @@ Eight high-fidelity mobile screens were produced utilizing the updated design co
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing2.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing3.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_marketing.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/feature_points.jpg" class="bigger-image" alt="Steam Redesign Feature Points" />
+
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_hero.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
 
 ---
 
