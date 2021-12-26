@@ -25,7 +25,7 @@ description: "Steam Redesign"
 * Tools Used: Figma, Illustrator, Photoshop
 
 ### Personas
-Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behaviorial characteristics for both of the personas in order to ensure different users' needs would be addressed. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
+Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behaviorial characteristics for both of the personas in order to ensure different users' needs would be addressed. The personas include information on users' favorite apps, which helps with understanding mental models and familiar design patterns. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.jpg" class="bigger-image" alt="Steam Redesign Persona" />
 <figcaption class="caption">Persona 1: Alex Melis</figcaption>
