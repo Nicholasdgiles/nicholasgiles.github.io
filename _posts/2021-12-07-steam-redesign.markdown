@@ -12,7 +12,7 @@ projects: true
 description: "Steam Redesign"
 ---
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_marketing.jpg" class="bigger-image" alt="Steam Redesign Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/product_hero.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
 
 ### Design Problem
 
@@ -23,6 +23,9 @@ description: "Steam Redesign"
 * Duration: Aug 2021 - Dec 2021
 * Discipline: Visual Design, UI Design
 * Tools Used: Figma, Illustrator, Photoshop
+
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing2.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
+<figcaption class="caption">High-Fidelity Screens</figcaption>
 
 ### Personas
 Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behaviorial characteristics for both of the personas in order to ensure different users' needs would be addressed. The personas include information on users' favorite apps, which helps with understanding mental models and familiar design patterns. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
@@ -65,9 +68,7 @@ Eight high-fidelity mobile screens were produced utilizing the updated design co
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing1.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing2.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing3.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
-
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/feature_points.jpg" class="bigger-image" alt="Steam Redesign Feature Points" />
-
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/product_hero.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
 
 ---
