@@ -24,6 +24,7 @@ I worked on an interaction design project where I researched a domain of interes
 * Tools Used: Figma, Illustrator, Photoshop, Qualtrics
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_mock.jpg" class="bigger-image" alt="Plantcare Assistant Hero Image" />
+<figcaption class="caption">High-Fidelity Screens</figcaption>
 
 ### Approach
 I began by deciding upon an interaction design problem, then I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain and the people who participate in it. From there, I crafted **personas**, an **empathy map**, and a **journey map**. Then I built **wireframes** and conducted **user enactments** to explore possible solutions. From the user enactment learnings I generated, I was able to narrow in on a core set of features that I included in the design of the **high fidelity prototype**.
@@ -93,12 +94,14 @@ Two personas were created from the research findings; both a primary and seconda
 
 #### Empathy Map
 An empathy map was created for the primary persona, which describes what the user says, does, feels, and thinks in relation to plantcare work.
+
 <img src="http://nicholasgiles.com/assets/images/plantcare/empathy_map.png" alt="Empathy Map" />
 <figcaption class="caption">Empathy Map</figcaption>
 
 #### Journey Map
 I created a journey map which tracks the users' mood throughout the plantcare lifecycle. This helped me identify pain points and resulting product opportunities.
-<Img src="http://nicholasgiles.com/assets/images/plantcare/journey_map.png" alt="Journey Map" />
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/journey_map.png" alt="Journey Map" />
 <figcaption class="caption">Journey Map</figcaption>
 
 ### User Enactments
