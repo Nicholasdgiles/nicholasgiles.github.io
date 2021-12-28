@@ -78,6 +78,9 @@ Eight high-fidelity mobile screens were produced utilizing the updated design co
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/feature_points.jpg" class="bigger-image" alt="Steam Redesign Feature Points" />
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/product_hero.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
 
+### Reflection
+Next steps would include recruiting users for usability tests, utilizing the existing Steam product. This would allow me to validate the initial insights I generated from the heuristic analysis. Then I would take the learnings I generated and iterate on the high-fidelity designs. From there, I would build a quick working prototype in order to test with users.
+
 ---
 
 Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
