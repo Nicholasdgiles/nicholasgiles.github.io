@@ -16,28 +16,33 @@ description: "Steam Redesign"
 
 ### Design Problem
 
-**App Redesign:** pick an app or digital product with significant flaws in the visual design, look and feel, and UI. Document those flaws, brainstorm alternative solutions, and redesign the application. Focus on the visuals and desired emotional response and address UX issues secondarily. Your finalized submission should contain six or more key redesigned screens, two personas, and a style guide.
+**App Redesign:** pick an app or digital product with significant flaws in the visual design, look and feel, and UI. Document those flaws, brainstorm alternative solutions, and redesign the application. Focus on visuals and address UX issues secondarily.
 
 ### Project Overview
 * Course: SI 616: Advanced Visual Design
-* Duration: Aug 2021 - Dec 2021
-* Discipline: Visual Design, UI Design
+* Duration: Nov 2021 - Dec 2021
+* Discipline: Visual Design, UI Design, UX Research & Design
 * Tools Used: Figma, Illustrator, Photoshop
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/marketing2.jpg" class="bigger-image" alt="Steam Redesign High Fidelity Screens" />
 <figcaption class="caption">High-Fidelity Screens</figcaption>
 
-
-### Heuristic Analysis
-I decided to do a heuristic analysis to audit key features of the Steam iOS application. I began by creating a checklist of the heuristics that should be applied, and the individual criteria under each section. Then I rated the severity of each issue and documented recommended solutions.
+### Motivation
+For this project, I decided to redesign the Steam iOS application as it is a digital product that hasn't been updated in over ten years. I've used Steam in the past to play games and I am familiar with many of the applications' UI and UX issues. From doing a quick assessment, I found that the application has significant UX flaws and utilizes outdated design patterns. In order to further dig into these issues, I conducted a heuristic analysis of the Steam iOS mobile application.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/steam_audit.png" alt="Steam iOS Application Audit" class="bigger-image"/>
 <figcaption class="caption">Steam iOS Application Audit</figcaption>
 
-Next, I documented issues related to five key heuristics; the heuristics I used covered a majority of UI issues as well as some high level UX issues. 
+### Heuristic Analysis
+The heuristic analysis was conducted in order to understand UX and UI issues of the Steam iOS application; these features include Profile Setup, Game Search, Game Listings, Item Listings, and Community Marketplace to name a few.
+
+I began by creating a checklist of the heuristics that should be applied, as well as the individual criteria for each heuristic. Next, I documented issues related to Nielsens ten usability heuristics. The heuristics that had the most issues are documented below.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/heuristic_analysis.png" alt="Steam iOS Application Audit" class="bigger-image"/>
-<figcaption class="caption">Heuristic Analysis Spreadsheet</figcaption>
+<figcaption class="caption">Heuristic Analysis Checklist</figcaption>
+
+#### Findings
+Once I had finished the heuristic analysis, I rated the severity of each issue and documented recommended solutions.
 
 ### Personas
 Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behaviorial characteristics for both of the personas in order to ensure different users' needs would be addressed. The personas include information on users' favorite apps, which helps with understanding mental models and familiar design patterns. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
