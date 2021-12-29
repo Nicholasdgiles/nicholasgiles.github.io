@@ -34,9 +34,9 @@ For this project, I decided to redesign the Steam iOS application as it is a dig
 <figcaption class="caption">Steam iOS Application Audit</figcaption>
 
 ### Heuristic Analysis
-The heuristic analysis was conducted in order to understand UX and UI issues of the Steam iOS application; these features include Profile Setup, Game Search, Game Listings, Item Listings, and Community Marketplace to name a few.
+A heuristic analysis was conducted in order to uncover UX and UI issues of the Steam iOS application. These features include Profile Setup, Game Search, Game Listings, Item Listings, and Community Marketplace to name a few.
 
-I began by creating a checklist of the heuristics that should be applied, as well as the individual criteria for each heuristic. Next, I documented issues related to Nielsens ten usability heuristics. The heuristics that had the most issues are documented below.
+I began by creating a checklist of the heuristics that should be applied, as well as the individual criteria for each heuristic. Then I documented issues related to Nielsens ten usability heuristics. The heuristics that had the most issues are documented below.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/heuristic_analysis.png" alt="Steam iOS Application Audit" class="bigger-image"/>
 <figcaption class="caption">Heuristic Analysis Checklist</figcaption>
