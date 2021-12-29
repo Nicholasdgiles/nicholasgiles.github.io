@@ -28,13 +28,13 @@ description: "Steam Redesign"
 <figcaption class="caption">High-Fidelity Screens</figcaption>
 
 ### Motivation
-For this project, I decided to redesign the Steam iOS application as it is a digital product that hasn't been updated in over ten years. I've used Steam in the past to play games and I am familiar with many of the applications' UI and UX issues. From doing a quick assessment, I found that the application has significant UX flaws and utilizes outdated design patterns. In order to further dig into these issues, I conducted a heuristic analysis of the Steam iOS mobile application.
+For this project, I decided to redesign the Steam iOS application as it is a digital product that hasn't had any major UX/UI updates in a while. Additionally, I've used Steam in the past to play games and I am familiar with many of the applications' UI and UX issues. From doing a quick assessment, I found that the application has significant UX flaws and utilizes outdated design patterns. In order to further dig into these issues, I conducted a heuristic analysis of the Steam iOS mobile application.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/steam_audit.png" alt="Steam iOS Application Audit" class="bigger-image"/>
 <figcaption class="caption">Steam iOS Application Audit</figcaption>
 
 ### Heuristic Analysis
-A heuristic analysis was conducted in order to uncover UX and UI issues of the Steam iOS application. These features include Profile Setup, Game Search, Game Listings, Item Listings, and Community Marketplace to name a few.
+A heuristic analysis was conducted in order to uncover UX and UI issues of the Steam iOS application. The features that were analyzed include Profile Setup, Game Search, Game Listings, Item Listings, and Community Marketplace just to name a few.
 
 I began by creating a checklist of the heuristics that should be applied, as well as the individual criteria for each heuristic. Then I documented issues related to Nielsens ten usability heuristics. The heuristics that had the most issues are documented below.
 
