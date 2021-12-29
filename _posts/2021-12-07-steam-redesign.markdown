@@ -36,13 +36,13 @@ For this project, I decided to redesign the Steam iOS application as it is a dig
 ### Heuristic Analysis
 A heuristic analysis was conducted in order to uncover UX and UI issues of the Steam iOS application. The features that were analyzed include Profile Setup, Game Search, Game Listings, Item Listings, and Community Marketplace just to name a few.
 
-I began by creating a checklist of the heuristics that should be applied, as well as the individual criteria for each heuristic. Then I documented issues related to Nielsens ten usability heuristics. The heuristics that had the most issues are documented below.
+I began by creating a checklist of the heuristics that should be applied, as well as crafting the individual criteria for each heuristic. Then I documented issues related to Nielsen Norman's ten usability heuristics. The heuristics that had the most issues are documented below.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/heuristic_analysis.png" alt="Steam iOS Application Audit" class="bigger-image"/>
 <figcaption class="caption">Heuristic Analysis Checklist</figcaption>
 
 #### Findings
-Once I had finished the heuristic analysis, I rated the severity of each issue and documented recommended solutions.
+Once I finished the heuristic analysis, I rated the severity of each issue and brainstormed recommended solutions.
 
 ### Personas
 Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behaviorial characteristics for both of the personas in order to ensure different users' needs would be addressed. The personas include information on users' favorite apps, which helps with understanding mental models and familiar design patterns. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
