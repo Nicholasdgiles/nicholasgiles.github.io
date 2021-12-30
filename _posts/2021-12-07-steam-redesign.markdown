@@ -42,13 +42,13 @@ I began by creating a checklist of the heuristics that should be applied, as wel
 <figcaption class="caption">Heuristic Analysis Checklist</figcaption>
 
 #### Findings
-Once I finished the heuristic analysis, I rated the severity of each issue and brainstormed recommended solutions.
+Once I finished creating the heuristic analysis checklist, I rated the severity of each issue and brainstormed recommended solutions.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/heuristic_analysis.png" alt="Steam iOS Application Audit" class="bigger-image"/>
 <figcaption class="caption">Severity Rankings & Recommendations </figcaption>
 
 ### Personas
-Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behaviorial characteristics for both of the personas in order to ensure different users' needs would be addressed. The personas include information on users' favorite apps, which helps with understanding mental models and familiar design patterns. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
+Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behavioral characteristics for both of the personas in order to ensure different users' needs would be addressed. The personas include information on users' favorite apps, which helps with understanding mental models and familiar design patterns. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.jpg" class="bigger-image" alt="Steam Redesign Persona" />
 <figcaption class="caption">Persona 1: Alexis Melis</figcaption>
