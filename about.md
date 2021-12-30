@@ -1,19 +1,17 @@
 ---
+title: About
 layout: page
-title: Home
 ---
-</head>
-<body style="font-family: 'Epilogue', san-serif;">
 
-  <div class="page home">
+<h1 style="text-align:left; margin-bottom: -8px; margin-top: -16px;">👋 Hi there,</h1>
+<h1 style="text-align:left; margin-bottom: 40px;">I'm Nick (he-they).</h1>
 
-<footer class="footer-main" style="margin-top: 32px;"></footer>
-<h1 style="text-align:left; margin-bottom: -8px; margin-top: -16px; font-family: 'Epilogue', san-serif;">👋 Hi there,</h1>
-<h1 style="text-align:left; margin-bottom: 40px;">I'm Nicholas (he-they).</h1>
+<h2 style="text-align:left; margin-bottom: 40px; line-height: 32px;">Welcome to my portfolio!</h2>
 
-<h2 style="text-align:left; margin-bottom: 40px; line-height: 32px; font-family: 'Epilogue', san-serif;">I'm a 2nd year MSI (UX-HCI) candidate at the University of Michigan School of Information, studying UX research & design. My passions include inclusive design, creative problem solving, and design systems.</h2>
+<h2 style="text-align:left; margin-bottom: 40px; line-height: 32px;">I am currently an MSI (UX-HCI) Candidate at the University of Michigan School of Information, studying UX research & design.</h2>
 
 <h2 style="text-align:left; margin-bottom: 72px; line-height: 32px;">Take a look at the <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span> I've put together.</h2>
+
 
 
 <a href="https://nicholasgiles.com//steam-redesign/"><div class="card">
@@ -56,5 +54,3 @@ title: Home
     <p>@nicholasgiles</p>
   </div>
 </div></a>
-
-</body>
