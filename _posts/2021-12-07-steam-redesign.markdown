@@ -96,3 +96,5 @@ Next steps would include recruiting users for usability tests, utilizing the exi
 ---
 
 Check out some of my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
+
+<a href="/" style="font-weight: bold; font-size: 1em; letter-spacing: 0.1em; text-decoration: none; color: #aaaaaa; display: inline-block; padding: 10px 40px 10px 40px; position: relative; border: 3px solid #ffffff; border-radius: 12px;">View More</a>
