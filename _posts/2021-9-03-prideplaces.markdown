@@ -1,5 +1,5 @@
 ---
-title: "🆕 Pride Places"
+title: "Pride Places"
 layout: post
 date: 2021-9-3 8:39
 image: #

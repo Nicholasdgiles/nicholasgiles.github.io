@@ -1,5 +1,5 @@
 ---
-title: "🆕 Plantcare Assistant"
+title: "Plantcare Assistant"
 layout: post
 date: 2021-12-02 11:12
 image: #
