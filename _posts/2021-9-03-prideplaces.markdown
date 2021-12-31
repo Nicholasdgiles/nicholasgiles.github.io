@@ -31,4 +31,4 @@ This past summer, I was a Product Design Intern at Pride Places, which is an LGB
 
 Check out some of my other case studies.
 
-<a href="/" style="font-weight: bold; font-size: 1em; letter-spacing: 0.1em; text-decoration: none; color: #000000; display: inline-block; text-align: center; position: relative; border: 2px solid #000000; border-radius: 12px; padding: 12px 0px 12px 0px; width: 100%">Back</a>
+<a href="/" style="font-weight: bold; font-size: 1em; letter-spacing: 0.1em; text-decoration: none; color: #000000; display: inline-block; text-align: center; position: relative; border: 2px solid #000000; border-radius: 12px; padding: 10px 0px 10px 0px; width: 100%">Back</a>
