@@ -180,10 +180,8 @@ Below you can find the final product slides we presented on the last day of clas
 
 There are many aspects of this project that could be improved, but, overall, working on this project was a great learning experience and an introduction to interaction design. I believe creating a site map would have helped our group get more aligned on solutions prior to designing our wireframes. Additionally, Covid-19 made in-person usability tests much more difficult to conduct.
 
-The implementation of the advanced search and filter features could be greatly improved as well. If we had additional time to iterate on the prototype, I would relocate the advance search features to be directly on the home search screen, as these features are core to the experience of the product. Additionally, the material impact that this information system could have on people's lives is unmeasured and would need to be studied and defined. Additional research would be required to determine second and third rate affects on impacted communities.
+The implementation of the advanced search and filter features could be greatly improved as well. If we had additional time to iterate on the prototype, I would relocate the advance search features to be directly on the home search screen, as these features are core to the experience of the product. Additionally, the material impact that this information system could have on people's lives is unmeasured and would need to be studied and defined. Additional research would be required to determine second and third order effects on impacted communities.
 
 ---
 
-Check out some of my other case studies.
-
-<a href="/" style="font-weight: bold; font-size: 1em; letter-spacing: 0.1em; text-decoration: none; color: #000000; display: inline-block; text-align: center; position: relative; border: 2px solid #000000; border-radius: 12px; padding: 10px 0px 10px 0px; width: 100%">Back</a>
+Check out my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
