@@ -97,4 +97,4 @@ Next steps would include recruiting users for usability tests, utilizing the exi
 
 Check out some of my other case studies.
 
-<a href="/" style="font-weight: bold; font-size: 1em; letter-spacing: 0.1em; text-decoration: none; color: #000000; display: inline-block; text-align: center; position: relative; border: 2px solid #000000; border-radius: 12px; padding: 16px 0px 16px 0px; width: 100%">Back</a>
+<a href="/" style="font-weight: bold; font-size: 1em; letter-spacing: 0.1em; text-decoration: none; color: #000000; display: inline-block; text-align: center; position: relative; border: 2px solid #000000; border-radius: 12px; padding: 14px 0px 14px 0px; width: 100%">Back</a>
