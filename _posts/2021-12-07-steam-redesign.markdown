@@ -95,4 +95,4 @@ Next steps would include recruiting users for usability tests, utilizing the exi
 
 ---
 
-Check out my other <span class="evidence"><a href="https://nicholasgiles.com/projects/" style="text-decoration: none">case studies</a></span>.
+Check out my other <span class="evidence"><a href="https://nicholasgiles.com/" style="text-decoration: none">case studies</a></span>.
