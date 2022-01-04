@@ -27,6 +27,23 @@ This past summer, I was a Product Design Intern at Pride Places, which is an LGB
 * Discipline: UX Research, Interaction Design, Visual Design
 * Tools Used: Figma, Illustrator, Otter.ai
 
+
+### Audit
+
+<img src="http://nicholasgiles.com/assets/images/prideplaces/menu_audit.png" alt="Pride Places Audit" />
+<figcaption class="caption">Business Menu Audit</figcaption>
+
+### Design
+
+#### Design Components
+
+<img src="http://nicholasgiles.com/assets/images/prideplaces/menu_components.png" class="bigger-image" alt="Pride Places Components" />
+<figcaption class="caption">Business Menu Redesign Components</figcaption>
+
+
+
+
 ---
 
-Check out my other <span class="evidence"><a href="https://nicholasgiles.com/" style="text-decoration: none">case studies</a></span>.
+Check out my other <span class="evidence"><a href="https://nicholasgiles.com/
+" style="text-decoration: none">case studies</a></span>.
