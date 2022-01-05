@@ -14,7 +14,7 @@ description: "Pride Places"
 
 <img src="http://nicholasgiles.com/assets/images/prideplaces/pp-hero-mockup.jpg" class="bigger-image" alt="Pride Places Hero Image" />
 
-This past summer, I was a Product Design Intern at Pride Places, which is an LGBTQ+ directory start-up based in San Francisco, California. I had the opportunity to contribute towards the redesign of their web application, building out components in Figma for the new business menu feature.
+This past summer, I was a Product Design Intern at Pride Places, an LGBTQ+ directory start-up based in San Francisco, California. I had the opportunity to contribute towards the redesign of their web application, building out components in Figma for the new business-tier features.
 
 ### Overview
 * Organization: Pride Places
