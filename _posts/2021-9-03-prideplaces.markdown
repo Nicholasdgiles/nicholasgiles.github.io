@@ -29,8 +29,8 @@ This past summer, I was a Product Design Intern at Pride Places, which is an LGB
 * Built a component & icon library in Figma and retrofitted existing assets using auto-layout.
 * Designed a Pride Places brand-compliant email campaign to upsell churned users to a paid subscription tiers.
 
-### About
-The first project I worked on during my internship was the redesign of the "Menu" feature that is only available to business tier subscribers. Developers had yet to implement the existing designs and I was tasked with updating them to be simpler and more modern. In addition to improving the overall UX, I also integrated a handful of recent product and design system changes. I began by conducting a usability audit of the existing designs before improving upon them.
+### Business Menu Redesign
+The first project I worked on during my internship was the redesign of the "Menu" feature that is only available to business tier subscribers. Developers had yet to implement the existing designs and I was tasked with updating them to be simpler and more modern. In addition to improving the overall UX, I also integrated a handful of recent product and design system updates. I began by conducting a usability audit of the existing designs before iterating upon them.
 
 <img src="http://nicholasgiles.com/assets/images/prideplaces/menu_audit.png" alt="Pride Places Audit" />
 <figcaption class="caption">Business Menu Audit</figcaption>
@@ -42,8 +42,8 @@ Next, I built components in Figma for both the mobile and desktop business menu 
 <figcaption class="caption">Business Menu Redesign Components</figcaption>
 
 #### High-Fidelity Designs
-<img src="http://nicholasgiles.com/assets/images/prideplaces/menu_hero.png" class="bigger-image" alt="Pride Places Components" />
-<figcaption class="caption">Menu: High-Fidelity Designs</figcaption>
+<img src="http://nicholasgiles.com/assets/images/prideplaces/menu_hero.png" class="bigger-image" alt="Pride Places High-Fidelity Designs" />
+<figcaption class="caption">Business Menu High-Fidelity Designs</figcaption>
 
 ### Skills & Knowledge Gained
 * UX design for web applications
