@@ -41,6 +41,9 @@ Next, I built components in Figma for both the mobile and desktop business menu 
 <img src="http://nicholasgiles.com/assets/images/prideplaces/menu_components.png" class="bigger-image" alt="Pride Places Components" />
 <figcaption class="caption">Business Menu Redesign Components</figcaption>
 
+#### High-Fidelity Designs
+<img src="http://nicholasgiles.com/assets/images/prideplaces/menu_hero.png" class="bigger-image" alt="Pride Places Components" />
+<figcaption class="caption">Menu: High-Fidelity Designs</figcaption>
 
 ### Skills & Knowledge Gained
 * UX design for web applications
