@@ -3,14 +3,32 @@ title: About
 layout: page
 ---
 
-<h1 style="text-align:left; font-size:36px; margin-bottom: -16px; font-weight: 800">👋 Hi there,</h1>
-<h1 style="text-align:left; font-size:36px; margin-bottom: 40px; font-weight: 800">I'm Nick (he/they).</h1>
+I'm a creative operations manager turned designer, specializing in the UX/UI of entertainment platforms and online communities, with 5 years of experience in the tech industry. I believe design should be useful and universal, with delightful experiences to keep people coming back.
 
-<header class="header-home">
-</header>
+**Inclusive Design**
+I include users throughout the design process in order to build solutions that improve actual people’s lives.
 
-<h2 style="text-align:left; font-size:20px; margin-bottom: 40px; font-weight: 600; line-height: 32x;">Welcome to my portfolio!</h2>
+**Creative Problem Solving**
+I use tools like Miro, Jira, Qualtrics, Otter.io, Slack, and Google workspace to help me tackle difficult problems, understand user behavior, and collaborate more efficiently.
 
-<h2 style="text-align:left; font-size:20px; margin-bottom: 40px; font-weight: 600; line-height: 32px;">I am currently an MSI (UX-HCI) Candidate at the University of Michigan School of Information, studying UX research & design.</h2>
+**Design Systems**
+I enjoy collaborating with other designers in Figma, building component libraries using auto-layout and variants.
 
-<h2 style="text-align:left; font-size:20px; margin-bottom: 80px; font-weight: 600; line-height: 32px;">Take a look at some of the <span class="evidence"><a href="https://nicholasgiles.com/projects/">projects</a></span> I've been working on.</h2>
+### My Background
+Before moving into UX design in 2020, I was in creative operations on-site at google and pandora, enabling designers to produce quality work at scale.
+
+
+<img src="http://nicholasgiles.com/assets/images/about/pandora_volunteering.jpg" class="bigger-image" alt="Nicholas Giles" />
+<figcaption class="caption">Community Panel Event at Pandora HQ in Oakland, CA</figcaption>
+
+
+At Pandora, I was the Volunteer & Partnerships Lead for the Pride LGBTQ+ resource group where I organized panels, volunteer events, and programming for local Oakland youth.
+
+<img src="http://nicholasgiles.com/assets/images/about/pandora_volunteering.jpg" class="bigger-image" alt="Nicholas Giles" />
+<figcaption class="caption">Volunteer event with Project Openhand in Oakland, CA</figcaption>
+
+
+In addition to being a designer, I am also a dog dad, a gaymer, a listener of good music (lol), and a reader of books on social movements.
+
+<img src="http://nicholasgiles.com/assets/images/about/annarbor_picture.jpg" class="bigger-image" alt="Nicholas Giles" />
+<figcaption class="caption">Running in Ann Arbor, MI with my dog, Charlie!</figcaption>
