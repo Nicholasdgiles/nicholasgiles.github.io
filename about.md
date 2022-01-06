@@ -36,3 +36,7 @@ In addition to being a designer, I am also a dog dad, a gaymer, a listener of go
 
 <img src="http://nicholasgiles.com/assets/images/about/annarbor_picture.jpg" alt="Nicholas Giles" />
 <figcaption class="caption">Running in Ann Arbor, MI with my dog, Charlie!</figcaption>
+
+---
+
+Check out my <span class="evidence"><a href="https://nicholasgiles.com/" style="text-decoration: none">case studies</a></span>.
