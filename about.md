@@ -42,4 +42,4 @@ In addition to being a designer, I am also a dog dad, a gaymer, a listener of go
 
 ---
 
-Check out my <span class="evidence"><a href="https://nicholasgiles.com/" style="text-decoration: none">case studies</a></span>.
+Check out some of my <span class="evidence"><a href="https://nicholasgiles.com/" style="text-decoration: none">case studies</a></span>.
