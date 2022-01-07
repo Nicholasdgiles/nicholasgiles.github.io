@@ -7,8 +7,6 @@ layout: page
 <br>
 <br>
 
-<img src="http://nicholasgiles.com/assets/images/profile.jpg" alt="Nicholas Giles" />
-
 I'm a creative project manager turned designer, specializing in the UX/UI of entertainment platforms and online communities, with 5 years of experience in the tech industry. I believe design should be useful and universal, with delightful experiences to keep people coming back.
 
 **Inclusive Design:**
