@@ -7,7 +7,7 @@ layout: page
 <br>
 <br>
 
-I'm a creative operations manager turned designer, specializing in the UX/UI of entertainment platforms and online communities, with 5 years of experience in the tech industry. I believe design should be useful and universal, with delightful experiences to keep people coming back.
+I'm a creative project manager turned designer, specializing in the UX/UI of entertainment platforms and online communities, with 5 years of experience in the tech industry. I believe design should be useful and universal, with delightful experiences to keep people coming back.
 
 **Inclusive Design:**
 I include users throughout the design process in order to build solutions that improve actual people’s lives.
@@ -17,6 +17,7 @@ I use tools like Miro, Jira, Qualtrics, Otter.io, Slack, and Google workspace to
 
 **Design Systems:**
 I enjoy collaborating with other designers in Figma, building component libraries using auto-layout and variants.
+
 
 ### My Background
 Before moving into UX design in 2020, I was in creative operations on-site at google and pandora, enabling designers to produce quality work at scale.
@@ -38,7 +39,7 @@ In addition to being a designer, I am also a dog dad, a gaymer, a listener of go
 
 <img src="http://nicholasgiles.com/assets/images/about/annarbor_picture.jpg" alt="Nicholas Giles" />
 <br>
-<figcaption class="caption">Running in Ann Arbor, MI with my dog</figcaption>
+<figcaption class="caption">Running in Ann Arbor, MI with my dog Charlie</figcaption>
 
 ---
 
