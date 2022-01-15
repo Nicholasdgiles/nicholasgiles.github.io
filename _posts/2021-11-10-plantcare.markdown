@@ -27,10 +27,12 @@ I worked on an interaction design project where I researched a domain of interes
 <figcaption class="caption">High-Fidelity Screens</figcaption>
 
 ### Approach
+For this project, I followed the **double-diamond** design framework by beginning with research and deciding upon an area of interest for my design problem.
+
 <img src="http://nicholasgiles.com/assets/images/plantcare/diamond.png" class="bigger-image" alt="Double Diamond Diagram" />
 <figcaption class="caption">Double Diamond Framework</figcaption>
 
-For this project, I followed the double-diamond framework; I began by deciding upon an interaction design problem, then I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain and the people who participate in it. From there, I crafted **personas**, an **empathy map**, and a **journey map**. Then I built **wireframes** and conducted **user enactments** to explore possible solutions. From the user enactment learnings I generated, I was able to narrow in on a core set of features that I included in the design of the **high fidelity prototype**.
+Then, I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain and the people who participate in it. From there, I crafted **personas**, an **empathy map**, and a **journey map**. Then I built **wireframes** and conducted **user enactments** to explore possible solutions. From the user enactment learnings I generated, I was able to narrow in on a core set of features that I included in the design of the **high fidelity prototype**.
 
 ### Cultural Probe
 I conducted a cultural probe in order to learn what motivates people to care for plants and how they feel about plant care. The study was done virtually to ensure safety during the COVID-19 pandemic. In order to mitigate any impact on the data, I created graphical representations of the probe materials to help users get a better feel for what was being asked of them.
