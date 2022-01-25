@@ -121,5 +121,4 @@ Next steps would include recruiting users for usability tests, utilizing the exi
   overflow: hidden;
   color: #fff;"
   onmouseover="this.style.backgroundColor='#000000';this.style.color='#FFFFFF';return true;"
-  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"
-  ><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>
+  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>
