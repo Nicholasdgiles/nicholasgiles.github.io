@@ -6,7 +6,6 @@ layout: page
 <br>
 <br>
 <br>
-<div id="about"></div>
   <section class="list">
   <h3 style="text-align:left; margin-bottom: 40px; font-size: 1.8em; font-weight: 400px; color: #868686;">Hi there 👋🏼,</h3>
   <h3 style="text-align:left; margin-bottom: 40px; font-size: 2em; line-height: 1.6em; font-weight: 400px;">I'm Nicholas, a UX/UI designer focused on <i>interaction design</i> and <i>design systems</i>.</h3>
