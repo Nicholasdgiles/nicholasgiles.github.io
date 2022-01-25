@@ -213,4 +213,3 @@ During the user enactment sessions, users had expressed that they wanted additio
   onmouseover="this.style.backgroundColor='#000000';this.style.color='#FFFFFF';return true;"
   onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"
   ><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>
-</section>
