@@ -182,8 +182,6 @@ There are many aspects of this project that could be improved, but, overall, wor
 
 The implementation of the advanced search and filter features could be greatly improved as well. If we had additional time to iterate on the prototype, I would relocate the advance search features to be directly on the home search screen, as these features are core to the experience of the product. Additionally, the material impact that this information system could have on people's lives is unmeasured and would need to be studied and defined. Additional research would be required to determine second and third order effects on impacted communities.
 
----
-
 <br>
 
 <a href="https://nicholasgiles.com/#case-studies"><button style="pointer-events: auto;
@@ -202,5 +200,4 @@ The implementation of the advanced search and filter features could be greatly i
   overflow: hidden;
   color: #fff;"
   onmouseover="this.style.backgroundColor='#000000';this.style.color='#FFFFFF';return true;"
-  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"
-  ><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>
+  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>

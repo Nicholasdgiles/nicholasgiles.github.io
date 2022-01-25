@@ -59,8 +59,6 @@ Here are some of the trends that I observed during my time on the Pride Places d
 ### Reflection
 The Product Design internship at Pride Places has provided a fast paced, start-up environment where I was able to fully own projects from start to finish. By learning how to collaborate with other designers remotely using Figma, Slack, Jira, and Zoom, I was able to overcome the challenge of completing an internship in a new field during a pandemic. The internship experience has been a success as I met new people, expanded my professional network, learned invaluable UX design skills, and gained a great portfolio piece. I believe specifically the daily, hands-on user experience design work has prepared me for the upcoming school year and my future job.
 
----
-
 <br>
 
 <a href="https://nicholasgiles.com/#case-studies"><button style="pointer-events: auto;
@@ -79,5 +77,4 @@ The Product Design internship at Pride Places has provided a fast paced, start-u
   overflow: hidden;
   color: #fff;"
   onmouseover="this.style.backgroundColor='#000000';this.style.color='#FFFFFF';return true;"
-  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"
-  ><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>
+  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>

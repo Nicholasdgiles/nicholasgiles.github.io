@@ -191,8 +191,6 @@ The high fidelity screens were designed to include a plantcare dashboard, task a
 ### Reflection
 During the user enactment sessions, users had expressed that they wanted additional details on plant moisture levels. For future iterations of Greener, I would look into providing more specific plant moisture measurements and instructions for users. Additionally, manual input of plant care details could be added to allow for more personalized plantcare recommendations, however, it would need to be a compelling user experience in order to entice users to do so. I would start by conducting usability tests with an updated high-fidelity prototype and use those insights to iterate and improve the user experience.
 
----
-
 <br>
 
 <a href="https://nicholasgiles.com/#case-studies"><button style="pointer-events: auto;
@@ -211,5 +209,4 @@ During the user enactment sessions, users had expressed that they wanted additio
   overflow: hidden;
   color: #fff;"
   onmouseover="this.style.backgroundColor='#000000';this.style.color='#FFFFFF';return true;"
-  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"
-  ><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>
+  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>
