@@ -45,6 +45,8 @@ layout: page
   <br>
   <figcaption class="caption">Running in Ann Arbor, MI with my dog Charlie</figcaption>
 
+  <br>
+
   <a href="https://nicholasgiles.com/#case-studies"><button style="pointer-events: auto;
     cursor: pointer;
     background: #ffffff;
