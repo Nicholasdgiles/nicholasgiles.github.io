@@ -193,4 +193,24 @@ During the user enactment sessions, users had expressed that they wanted additio
 
 ---
 
-Check out my other <span class="evidence"><a href="https://nicholasgiles.com/" style="text-decoration: none">case studies</a></span>.
+<br>
+
+<a href="https://nicholasgiles.com/#case-studies"><button style="pointer-events: auto;
+  cursor: pointer;
+  background: #ffffff;
+  border: none;
+  padding: 1.5rem 3rem;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  position: relative;
+  display: inline-block;
+  font-weight: 700;
+  border: 2px solid #000;
+  border-radius: 3rem;
+  overflow: hidden;
+  color: #fff;"
+  onmouseover="this.style.backgroundColor='#000000';this.style.color='#FFFFFF';return true;"
+  onmouseout="this.style.color='#FFFFFF';this.style.backgroundColor='#FFFFFF';return true;"
+  ><span style="  position: relative; mix-blend-mode: difference;">Back</span></button></a>
+</section>
