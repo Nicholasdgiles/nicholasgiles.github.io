@@ -49,13 +49,11 @@ Once I finished creating the heuristic analysis checklist, I rated the severity 
 ### Personas
 Two personas were designed to represent key users for a redesigned Steam mobile application. I included contrasting behavioral characteristics for both of the personas in order to ensure different users' needs would be addressed. The personas include information on users' favorite apps, which helps with understanding mental models and familiar design patterns. The first persona, Alex, focuses on Steam users who have limited income, but ample amount of time to play games with others online.
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.jpg" alt="Steam Redesign Persona" />
-<figcaption class="caption">Persona 1: Alexis Melis</figcaption>
+<br><img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.jpg" alt="Steam Redesign Persona" />
 
 In contrast, the second persona, Tulio, focuses on users who have disposable income, limited time to play, and enjoy gaming with close friends and family.
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/persona2.jpg" alt="Steam Redesign Persona" />
-<figcaption class="caption">Persona 2: Tulio Alvarez</figcaption>
+<br><img src="http://nicholasgiles.com/assets/images/steam_redesign/persona2.jpg" alt="Steam Redesign Persona" />
 
 ### Style Guide
 The design system was created with both of the personas in mind. It utilizes the existing Steam color scheme with an updated selection, including a heavier use of secondary colors. I used eight 20px columns for the mobile grid to ensure spacing is consistent across screens. Cera Pro was the font family that I selected for this redesign, as it is clean, modern and easily readable in dark mode. I utilized icons from the SF Symbols library to ensure iconography is consistent and works well with the operating system's UI elements.
