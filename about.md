@@ -30,7 +30,6 @@ layout: page
   <img src="http://nicholasgiles.com/assets/images/about/pandora_speaking.jpg" alt="Nicholas Giles" />
   <br>
   <br>
-  <br>
   <figcaption class="caption">Community Panel Event at Pandora HQ</figcaption>
 
 
@@ -39,14 +38,12 @@ layout: page
   <img src="http://nicholasgiles.com/assets/images/about/pandora_volunteering.jpg" alt="Nicholas Giles" />
   <br>
   <br>
-  <br>
   <figcaption class="caption">Volunteer event with Project Openhand</figcaption>
 
 
     <p>In addition to being a designer, I am also a dog dad, a gaymer, a practicer of yoga, and an avid runner.</p><br>
 
   <img src="http://nicholasgiles.com/assets/images/about/annarbor_picture.jpg" alt="Nicholas Giles" />
-  <br>
   <br>
   <br>
   <figcaption class="caption">Running in Ann Arbor, MI with my dog Charlie</figcaption>
