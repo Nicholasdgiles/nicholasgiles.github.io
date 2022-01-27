@@ -10,7 +10,6 @@ layout: page
   <h3 style="text-align:left; margin-bottom: 32px; font-size: 1.8em; font-weight: 400px; color: #868686">Hi there 👋🏼,</h3>
   <h3 style="text-align:left; margin-bottom: 32px; font-size: 2em; line-height: 1.6em; font-weight: 400px;">I'm Nicholas, a UX/UI designer focused on <i>interaction design</i> and <i>design systems</i>.</h3>
 
-  <br>
   <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: hsla(0, 0%, 62%, 0.1); width=100%;">📍  UX/UI Designer based in San Francisco, California</div>
   <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: hsla(0, 0%, 62%, 0.1); width=100%;">🎓  Human Computer Interaction-UX at UM</div>
 
