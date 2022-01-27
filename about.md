@@ -15,8 +15,7 @@ layout: page
 
   <br>
   <br>
-  <br>
-  
+
   <br><h3>My Approach</h3>
     <ul>
       <p><li><strong>Inclusive Design:</strong> including users throughout the design process in order to build user-centered solutions that improve people’s lives.</li></p>
