@@ -13,6 +13,10 @@ layout: page
   <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: hsla(0, 0%, 62%, 0.1); width=100%;">📍 <i style="color:#F5F5F5;">...</i>Based in San Francisco, California</div>
   <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: hsla(0, 0%, 62%, 0.1); width=100%;">🎓 <i style="color:#F5F5F5;">...</i>M.S. in Information (UX-HCI) at UM</div>
 
+  <br>
+  <br>
+  <br>
+  
   <br><h3>My Approach</h3>
     <ul>
       <p><li><strong>Inclusive Design:</strong> including users throughout the design process in order to build user-centered solutions that improve people’s lives.</li></p>
@@ -20,10 +24,6 @@ layout: page
       <p><li><strong>Design Systems:</strong> collaborating with other designers in Figma, building scalable component libraries using auto-layout and variants.</li></p>
     </ul>
 
-    <br>
-    <br>
-    <br>
-    
 <br><h3>My Background</h3>
     <p>Before moving into UX design in 2020, I worked in creative operations on-site at Google and at Pandora, enabling designers to produce quality work at scale.</p>
     <br>
