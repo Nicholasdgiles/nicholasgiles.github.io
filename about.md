@@ -20,6 +20,10 @@ layout: page
       <p><li><strong>Design Systems:</strong> collaborating with other designers in Figma, building scalable component libraries using auto-layout and variants.</li></p>
     </ul>
 
+    <br>
+    <br>
+    <br>
+    
 <br><h3>My Background</h3>
     <p>Before moving into UX design in 2020, I worked in creative operations on-site at Google and at Pandora, enabling designers to produce quality work at scale.</p>
     <br>
