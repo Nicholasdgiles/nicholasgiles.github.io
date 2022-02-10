@@ -85,7 +85,6 @@ I then conducted a survey in order to validate the findings I gathered from the 
 - It can be difficult for plant owners to identify plant health. (20.45%)
 - Plant owners would benefit from daily to weekly plant care reminders.
 
-<img src="http://nicholasgiles.com/assets/images/plantcare/question1.png" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" alt="Plantcare Assistant Survey Findings" />
 
