@@ -81,7 +81,6 @@ I then conducted a survey in order to validate the findings I gathered from the 
 - A majority of respondents (76.92%) require support from others with caring for their plants.
     - 29.63% need help with plant care activities
     - 22.23% ask others for information on plant care
-- People enjoy plant care primarily because of the aesthetic (31.58%) & to connect with nature (21.06%)
 - It can be difficult for plant owners to identify plant health. (20.45%)
 - Plant owners would benefit from daily to weekly plant care reminders.
 
@@ -153,12 +152,6 @@ Following the evaluation of the newly brainstormed ideas, I crafted a storyboard
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
 <figcaption class="caption">Storyboard</figcaption>
-
-### System Architecture
-To ensure I would build functional technology, I documented system architecture before moving forward with producing the high fidelity designs.
-
-<img src="http://nicholasgiles.com/assets/images/plantcare/system_architecture.png" alt="Plantcare Assistant Architecture" />
-<figcaption class="caption">System Architecture</figcaption>
 
 ### Style Guide
 
