@@ -58,7 +58,7 @@ In contrast, the second persona, Tulio, focuses on users who have disposable inc
 ### Site Map
 In order to prioritize a selection of core features and screens to redesign, I created a sitemap to document information architecture including page and component hierarchy. I decided to focus on the store and social features for this redesign as these are key areas for improvement in the current Steam application. Future work would involve building out the sitemap to include additional core features such as chat, friends, and edit profile.
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/persona1.jpg" alt="Steam Redesign Persona" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/sitemap.jpg" class="bigger-image" alt="Steam Sitemap" />
 
 ### Style Guide
 The design system was created with both of the personas in mind. It utilizes the existing Steam color scheme with an updated selection, including a heavier use of secondary colors. I used eight 20px columns for the mobile grid to ensure spacing is consistent across screens. Cera Pro was the font family that I selected for this redesign, as it is clean, modern and easily readable in dark mode. I utilized icons from the SF Symbols library to ensure iconography is consistent and works well with the operating system's UI elements.
