@@ -41,7 +41,7 @@ I began by creating a checklist of the heuristics that should be applied, as wel
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/heuristic_checklist.png" alt="Steam iOS Application Audit" class="bigger-image"/>
 <figcaption class="caption">Heuristic Analysis Checklist</figcaption>
 
-Once I finished creating the heuristic analysis checklist, I rated the severity of each issue and brainstormed recommended solutions. This helped create a list of items to address for the redesign, and a priority ranking for each task.
+Once I finished creating the heuristic analysis checklist, I rated the severity of each issue and brainstormed solutions. This helped create a list of recommendations for the redesign, and a priority ranking for each task.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/heuristic_analysis.png" alt="Steam iOS Application Audit" class="bigger-image"/>
 <figcaption class="caption">Severity Rankings & Recommendations </figcaption>
