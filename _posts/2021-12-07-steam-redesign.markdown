@@ -56,7 +56,7 @@ In contrast, the second persona, Tulio, focuses on users who have disposable inc
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/persona2.jpg" alt="Steam Redesign Persona" />
 
 ### Site Map
-In order to prioritize a selection of core features and screens to redesign, I created a sitemap to document information architecture including page and component hierarchy. I decided to focus on the store and social features for this redesign as these are key areas for improvement in the current Steam application. Future work would involve building out the sitemap to include additional experiences such as chat and other social features.
+In order to prioritize a selection of core features and screens to redesign, I created a sitemap to document information architecture including page and component hierarchy. I decided to focus on the game store and item marketplace for this redesign as these are key areas for improvement in the current Steam application. Future work would involve building out the sitemap to include additional experiences such as chat and other social features.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/sitemap.jpg" class="bigger-image" alt="Steam Sitemap" />
 
@@ -66,6 +66,8 @@ The design system was created with both of the personas in mind. It utilizes the
 <br>
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/styleguide.jpg" alt="Steam Redesign Hero Image" />
 <figcaption class="caption">Style Guide</figcaption>
+
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/disclaimer.svg" alt="Accessibility Disclaimer" />
 
 ### Wireframes
 Referencing the heuristic analysis issues and recommendations, I created updated wireframes with UX and UI improvements implemented. Ultimately, I designed eight wireframes that cover a majority of Steam's core features.
