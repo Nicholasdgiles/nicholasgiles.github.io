@@ -56,7 +56,7 @@ In contrast, the second persona, Tulio, focuses on users who have disposable inc
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/persona2.jpg" alt="Steam Redesign Persona" />
 
 ### Site Map
-In order to prioritize a selection of core features and screens to redesign, I created a sitemap to document information architecture including page and component hierarchy. I decided to focus on the store and social features for this redesign as these are key areas for improvement in the current Steam application. Future work would involve building out the sitemap to include additional core features such as chat, friends, and edit profile.
+In order to prioritize a selection of core features and screens to redesign, I created a sitemap to document information architecture including page and component hierarchy. I decided to focus on the store and social features for this redesign as these are key areas for improvement in the current Steam application. Future work would involve building out the sitemap to include additional experiences such as chat and other social features.
 
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/sitemap.jpg" class="bigger-image" alt="Steam Sitemap" />
 
@@ -104,7 +104,9 @@ Eight high-fidelity mobile screens were produced utilizing the updated design co
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/product_hero.jpg" class="bigger-image" alt="Steam Redesign Product Marketing" />
 
 ### Reflection
-Next steps would include recruiting users for usability tests, utilizing the existing Steam product. This would allow me to validate the initial insights I generated from the heuristic analysis. I would first need to build a quick working prototype in order to test with users. Then I would take the learnings I generated and iterate on the high-fidelity designs.
+Due to the accessibility limitations of neumorphic design (ie. not being suitable for low vision and elderly people), allowing for users to be able to switch between normal and neumorphic design mode, similar to dark and light mode, would be an important solution to impliment.
+
+Additional next steps for this project would include recruiting users for usability tests, utilizing the existing Steam product in order to validate the initial insights generated from the heuristic analysis. I would also build a quick working prototype in order to test the redesign with users. Then I would take the learnings I generated to iterate on the high-fidelity designs.
 
 <br>
 
