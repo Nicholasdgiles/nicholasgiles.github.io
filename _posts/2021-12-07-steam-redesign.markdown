@@ -64,10 +64,10 @@ In order to prioritize a selection of core features and screens to redesign, I c
 The design system was created with both of the personas in mind. It utilizes the existing Steam color scheme with an updated selection, including a heavier use of secondary colors. I used eight 20px columns for the mobile grid to ensure spacing is consistent across screens. Cera Pro was the font family that I selected for this redesign, as it is clean, modern and easily readable in dark mode. I utilized icons from the SF Symbols library to ensure iconography is consistent and works well with the operating system's UI elements.
 
 <br>
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/styleguide.jpg" style="max-width:575px;" alt="Steam Redesign Hero Image" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/styleguide.jpg" alt="Steam Redesign Hero Image" />
 <figcaption class="caption">Style Guide</figcaption>
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/disclaimer.svg" alt="Accessibility Disclaimer" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/disclaimer.svg" style="width:575px;" alt="Accessibility Disclaimer" />
 
 ### Wireframes
 Referencing the heuristic analysis issues and recommendations, I created updated wireframes with UX and UI improvements implemented. Ultimately, I designed eight wireframes that cover a majority of Steam's core features.
