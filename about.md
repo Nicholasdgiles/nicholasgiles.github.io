@@ -41,7 +41,7 @@ layout: page
   <figcaption class="caption">Volunteer event with Project Openhand</figcaption>
 
 
-    <p>In addition to being a designer, I am also a dog dad, a gaymer, a practicer of yoga, and an avid runner.</p><br>
+    <p>In addition to being a designer, I am also a dog dad, a gaymer, a practicer of yoga, and an avid trail runner.</p><br>
 
   <img src="http://nicholasgiles.com/assets/images/about/annarbor_picture.jpg" alt="Nicholas Giles" />
   <br>
