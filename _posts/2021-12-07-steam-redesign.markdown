@@ -67,7 +67,7 @@ The design system was created with both of the personas in mind. It utilizes the
 <img src="http://nicholasgiles.com/assets/images/steam_redesign/styleguide.jpg" alt="Steam Redesign Hero Image" />
 <figcaption class="caption">Style Guide</figcaption>
 
-<img src="http://nicholasgiles.com/assets/images/steam_redesign/disclaimer.svg" style="width:575px;" alt="Accessibility Disclaimer" />
+<img src="http://nicholasgiles.com/assets/images/steam_redesign/disclaimer.svg" style="width:56;" alt="Accessibility Disclaimer" />
 
 ### Wireframes
 Referencing the heuristic analysis issues and recommendations, I created updated wireframes with UX and UI improvements implemented. Ultimately, I designed eight wireframes that cover a majority of Steam's core features.
