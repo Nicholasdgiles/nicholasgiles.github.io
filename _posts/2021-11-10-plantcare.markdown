@@ -153,6 +153,12 @@ Following the evaluation of the newly brainstormed ideas, I crafted a storyboard
 <img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
 <figcaption class="caption">Storyboard</figcaption>
 
+### Wireframes
+After developing storyboards, I crafted wireframes that cover the core product experience. The wireframes were made using Google Material Design 3.0 components in Figma. Utilizing Material Design elements allowed me to quickly create wireframes that meet development and accessibility best practices.
+
+<img src="http://nicholasgiles.com/assets/images/plantcare/wireframes.jpg" alt="Plantcare Assistant Wireframes" />
+<figcaption class="caption">Wireframes</figcaption>
+
 ### Style Guide
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/styleguide.png" alt="Style Guide" />
