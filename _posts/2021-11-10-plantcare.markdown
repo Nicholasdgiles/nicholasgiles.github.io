@@ -32,7 +32,7 @@ For this project, I followed the **double-diamond** design framework by beginnin
 <img src="http://nicholasgiles.com/assets/images/plantcare/diamond.png" class="bigger-image" alt="Double Diamond Diagram" />
 <figcaption class="caption">Double Diamond Framework</figcaption>
 
-First, I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain and the people who participate in it. From there, I created **personas**, an **empathy map**, and a **journey map**. To explore possible solutions, I then conducted **user enactments**, documented **userflows**, and built **wireframes**. I was able to narrow in on a core set of features when building the wireframes, which help me with designing a **high fidelity prototype**.
+First, I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain and the people who participate in it. From there, I created **personas**, an **empathy map**, and a **journey map**. To explore possible solutions, I then conducted **user enactments**. From there, I was able to narrow in on a core set of features which I documented via **userflows**. Finally, I built **wireframes** and designed a **style guide** and ultimately a **high fidelity prototype**.
 
 ### Cultural Probe
 I conducted a cultural probe in order to learn what motivates people to care for plants and how they feel about plant care. The study was done virtually to ensure safety during the COVID-19 pandemic. In order to mitigate any impact on the data, I created graphical representations of the probe materials to help users get a better feel for what was being asked of them.
@@ -155,7 +155,7 @@ Following the evaluation of the newly brainstormed ideas, I crafted a storyboard
 
 
 ### Userflow
-I also created an abbreviated userflow to align on a minimum viable product. By focusing on a happy path for the user, I was able to document the primary userflow that would constitution the user experience.
+I also created an abbreviated userflow to align on a minimum viable product. By focusing on a happy path for the user, I was able to document the primary flow that would constitution the user experience.
 <img src="http://nicholasgiles.com/assets/images/plantcare/userflow.svg" alt="Plantcare Assistant Userflow" />
 <figcaption class="caption">Happy Path Userflow</figcaption>
 
