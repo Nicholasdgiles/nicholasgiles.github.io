@@ -32,7 +32,7 @@ For this project, I followed the **double-diamond** design framework by beginnin
 <img src="http://nicholasgiles.com/assets/images/plantcare/diamond.png" class="bigger-image" alt="Double Diamond Diagram" />
 <figcaption class="caption">Double Diamond Framework</figcaption>
 
-Then, I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain and the people who participate in it. From there, I crafted **personas**, an **empathy map**, and a **journey map**. Then I built **wireframes** and conducted **user enactments** to explore possible solutions. From the user enactment learnings I generated, I was able to narrow in on a core set of features that I included in the design of the **high fidelity prototype**.
+I conducted a **cultural probe** and sent out a **survey** in order to gain information on the plantcare domain and the people who participate in it. From there, I crafted **personas**, an **empathy map**, and a **journey map**. Then I conducted **user enactments** and built **wireframes** and to explore possible solutions. Using the wireframes I generated, I was able to narrow in on a core set of features that I included in the design of the **high fidelity prototype**.
 
 ### Cultural Probe
 I conducted a cultural probe in order to learn what motivates people to care for plants and how they feel about plant care. The study was done virtually to ensure safety during the COVID-19 pandemic. In order to mitigate any impact on the data, I created graphical representations of the probe materials to help users get a better feel for what was being asked of them.
@@ -169,6 +169,7 @@ After developing storyboards, I crafted wireframes that cover the core product e
 
 
 ### Style Guide
+The visual design was inspired heavily by plant foilage using subdued colors including heavy green and some browns. I decided to utilize a card system with rounded corners to create a playful feeling. It was important to use ample white space to ensure the app appears clean and organized.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/styleguide.png" alt="Style Guide" />
 <figcaption class="caption">Style Guide</figcaption>
