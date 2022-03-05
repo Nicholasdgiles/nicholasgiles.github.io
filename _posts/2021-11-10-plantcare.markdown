@@ -159,6 +159,10 @@ After developing storyboards, I crafted wireframes that cover the core product e
 <img src="http://nicholasgiles.com/assets/images/plantcare/wireframes.jpg" alt="Plantcare Assistant Wireframes" />
 <figcaption class="caption">Wireframes</figcaption>
 
+<img src="http://nicholasgiles.com/assets/images/plantcare/annotations/1my_plants-annotation.png" alt="Plantcare Assistant Wireframe Annotations" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/annotations/2tasks-annotation.png" alt="Plantcare Assistant Wireframe Annotations" />
+<img src="http://nicholasgiles.com/assets/images/plantcare/annotations/3plant_info-annotation.png" alt="Plantcare Assistant Wireframe Annotations" />
+
 ### Style Guide
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/styleguide.png" alt="Style Guide" />
