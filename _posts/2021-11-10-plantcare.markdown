@@ -153,6 +153,13 @@ Following the evaluation of the newly brainstormed ideas, I crafted a storyboard
 <img src="http://nicholasgiles.com/assets/images/plantcare/plantcare_storyboard.png" alt="Plantcare Assistant Storyboard" />
 <figcaption class="caption">Storyboard</figcaption>
 
+
+### Userflow
+I also created an abbreviated userflow to align on a minimum viable product. By focusing on a happy path for the user, I was able to document the primary userflow that would constitution the user experience.
+<img src="http://nicholasgiles.com/assets/images/plantcare/userflow.svg" alt="Plantcare Assistant Userflow" />
+<figcaption class="caption">Happy Path Userflow</figcaption>
+
+
 ### Wireframes
 After developing storyboards, I crafted wireframes that cover the core product experience. The wireframes were made using Google Material Design 3.0 components in Figma. Utilizing Material Design elements allowed me to quickly create wireframes that meet development and accessibility best practices.
 
