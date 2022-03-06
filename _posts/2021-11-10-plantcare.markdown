@@ -203,7 +203,7 @@ The high fidelity screens were designed to include a plantcare dashboard, task a
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_2.jpg" class="bigger-image" alt="Product Screens 2" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_3.jpg" class="bigger-image" alt="Product Screens 3" />
 
-<div style="max-width: 350px;"><img src="http://nicholasgiles.com/assets/images/plantcare/prototype.gif" alt="Plantcare Assistant Prototype" /></div>
+<div style="max-width: 350px; padding-left: 20px;"><img src="http://nicholasgiles.com/assets/images/plantcare/prototype.gif" alt="Plantcare Assistant Prototype" /></div>
 
 ### Reflection
 During the user enactment sessions, users had expressed that they wanted additional details on plant moisture levels. For future iterations of Greener, I would look into providing more specific plant moisture measurements and instructions for users. Additionally, manual input of plant care details could be added to allow for more personalized plantcare recommendations, however, it would need to be a compelling user experience in order to entice users to do so. I would start by conducting usability tests with an updated high-fidelity prototype and use those insights to iterate and improve the user experience.
