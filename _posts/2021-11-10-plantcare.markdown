@@ -81,7 +81,7 @@ I then conducted a survey in order to validate the findings I gathered from the 
 **Key Findings:**
 <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>A majority of respondents (76.92%) require support from others with caring for their plants including core plantcare activities and troubleshooting plant issues.</div>
 
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>It can be difficult for plant owners to identify plant health. (20.45%)</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners find it difficult to identify plant health. (20.45%)</div>
 
 <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners would benefit from daily to weekly plant care reminders.</div>
 
