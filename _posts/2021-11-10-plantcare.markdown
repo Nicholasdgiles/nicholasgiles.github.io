@@ -74,16 +74,16 @@ From the cultural probe, I generated four high-level research findings:
 <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDFBF7; border-color: #C6D6CE; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners have limited access to plant care communities.</div>
 
 <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDFBF7; border-color: #C6D6CE; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>There are two main ways people help each other with plant care work, outside of core plant care activities (i.e. watering), which are:
-  <br>Motivating, encouraging, and holding each other accountable to do plant care work
-  <br>reminding each other to take care of their plants</div>
+  <br><div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px;">• Motivating, encouraging, and holding each other accountable to do plant care work</div>
+  <br><div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px;">• reminding each other to take care of their plants</div></div>
 
 ### Survey
 I then conducted a survey in order to validate the findings I gathered from the cultural probe, as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I was able to recruit 35 participants and asked them to fill out a 10 question survey on Qualtrics.
 
 **Key Findings:**
 <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDFBF7; border-color: #C6D6CE; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>A majority of respondents (76.92%) require support from others with caring for their plants
-    <br>29.63% need help with plant care activities
-    <br>22.23% ask others for information on plant care</div>
+    <br><div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px;">• 29.63% need help with plant care activities</div>
+    <br><div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px;">• 22.23% ask others for information on plant care</div></div>
 
 <div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDFBF7; border-color: #C6D6CE; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>It can be difficult for plant owners to identify plant health. (20.45%)</div>
 
