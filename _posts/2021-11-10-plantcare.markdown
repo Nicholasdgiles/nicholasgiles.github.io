@@ -79,6 +79,8 @@ From the cultural probe, I generated four high-level research findings:
 I then conducted a survey in order to validate the findings I gathered from the cultural probe, as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I was able to recruit 35 participants and asked them to fill out a 10 question survey on Qualtrics.
 
 **Key Findings:**
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: #EEFEFC; border-color: #51B1A6;>🔍 <i style="color:#51B1A6;">..</i>A majority of respondents (76.92%) require support from others with caring for their plants</div>
+
 - A majority of respondents (76.92%) require support from others with caring for their plants.
     - 29.63% need help with plant care activities
     - 22.23% ask others for information on plant care
