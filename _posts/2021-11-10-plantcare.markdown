@@ -67,7 +67,7 @@ The **Plant Care Day Log** served as a mini diary study, and helped me gain insi
 From the cultural probe, I generated four high-level research findings:
 
 **Key Findings:**
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: hsla(0, 0%, 62%, 0.1); max-width: 350px;">📍 <i style="color:#F5F5F5;">..</i>Based in San Francisco, California</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: #EEFEFC; border-color: #51B1A6;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners often find it difficult to identify plant health.</div>
 - Plant owners often find it difficult to identify plant health.
 - Plant owners are often too busy to take care of their plants.
 - Plant owners have limited access to plant care communities.
@@ -79,7 +79,7 @@ From the cultural probe, I generated four high-level research findings:
 I then conducted a survey in order to validate the findings I gathered from the cultural probe, as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I was able to recruit 35 participants and asked them to fill out a 10 question survey on Qualtrics.
 
 **Key Findings:**
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: #EEFEFC; border-color: #51B1A6;>🔍 <i style="color:#51B1A6;">..</i>A majority of respondents (76.92%) require support from others with caring for their plants</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: #EEFEFC; border-color: #51B1A6;">🔍 <i style="color:#51B1A6;">..</i>A majority of respondents (76.92%) require support from others with caring for their plants</div>
 
 - A majority of respondents (76.92%) require support from others with caring for their plants.
     - 29.63% need help with plant care activities
@@ -207,7 +207,6 @@ The high fidelity screens were designed to include a plantcare dashboard, task a
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_3.jpg" class="bigger-image" alt="Product Screens 3" />
 
 <div style="max-width: 325px; padding-left: 24%; padding-right: 24%;"><img src="http://nicholasgiles.com/assets/images/plantcare/prototype.gif" alt="Plantcare Assistant Prototype" /></div>
-<br><br><figcaption class="caption">Prototype</figcaption>
 <br><br>
 
 ### Reflection
