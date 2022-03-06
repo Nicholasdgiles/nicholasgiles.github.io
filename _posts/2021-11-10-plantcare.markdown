@@ -67,6 +67,7 @@ The **Plant Care Day Log** served as a mini diary study, and helped me gain insi
 From the cultural probe, I generated four high-level research findings:
 
 **Key Findings:**
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; border-radius: 5px; background-color: hsla(0, 0%, 62%, 0.1); max-width: 350px;">📍 <i style="color:#F5F5F5;">..</i>Based in San Francisco, California</div>
 - Plant owners often find it difficult to identify plant health.
 - Plant owners are often too busy to take care of their plants.
 - Plant owners have limited access to plant care communities.
@@ -161,7 +162,7 @@ I also created an abbreviated userflow to align on a minimum viable product. By 
 
 
 ### Wireframes
-After developing storyboards, I crafted wireframes that cover the core product experience. The wireframes were made using Google Material Design 3.0 components in Figma. Utilizing Material Design elements allowed me to quickly create wireframes that meet development and accessibility best practices.
+After developing a storyboard and userflow, I crafted wireframes that cover the core product experience. The wireframes were made using Google Material Design 3.0 components in Figma. Utilizing Material Design elements allowed me to quickly create wireframes that meet development and accessibility best practices.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/wireframes.jpg" alt="Plantcare Assistant Wireframes" />
 <figcaption class="caption">Wireframes</figcaption>
@@ -176,7 +177,7 @@ After developing storyboards, I crafted wireframes that cover the core product e
 
 
 ### Style Guide
-The visual design was inspired heavily by plant foilage using subdued colors including heavy green and some browns. I decided to utilize a card system with rounded corners to create a playful feeling. It was important to use ample white space to ensure the app appears clean and organized.
+The color pallete was inspired by plant foilage and includes green and tan colors. I decided to utilize a card system with rounded corners to create a playful feeling. It was also important to use ample white space to ensure the app appears clean and organized.
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/styleguide.png" alt="Style Guide" />
 <figcaption class="caption">Style Guide</figcaption>
@@ -203,8 +204,8 @@ The high fidelity screens were designed to include a plantcare dashboard, task a
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_2.jpg" class="bigger-image" alt="Product Screens 2" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/product_screens_3.jpg" class="bigger-image" alt="Product Screens 3" />
 
-<div style="max-width: 250px; padding-left: 28%; padding-right: 28%;"><img src="http://nicholasgiles.com/assets/images/plantcare/prototype.gif" alt="Plantcare Assistant Prototype" /></div>
-<figcaption class="caption">Prototype</figcaption>
+<div style="max-width: 325px; padding-left: 24%; padding-right: 24%;"><img src="http://nicholasgiles.com/assets/images/plantcare/prototype.gif" alt="Plantcare Assistant Prototype" /></div>
+<br><br><figcaption class="caption">Prototype</figcaption>
 <br><br>
 
 ### Reflection
