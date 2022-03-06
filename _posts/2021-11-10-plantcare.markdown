@@ -67,23 +67,23 @@ The **Plant Care Day Log** served as a mini diary study, and helped me gain insi
 From the cultural probe, I generated four high-level research findings:
 
 **Key Findings:**
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDF6E6; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners often find it difficult to identify plant health.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners often find it difficult to identify plant health.</div>
 
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDF6E6; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners are often too busy to take care of their plants.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners are often too busy to take care of their plants.</div>
 
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDF6E6; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners have limited access to plant care communities.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners have limited access to plant care communities.</div>
 
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDF6E6; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>People help each other with plant care work outside of core plant care activities (i.e. watering), by motivating, encouraging, reminding, and holding each other accountable to care for their plants.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>People help each other with plant care work outside of core plant care activities (i.e. watering), by motivating, encouraging, reminding, and holding each other accountable to care for their plants.</div>
 
 ### Survey
 I then conducted a survey in order to validate the findings I gathered from the cultural probe, as well as to further dig into plantcare motivations, emotions, and shared responsibilities. I was able to recruit 35 participants and asked them to fill out a 10 question survey on Qualtrics.
 
 **Key Findings:**
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDF6E6; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>A majority of respondents (76.92%) require support from others with caring for their plants including core plantcare activities and troubleshooting plant issues.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>A majority of respondents (76.92%) require support from others with caring for their plants including core plantcare activities and troubleshooting plant issues.</div>
 
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDF6E6; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>It can be difficult for plant owners to identify plant health. (20.45%)</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>It can be difficult for plant owners to identify plant health. (20.45%)</div>
 
-<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #FDF6E6; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners would benefit from daily to weekly plant care reminders.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Plant owners would benefit from daily to weekly plant care reminders.</div>
 
 <img src="http://nicholasgiles.com/assets/images/plantcare/question2.png" alt="Plantcare Assistant Survey Findings" />
 <img src="http://nicholasgiles.com/assets/images/plantcare/question3.png" alt="Plantcare Assistant Survey Findings" />
@@ -128,10 +128,10 @@ After conducting the user enactments, I added all of the notes to an affinity wa
 <br>
 
 **Key Findings:**
-1. Users expect the plantcare assistant to give feedback and confirmation immediately after they water their plants.
-2. Users expect to be able to toggle on & off and customize notifications based on needs and preferences.
-3. Users expect the plantcare assistant to provide some practical and actionable recommendations and instructions regarding their specific plant and what moisture levels mean in regards to the plant itself.
-4. Users would like if the plantcare assistant incorporated additional features (i.e. weather, calendars, and GPS) that would provide more detailed information & personalized plant care recommendations (but there are some concerns regarding privacy for GPS monitoring).
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Users expect the plantcare assistant to give feedback and confirmation immediately after they water their plants.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Users expect to be able to toggle on & off and customize notifications based on needs and preferences.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Users expect the plantcare assistant to provide some practical and actionable recommendations and instructions regarding their specific plant and what moisture levels mean in regards to the plant itself.</div>
+<div style="margin-bottom: 10px; padding-top: 15px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; border-radius: 5px; background-color: #F8F4EA; line-height:1.6em;">🔍 <i style="color:#F5F5F5;">..</i>Users would like if the plantcare assistant incorporated additional features (i.e. weather, calendars, and GPS) that would provide more detailed information & personalized plant care recommendations (but there are some concerns regarding privacy for GPS monitoring).</div>
 
 ### Ideation
 From the user enactment findings, I did another round of brainstorming and sketched out possible design features and solutions.
